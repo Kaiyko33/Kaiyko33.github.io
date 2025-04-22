@@ -4,12 +4,37 @@
   
   
   <entry>
-    <title>1.1随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    <title>1.2课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<p>【判断】</p><ol><li>数据是计算机中对事实、概念或指令等进行描述的一种特殊格式。（√）</li></ol>]]></content>
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于原码和补码的叙述，正确的是（C）<br>A.用原码表示时，数值0有一种表示方式 B.用补码表示时，数值0有两种表示方式 C.数值用补码表示后，加法和减法运算可以统一使用加法器完成 D.将原码的符号位保持不变，数值位各位取反再末位加1，就可以将原码转换为补码</li></ol><p><font color=red face="楷体">tips：A：两种 0000..00和1000..00  B：一种0000..00</font></p><ol start="2"><li><p>若采用9位二进制补码表示十进制整数-128，则其表示形式为（B）<br>A.110000001  B.110000000 C.100000000 D.0100000000</p></li><li><p>评价网络传输速率的单位bps，它相当于（B）<br>A.字节&#x2F;秒 B.位&#x2F;秒 C.千字节&#x2F;秒 D.千位&#x2F;秒</p></li><li><p>若PC机内存中相邻2个字节的内容其十六进制形式为74和51，则它们不可能是（B）<br>A.2个西文字母的 ASCII码 B.1个汉字的机内码 C.1个16位整数 D.一条指令</p></li><li><p>在64位高档微机中，一个字长所占的二进制位数为（D）<br>A.8 B.16 C.32 D.64</p></li><li><p>下列选项中，（D）不是计算机中采用二进制的原因。<br>A.物理器件易找 B.运算规则简单 C.易于物理实现 D.能提高运算精度</p></li><li><p>若计算机采用8位整数补码表示数据，则（D）运算将产生溢出。<br>A.-126 B.-128 C.126 D.128 <font color=red face="楷体">tips：-128~+127</font></p></li><li><p>三个比特的编码可以表示（C）种的不同状态。<br>A.3 B.6 C.8 D.9</p></li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于数制中基数的叙述，正确的有（CD）<br>A.基数可以是正数，也可以是负数对数 B.基数可以是整数，也可以是小数<br>C.二进制的基数是2 D.基数是某数制所包含的数字符号的个数</li></ol><p><font color=red face="楷体">tips：基数只可能是正整数</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】下述表示是正确(-75)BCD&#x3D;001110101，(-75)原&#x3D;11001011。（×）</li></ol><p><font color=red face="楷体">tips：BCD码的表达方式是用4位二进制来表示一个十进制数</font></p><ol start="2"><li>每个西文字通常用8个比特表示，每个汉字至少使用16个比特才能表示，而图像和声<br>音需要更多的比特表示。（√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>采用某种进制表示时，如果3×12&#x3D;40，那么4×15&#x3D;（）。<br><del>112</del></li><li>【⭐】接入WiFi时使用的密钥均为无符号整数，一般用10位十六进制数表示，则其表示范围用十进制表示为（）。<br><del>0~2^40-1</del></li><li>在计算机CPU中，使用了一种称为触发器的双稳态电路来存储比特，1个触发器可以存储（）个比特。<br><del>1</del></li><li>若一个整数的补码表示为FFFFH，则该整数的十进制形式为（）。<br><del>-1</del></li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>1.2随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<p>都是计算题<br>全对</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -36,12 +61,18 @@
   
   
   <entry>
-    <title>1.2课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    <title>4.1课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.1%20%E6%95%B0%E5%AD%97%E9%80%9A%E4%BF%A1%E5%85%A5%E9%97%A8/4.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.1%20%E6%95%B0%E5%AD%97%E9%80%9A%E4%BF%A1%E5%85%A5%E9%97%A8/4.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于原码和补码的叙述，正确的是（C）<br>A.用原码表示时，数值0有一种表示方式 B.用补码表示时，数值0有两种表示方式 C.数值用补码表示后，加法和减法运算可以统一使用加法器完成 D.将原码的符号位保持不变，数值位各位取反再末位加1，就可以将原码转换为补码</li></ol><p><font color=red face="楷体">tips：A：两种 0000..00和1000..00  B：一种0000..00</font></p><ol start="2"><li><p>若采用9位二进制补码表示十进制整数-128，则其表示形式为（B）<br>A.110000001  B.110000000 C.100000000 D.0100000000</p></li><li><p>评价网络传输速率的单位bps，它相当于（B）<br>A.字节&#x2F;秒 B.位&#x2F;秒 C.千字节&#x2F;秒 D.千位&#x2F;秒</p></li><li><p>若PC机内存中相邻2个字节的内容其十六进制形式为74和51，则它们不可能是（B）<br>A.2个西文字母的 ASCII码 B.1个汉字的机内码 C.1个16位整数 D.一条指令</p></li><li><p>在64位高档微机中，一个字长所占的二进制位数为（D）<br>A.8 B.16 C.32 D.64</p></li><li><p>下列选项中，（D）不是计算机中采用二进制的原因。<br>A.物理器件易找 B.运算规则简单 C.易于物理实现 D.能提高运算精度</p></li><li><p>若计算机采用8位整数补码表示数据，则（D）运算将产生溢出。<br>A.-126 B.-128 C.126 D.128 <font color=red face="楷体">tips：-128~+127</font></p></li><li><p>三个比特的编码可以表示（C）种的不同状态。<br>A.3 B.6 C.8 D.9</p></li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于数制中基数的叙述，正确的有（CD）<br>A.基数可以是正数，也可以是负数对数 B.基数可以是整数，也可以是小数<br>C.二进制的基数是2 D.基数是某数制所包含的数字符号的个数</li></ol><p><font color=red face="楷体">tips：基数只可能是正整数</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】下述表示是正确(-75)BCD&#x3D;001110101，(-75)原&#x3D;11001011。（×）</li></ol><p><font color=red face="楷体">tips：BCD码的表达方式是用4位二进制来表示一个十进制数</font></p><ol start="2"><li>每个西文字通常用8个比特表示，每个汉字至少使用16个比特才能表示，而图像和声<br>音需要更多的比特表示。（√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>采用某种进制表示时，如果3×12&#x3D;40，那么4×15&#x3D;（）。<br><del>112</del></li><li>【⭐】接入WiFi时使用的密钥均为无符号整数，一般用10位十六进制数表示，则其表示范围用十进制表示为（）。<br><del>0~2^40-1</del></li><li>在计算机CPU中，使用了一种称为触发器的双稳态电路来存储比特，1个触发器可以存储（）个比特。<br><del>1</del></li><li>若一个整数的补码表示为FFFFH，则该整数的十进制形式为（）。<br><del>-1</del></li></ol>]]></content>
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列有关分组交换网中存储转发工作模式的叙述错误的是（C）<br>A.采用存储转发技术使分组交换机能处理同时到达的多个数据包<br>B.存储转发技术能使数据包以传输线路允许的最快速度在网络中传送<br>C.该工作模式在遇到冲突时采用CSMA&#x2F;CD策略 （<font color=red face="楷体">只有以太网中采用CSMA&#x2F;CD</font>）<br>D.分组交换机的每个端口每发送完一个包才从缓冲区中提取下一个数据包进行发送 </li><li>使用IP地址进行通信时，必须采用统一格式的IP数据报传输数据，下列有关IP数据报的叙述中 ，错误的是（D）<br>A.IP数据报格式由IP协议规定<br>B.IP数据报与各种物理网络数据帧格式无关<br>C.IP数据报包括头部和数据区两个部分<br>D.IP数据报的大小固定为53字节 （<font color=red face="楷体">不固定</font>） </li><li>【⭐】ATM是一种高速分组交换技术，它采用的是（B）方法<br>A.同步工作模式 B.信元交换 C.信息交换 D.可变长分组交换 </li><li>【⭐】人们用手机打电话时语音信号必须数字化之后才能由移动通信网发送给通话方。假设语音信 号数字化时取样频率为8kHZ，量化精度为8位，数据压缩比为4，那么1分钟数字语音的数据量为 （C）<br>A.960KB B.480KB C.120KB D.60KB<br>tips：<font color=red face="楷体">8kHZ×8位&#x3D;64kbps&#x3D;8KBps 8KBps×60&#x2F;4&#x3D;120KB </font></li><li>【题有点老】下列关于 3G 上网的叙还中，错误的是（C）<br>A.我国3G上网有三种技术标难,各自使用专门的上网卡，相互并不兼容<br>B.3G上网属于无线宽带接入方式<br>C.目前3G上网较GPRS及WLAN都快 （<font color=red face="楷体">比GPRS快，但没WLAN快</font>）<br>D.3G上网的覆盖范围较 WLAN 大得多 </li><li>下面关于目前最常用的无线通信信道的说法中，错误的是（D）<br>A.无线电波可用于广播、电视，也可以用于传输数字信号<br>B.利用微波可将信息集中向某个方向进行定向信息传输，以防止他人截取信号<br>C.短波通信不局限于一个小的区域<br>D.短波通信不局限于一个大的区域 （<font color=red face="楷体">短波通信用于远距离通信，应是不局限于一个小区域</font>） </li><li>所谓移动通信是处于移动状态的对象之间的通信，描述中错误的（BD）<br>A.手机是移动通信最具代表性的应用<br>B.我国及欧洲正在广泛使用的GSM 属于第三代移动通信系统 C.集成电路及微处理器技术的快速发展，使得移动通信系统全面进入个人领域<br>D.第二代移动通信系统可以借助Internet进行信息的传递 </li><li>电话交换机是实现（A）交换的典型设备<br>A.电路 B.ATM C.报文 D.分组 </li><li>下列关于通信技术的叙述，错误的是（B）<br>A.光纤通信应在信源与信宿之间进行电&#x2F;光、光&#x2F;电转换<br>B.蓝牙是一种短距离、低成本、高效率的无线通信技术 （<font color=red face="楷体">应为低效率</font>）<br>C.红外线通讯一般局限于一个小区域，并要求发送器直接指向接收器<br>D.局域网中广泛使用的双绞线既可以传输数字信号，也可以传输模拟信号 </li><li>下列关于分组交换技术的叙述，错误的是（A）<br>A.实时性好 （<font color=red face="楷体">需要排队，造成时延</font>） B.数据通信可靠 C.灵活性好 D.传输线路的利用率高 </li><li>【⭐】和通信网络相比，计算机网络最本质的功能是（B）<br>A.数据通信 B.资源共享 C.提高计算机的可靠性和可用性 D.分布式处理 </li><li>以太网的特点之一是使用专用线路进行数据通信，目前以太网使用最多的传输介质是（C）<br>A.同轴电缆 B.无线电波 C.双绞线 D.光纤 </li><li>电缆调制解调技术（Cable MODEM），使用户利用家中的有线电视电缆一边看电视一边上网 成为可能，这是因为它采用了（D）复用技术<br>A.时分多路 B.频分多路 C.波分多路 D.频分多路和时分多路</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】无线电广播中的中波段和短波段都采用调幅方式。 （√） </li><li>分组交换形式必须在数据传输之前，在通信双方之间建立一条固定的物理链路。（×）<br>tips：<font color=red face="楷体">分组交换无需建立固定的物理线路。</font> </li><li>微波是直线传播的，遇到障碍物将影响正常通信。 （√） </li><li>【⭐】调频广播比调幅广播的声音质量好，原因是调频广播的传输频带较宽，且外界信号不会对声音的频率形成干扰（√） </li><li>【⭐】计算机局域网采用频分多路复用技术共享传输介质。 （×）<br>tips：<font color=red face="楷体">局域网内用的是时分多路复用技术。</font> </li><li>采用频分复用技术传输的多路信号一定是模拟信号。 （√） </li><li>分组交换在数据传输之前，通信双方之间建条固定的物理连接线路。 （×）<br>tips：不需要建 </li><li>由于光纤的传输性能已远超过金属电缆，且成本已大幅度降低，因此目前各种通信和计算机网络 的主干传输线路，光纤已全面取代了电缆。 （√） </li><li>在第二代移动通信中“CDMA”是时分多址技术。 （×） （<font color=red face="楷体">是采用码分多址技术的多用户接入技术</font>） </li><li>【⭐】用调制解调器时，只用数字信号而不能用模拟信号对载波进行调制。 （×） </li><li>双绞线是将两根导线按一定规格绞合在一起的，绞合的主要目的是使线缆更坚固和容易安装。 （×）<br>tips：<font color=red face="楷体">目的是降低各线对之间的电磁串扰 </font></li><li>FDM 和TDM是指任意多路信号复合在同一个信道中传输。 （×）<br>tips：<font color=red face="楷体">错在“任意多”，复用路数存在上限，超出极限会产生码间串扰。</font> </li><li>电话MODEM由调制器和解调器两部分组成。调制是指把模拟信号变换为数字信号，解调是指 把数字信号变换为模拟信号。 （×） </li><li>如果一个基站覆盖的区域内因通话手机大过密集而导致频率资源缺乏，解决方法是扩大基站覆盖的区域范围。（×）<br>tips：<font color=red face="楷体">应是增加基站数量 </font></li><li>台式PC机通过 VGA 接口连接投影仪时，VGA接口把输出信号进行调制后送到投影仪，再由投影仪解调后在大屏幕上进行显示。 （×）<br>tips：<font color=red face="楷体">VGA接口不具备调制和解调的功能。PC机通过显卡进行A&#x2F;D转换后，再通过VGA接口传输。</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>计算机通信中数据传输速率单位bps代表（）<br><del>每秒传输的比特流</del></li><li>公用电话网通常采用（）交换技术传输语音信号<br><del>电路</del></li><li>GSM提供了分组交换和分组传输方式的数据业务，称为（）<br><del>GPRS</del></li><li>分组交换技术的基本原理是（）<br><del>存储转发数据包</del></li><li>在计算机网络中，把可能的最大数据传输速率称为（）<br><del>带宽</del></li><li>某用户通过WIFI无线上网，花费了大约十分钟从网上下载了一个40MB大小的文件，其平均数据 传输速率大约为（）Kbps<br>tips：40×1024×1024&#x2F;（10×60）约等于69905B&#x2F;s 69905B&#x2F;s * 8 约等于559240bps 约等于 559Kbps </li><li>在一次数据传输中，共传输了1MB数据，发现8bit出错。则本次传输数据的误码率为10的负 （）次方<br><del>6</del></li><li>目前大多数以太网使用的传输介质是（）<br><del>双绞线</del></li><li>微波通信分（）和（）两种形式。<br><del>地面微波通信</del><br><del>卫星微波通信</del></li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -49,12 +80,18 @@
   
   
   <entry>
-    <title>1.2随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.2%20%E6%95%B0%E5%AD%97%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/1.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    <title>1.1随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<p>都是计算题<br>全对</p>]]></content>
+    <content type="html"><![CDATA[<p>【判断】</p><ol><li>数据是计算机中对事实、概念或指令等进行描述的一种特殊格式。（√）</li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -69,239 +106,11 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li><p>、线宽是集成电路芯片制造中重要的技术指标，目前制造CPU芯片的主流技术中线宽为（B）A.几个微米 B.几个纳米 C.几十个微米 D.几十个纳米</p></li><li><p>集成电路制造工序繁多，从原料熔炼开始到最终产品包装大约需要（D）道工序。<br>A.几  B.几十  C.几百 D.几千 <font color=red face="楷体">tips：最新教材标准</font></p></li><li><p>小规模集成电路的集成对象一般是（C）<br>A.存储器芯片 B.芯片组芯片 C.门电路芯片  D.CPU芯片</p></li><li><p>下列世界知名集成电路设计企业或制造企业中，品牌发源地为中国大陆的是（B）<br>A.TSMIC（台积电） B.HISILICON（海思） C.NVIDIA（英伟达）D.QUALCOMM（高通）</p></li></ol><p><font color=red face="楷体">tips：A：台湾 B：深圳 C：美国 D：美国</font></p><ol start="5"><li>集成电路的主要制造流程是（A）<br>A.硅抛光片——晶圆——芯片——成品测试——集成电路<br>B.晶圆——硅抛光片——成品测试——芯片——集成电路<br>C.硅抛光片——芯片——晶圆——成品测试——集成电路<br>D.硅片——芯片——成品测试——晶圆——集成电路</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>手机SM卡的中文名称是用户身份识别卡，用于确认手机用户的身份，可存储用户身份数据、短信和电话号玛等。下列相关叙述中，正确的是（ABC）<br>A.SIM 卡的尺寸有标准卡、 Micro SIM 卡和 Nano SIM 卡等几种类型<br>B.个人识别码 PIN 和解锁码 PK用于保护 SIM卡&#x2F;手机，以防他人盗用<br>C.SIM卡的数据存储器便于用户可以在于机之间移动其账户、短消息和电话号码簿等<br>D.SIM 卡就是一种存储器卡，它不可对用户通话时的语音信息进行加密等处理</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>制作相同电路的集成电路芯片中，集成度越高的芯片其体积就越大。（×）</li></ol><p><font color=red face="楷体">tips：越小</font><br>2. 目前PC机所使用的集成电路都属于大规模集成电路。（×）<br><font color=red face="楷体">tips：是超大规模集成电路</font><br>3. 非接触式IC卡中自带电池供电，以实现数据读写。（×）<br><font color=red face="楷体">tips：无线方式供电</font><br>4. 尺寸相同的集成电路芯片中，集成度越高的芯片其工作速度越快。（√）<br><font color=red face="楷体">tips：集成度越高说明晶体管的尺寸越小</font></p>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>1.3随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.3%20%E5%BE%AE%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/1.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.3%20%E5%BE%AE%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/1.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列说法错误的是（B）<br>A.IC的制造过程大多采用硅平面工艺<br>B.当前计算机内存储器使用的是一种具有信息存储能力的磁性材料<br>C.当前计算机的CPU通常由数千万到数亿晶体管组成<br>D.雷达的精确定位和导航、巡航导弹的图像识别等，都使用微电子技术实现</li></ol><p><font color=red face="楷体">tips：内存的存储材质是电容器，外存使用的才是磁性材质</font></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.1课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列不属于个人计算机范围的是（D）<br>A.台式机 B.便携机 C.工作站 D.服务器 </li><li>最能准确反映计算机的主要功能的说法是（C）<br>A.代替人的脑力劳动 B.存储大量信息 C.信息处理机 D.高速度运算 </li><li>下列表述中，错误的是（D）<br>A.计算机的机器字长是指数据运算的基本单位<br>B.软件的功能和硬件的功能在逻辑上是等效的<br>C.实现相同的功能，硬件一般比软件具有更高的执行速度<br>D.软件的功能不能用硬件替代 </li><li>UPS是指（B）<br>A.大功率稳压电源 B.不间断电源 C.用户处理系统 D.联合处理系统 </li><li>下面关于微型计算机的发展方向的描述不正确的是（D）<br>A.高速化、超小型化 B.多媒体化 C.网络化 D.家用化<font color=red face="楷体">（已家用化）</font> </li><li>微处理器是很多设备的关键部件。下列部件中一般没有微处理器的是（C）<br>A.显卡 B.手机 C.SD卡 D.鼠标 </li><li>在计算机领域中，媒体是指（D）<br>A.各种信息的编码 B.计算机的输入输出信息 C.计算机屏幕显示的信息 D.表示和传播信息的载体 </li><li>计算机用于解决科学研究与工程计算中的数学问题，称为（A）<br>A.数值计算 B.数学建模 C.数据处理 D.自动控制 </li><li>计算机与其他工具和人类自身相比，具有哪些主要特点（A）<br>A.速度快、精度高、通用性 B.速度快、自动化、专门化 C.精度高、小型化、网络化 D.以上全是 </li><li>下面（D）不属于计算机应用领域中人工智能的范畴<br>A.计算机博弈 B.专家系统 C.机器人控制 D.计算机辅助教学<font color=red face="楷体">（属于辅助技术应用领域）</font></li><li>世界上首先实现存储程序的电子数字计算机是（C）<br>A.ENIAC B.UNIVAC C.EDVAC D.EDSAC </li><li>在电脑控制的家电电器中，有一块用于控制家电电器工作流程的大规模集成电路芯片，它把处理器、存储器、输入&#x2F;输出接口电路等都集成在一起，这块芯片是（C）<br>A.芯片组 B.内存条 C.嵌入式计算机 D.ROM </li><li>长期以来，人们都按照计算机主机所使用的元器件为计算机划代，安装了Core系统处理器的个 人计算机属于（B）计算机<br>A.第五代 B.第四代 C.第三代 D.第二代 </li><li>从计算机外部获取信息的设备称为（C）<br>A.读写设备 B.外存储器 C.输入设备 D.输出设备 </li><li>下面关于个人计算机的叙述中正确的是（D）<br>A.个人计算机属于个人使用，一般不能多人同时使用<br>B.个人计算机价格较低，性能不高，一般不应用于工作（商用）领域<br>C.目前PC机中广泛使用的微处理器是Pentium系列<br>D.Intel公司是国际上研制和生产微处理器最有名的公司</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>CPU、内存、总线等构成了计算机的主机，外存储器、输入&#x2F;输出设备通常称为计算机的外设 （√）<br>tips：<font color=red face="楷体">总线可以算在主机范畴内 </font></li><li>当前计算机中使用的集成电路绝大部分是模拟电路 （×）<br>tips：<font color=red face="楷体">是数字电路</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>计算机系统的发展趋势是越来越（）化。<br><del>智能</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.1随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】 当前，在计算机应用方面已进入以（D）为特征的时代<br>A.并行处理技术 B.分布式系统 C.微型计算机 D.计算机网络 </li><li>在计算机硬件的五个组成部分中，唯一一个能向控制器发送数据流的是（D）<br>A.输入设备 B.输出设备 C.运算器 D.存储器 </li><li>计算机系统中，既可用作输入设备又可用作输出设备的是（B）<br>A.键盘 B.硬盘 C.打印机 D.显示器 </li><li>客户&#x2F;服务器模式的局域网，其网络硬件主要包括服务器、工作站、网卡和（C）<br>A.网络拓扑结构 B.计算机 C.传输介质 D.网络协议 </li><li>某高性能台式电脑整机的配置为：i5-8400&#x2F;8G&#x2F;128GSSD+1T&#x2F;2G独显，其中2G为（D）<br>A.GPU频率 B.内存容量 C.外存容量 D.显存容量 </li><li>【⭐】计算机的应用可以分为几个层次，相对于计算机系统而言它们是（B）<br>A.计算机操作，文字录入等<br>B.科学计算、数据处理、辅助技术、工业控制<br>C.硬件维修，连接处理<br>D.操作系统、软件编程、系统开发</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列叙述中，正确的是（BCD）<br>A.内存容量是指微型计算机硬盘所能容纳信息的字节数<font color=red face="楷体">（是指内存条所能容纳信息的字节数） </font><br>B.微处理器的主要性能指标是字长和主频<br>C.微型计算机应避免强磁场的干扰<br>D.微型计算机机房湿度不宜过大</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>计算机硬件和软件是计算机系统中两个完全独立的组成部分。（×）</li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.2课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>CPU在执行指令的过程中，会自动修改（B）的内容，以使其保存的总是将要执行的下一条指令 的地址。<br>A.指令寄存器 B.程序计数器 C.地址寄存器 D.指令译码器 tips：<font color=red face="楷体">指令计数器的别称：程序计数器 </font></li><li>下列关于平板电脑的叙述，错误的是（D）<br>A.目前平板电脑的操作系统主要有iOS、Android和Windows等<br>B.大多数平板电脑采用ARM处理器<br>C.目前用户无法通过拓展槽更换或扩充平板电脑的内存<br>D.平板电脑CPU与PC机的CPU的性能处在同一水平（<font color=red face="楷体">后者性能更强</font>） </li><li>下面关于微处理器的叙述中，不正确的是（B）<br>A.微处理器通常以单片集成电路制成<br>B.它具有运算和控制功能，但不具备数据存储功能<br>C.目前PC中使用最广泛的CPU使Intel公司的Core系统微处理器<br>D.当前智能手机中的CPU大多采用英国ARM公司的ARM处理器架构<br>tips：<font color=red face="楷体">寄存器具备数据临时存储功能</font> </li><li>【⭐】CPU的系统时钟以及各种与其同步的时钟由（A）提供<br>A.芯片组 B.CPU芯片 C.主板电源 D.电池芯片 </li><li>下列关于CPU 的叙述，错误的是（A）<br>A.CPU中指令计数器的作用是统计已经执行过的指令数目 B.CPU所能执行的全部指令的集合称为该CPU的指令系统 C.CPU中含有若干寄存器<br>D.时钟频率决定着CPU芯片内部数据传输与操作速度的快慢 </li><li>Core i7 处理器中的Cache是用SRAM 组成的一种高速缓冲存储器，其作用是（A）<br>A.发挥CPU的高速性能 B.扩大主存储器的容量 C.提高数据存取的安全性 D.提高与外部设备交换数据的速度 </li><li>【⭐】为解决某一特定问题而设计的指令序列称为（C）<br>A.文档 B.语言 C.程序 D. 系统 </li><li>微型计算机中，控制器的基本功能是（D）<br>A.进行算术运算和逻辑运算 B.存储各种数据和信息 C.保持各种控制状态 D.控制机器各个部件协调 一致地工作 </li><li>在PC机中CPU读写RAM的最小数据单位是（B）<br>A.1个二进制位 B.1个字节 C.1个字 D.1一个扇区 </li><li>下列哪一项为衡量微型计算机性能的主要指标（C）<br>A.所用操作系统的类型 B.字长 C.微处理器的型号 D.所用的电子元件</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>影响个人计算机系统功能的因素除了系统使用哪种位的微处理器外，还有CPU的时钟频率、 CPU主内存容量、CPU所能提供的指令集 （√） </li><li>现代计算机采用的是冯·诺依曼提出的存储程序控制思想，科学家们正在研究的生物计算机 采用非冯·诺依曼结构 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>CPU中用于分析指令操作码以确定需要执行什么操作的部件是指令（）部件。<br><del>译码</del></li><li>某处理器为了提高处理速度，它既有处理整数的定点运算器，也有处理（）的浮点运算器 。<br><del>浮点数</del></li><li>【⭐】为了克服主存储器速度比CPU慢得多的缺点，CPU中增加了数据快存和（）快存两个高速存储器。<br><del>指令</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.2随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<p>无</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.3课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>若某台计算机没有硬件故障，也没有被病毒感染，但执行过程时总是频繁读写硬盘，造成系统运 行缓慢，则首先要考虑的是给计算机扩充（A）<br>A. 内存 B.硬盘 C、寄存器 D. CPU </li><li>CMOS 设置程序允许用户将系统（A）的信息进行修改。<br>A.硬件配置 B.软件配置 C.原始 D.当前 </li><li>计算机中用于在I&#x2F;O设备与内存之间传输数据的部件（传输线路及其控制器）称为I&#x2F;O总线。下列 有关 I&#x2F;O总线的叙述中，错误的是（A）<br>A.与PCI总线相比，PCI-E插座的针脚数目大为增加，从而增加了 PCI-E 设备的体积和成本<br>B.PC 使用的I&#x2F;O总线经历了多次技术演变，现在广泛使用的是第3代 PCI-Express（简称 PCI E）总线<br>C.PCI-E总线是PCI总线的改进，它采用高速串行传输方式进行数据的传输<br>D.除了数据传输速率高的优点之外，PCI-E也支持高级电源管理和热插拔 </li><li>【⭐】下列存储器中用于存储显示屏上像素颜色信息的是（D）<br>A.ROM B. Cache C.DRAM D.VRAM </li><li>计算机数据总线的宽度将主要影响到计算机的（C）<br>A.指令数量 B.存储容量 C.运算速度 D.计算机字的长度 </li><li>【⭐】启动计算机并成功加载操作系统之后，下面的（A）程序还没有装入主存储器<br>A.编译系统 B.设备驱动 C.文件管理 D.网络通信 </li><li>【⭐】I&#x2F;O设备接口定义了连接设备的插头插座形式、电气特性及（B）<br>A.指令类型 B.通信规程 C.设备数量 D.I&#x2F;O操作种类 </li><li>下列I&#x2F;O设备中，（C）是输入设备<br>A.显示器和打印机 B.键盘和绘图仪 C.数字化仪和扫描仪 D.鼠标和数模转换器（<font color=red face="楷体">数模转换器的作用 和数字化仪相反</font>） </li><li>计算机启动时，引导程序在对计算机系统进行初始化后，把（A）程序装入主存储器<br>A.操作系统核心部分 B.系统功能调用 C.编译系统 D.服务性程序 </li><li>一个<font color=red face="楷体">DDR SDRAM</font>的数据通路的宽度为8个字节，存储器总线的时钟频率为133MHz，则该存 储器的带宽为（B）<br>A.2.128Gb&#x2F;s B.2.128GB&#x2F;s C.1.064GB&#x2F;s D.1.064Gb&#x2F;s </li><li>若台式PC机需要插接网卡，则网卡应插入PC机主板上的（B）内<br>A.内存插槽 B.PCI总线扩展槽 C.AGP插槽 D.IDE插槽</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>芯片组一般由北桥芯片和南桥芯片组成，其中南桥芯片连接的器件有（ABD）<br>A.BIOS B.CMOS C.显卡 D.硬盘接口 </li><li>以下关于cache的叙述中，正确的是（BC）<br>A.cache和主存都用半导体芯片作为存储介质，因此它们的存取速度相差不大<br>B.在程序中不能用数据传送指令读出cache中某个单元中存储的内容<br>C.cache存储容量的大小对计算机运算速度会产生影响<br>D.只有将一个程序的全部指令从内存装入cache才能在CPU中运行该程序</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>改进芯片组的设计可有效提高CPU运算器的速度。 （×） </li><li>【⭐】一个存取速度为70ns的主存储器，读出数据的时间是70ns，但写入数据的时间远远大于 70ns。（√） </li><li>【⭐】RAM是随机存取存储器的缩写，其中“随机”的含义是：不论从（向）哪个地址读出或写 入数据，所需时间都是相同的。（×） </li><li>【⭐】Cache存储器的存取速度比主存储器快得多。因此，为了提高程序的运算速度，在编程时应 尽可能多地使用Cache存储器。（×） tips：<font color=red face="楷体">要考虑各种因素，如是否会导致系统的使用资源减少</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在PC机中，键盘、鼠标、显示器、硬盘等常用设备的驱动程序通常存储在（）中。<br><del>BIOS ROM</del></li><li>安装或维护操作系统时，计算机有时需要由光盘启动，在此之前的准备工作是改变系统启动时访问外存储器的顺序，这时应在（）中进行设置。<br><del>BIOS</del></li><li>【⭐】字长是指计算机（CPU内部各存储器）之间一次能够传递的数据位，位宽是CPU通过外据 总线与（）之间一次能够传递的数据位。<br><del>外部设备</del></li><li>近些年开始流行一种（SATA）硬盘接口（写英文名称），它以高速串行的方式传输数据，传输 速率达到150MB&#x2F;s~300MB&#x2F;s，可用来连接大容量高速硬盘，目前已被广泛使用。<br><del>SATA</del></li><li>【⭐】显卡与CRT或液晶显示器之间的视频输出接口有DVI、VGA和HDMI等几种，通常用得最 多的是（VGA）接口，它采用模拟信号传输R、G、B三基色的亮度信息。<br><del>VGA</del></li><li>现代计算机主要用（）作为内存储器的存储介质。<br><del>半导体芯片</del></li><li>【⭐】微型计算机的内部存储器按其功特征能可分为三类：（）、（）、（）。<br><del>随机存取存储器</del><br><del>只读存储器</del><br><del>高速缓冲存储器</del></li><li>IEEE 1394接口又称为FireWire，用于连接高速传输大量数据的（）设备。<br><del>音视频</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.3随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>PC机主板上安装了多个插座和插槽，下列（C）不在PC机主板上<br>A.CPU插座 B.内存条插槽 C.芯片组插座 D.PCI（PCI-E）总线扩展槽<br>tips：<font color=red face="楷体">芯片组不需要插座安装，集成在主板上</font> </li><li>在PC机中，存储器容量是以（A）为最小单位计算的<br>A.字节 B.帧 C.位 D.字</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>当内存储器的容量为512MB时，若首地址的十六进制表示为0000000H，则末地址的十六进制 表示为（）H。<br><del>1FFFFFFF</del><br>tips：<font color=red face="楷体">存储容量&#x3D;末地址-首地址+1 则末地址&#x3D;存储容量+首地址-1 512MB&#x3D;2的29次方B 转换为二进制：10000…000（29个0） 转换为十六进制为：20000000H 末地址&#x3D;20000000H+0000000H-1&#x3D;1FFFFFFFH</font></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.4~2.5课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>目前使用较广泛的打印机有针式打印机、激光打印机和喷墨打印机。其中（D）在打印票据方面 具有独特的优势，（）在彩色图像输出设备中占绝对优势。<br>A.针式打印机、激光打印机 B.喷墨打印机、激光打印机 C.激光打印机、喷墨打印机 D.针式打印机 、喷墨打印机 </li><li>显示器是计算机必备的输出设备，下列关于计算机显示器的叙述中，错误的是（C）<br>A.显示器主要有 CRT、LCD 显示器两大类<br>B.显示控制器用于控制 CRT 或 LCD 的工作<br>C.目前有些计算机已不需要显卡，CRT或LCD中已包括显卡的功能<br>D.显卡就是显示控制器 </li><li>在微机系统中，对输入输出设备进行管理的基本程序是放在（C）<br>A.RAM中 B.ROM中 C.硬盘上 D.寄存器 </li><li>【⭐】日常生活中用来打印票据的针式打印机，打印时每一次击打动作将打印（A）<br>A.一个字符字型信息中的一列或二列<br>B.一个字符字型信息中的一行或二行<br>C.一个字符的完整字形信息<br>D.一行字符，字符的具体个数由页面设置决定<br>tips：<font color=red face="楷体">针式打印机的针头是一列列打印的</font> </li><li>某显示器的最高分辨率为1024×1024，可显示的不同颜色的总数为65536种，则显示存储器中 用于存储图像的存储容量是（B）<br>A.0.5MB B.2MB C.1MB D.16MB<br>tips：1024×1024×16&#x2F;8&#x2F;1024&#x2F;1024&#x3D;2MB </li><li>以下打印机中，需要安装色带才能在打印机上印出文字的是（D）<br>A.激光打印机 B.喷墨式打印机 C.滚筒式打印机 D.针式打印机 </li><li>打印机可分为针式打印机、激光打印机、热敏打印机和喷墨打印机，其中激光打印机的特点是 （A）<br>A.高精度、高速度 B.可方便地打印票据 C.可低成本地打印彩色页面 D.比喷墨打印机便宜<br>tips：<font color=red face="楷体"></font><font color=red face="楷体">B说的是针式 C说的是喷墨</font> </li><li>下列（D）接口从未用于鼠标与主机的连接<br>A.PS&#x2F;2 B.USB C.RS-232 D.SCSI </li><li>以下打印机中，需要安装硒鼓才能在打印机上印出文字和图案的是（A）<br>A.激光打印机 B.喷墨打印机 C.热敏打印机 D.针式打印机 </li><li>【⭐】显示器的一个主要技术指标是分辨率，要能显示出正常的视频图像，分辨率至少在（A）之上<br>A.640×480 B.800×600 C.1024×768 D.无所谓 </li><li>下列输入设备中功能和性质不属于同一类的是（D）<br>A.鼠标器 B.触摸屏 C.轨迹球 D.手持式扫描仪<br>tips：<font color=red face="楷体">ABC都是控制指针移动</font></li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于打印机的叙述，正确的是（ABC）<br>A.9针打印机的打印头由9根钢针组成<br>B.碳粉&#x2F;硒鼓是激光打印机的主要耗材<br>C.喷墨打印机与激光打印机的打印速度均用每分钟打印的页数来度量<br>D.目前激光打印机均为黑白打印机，而喷墨打印机均为彩色打印机 </li><li>现有4GB的视频文件需要存储在一个存储介质中，通常可采用的有（BCD）<br>A.CD光盘 （<font color=red face="楷体">600MB~700MB</font>） B.DVD光盘 C.移动硬盘 D.优盘 </li><li>下列和硬盘存储容量相关的有（AB）<br>A.磁头数 B.磁道（柱面）数 C.硬盘的尺寸 D.平均存取时间 tips：<font color=red face="楷体">硬盘容量&#x3D;磁头数×柱面数×扇区数×每扇区字节数</font></li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>手机中的微型电动马达在用户开&#x2F;关手机、虚拟键盘输入、电话来点通知等场合，会产生力反馈使 手机振动，提醒用户知晓，本质上这个设备属于输出设备。 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>PC机配置的键盘触感好、操作省力，从按键原理来说属于（）式键盘。<br><del>电容</del></li><li>在计算机上用于衡量VCD光盘驱动器传输数据速率的指标叫做（），一倍速率为 （）。<br><del>倍速</del><br><del>150KB&#x2F;s</del></li><li>在平板电脑、智能手机等数码产品上广泛使用的一种输入&#x2F;输出设备是（）。<br><del>触摸屏</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.4~2.5随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于数码相机的叙述，错误的是（D）<br>A.数码相机是一种图像输入设备<br>B.数码相机的镜头与快门与传统相机基本相同<br>C.数码相机采用CCD或CMOS芯片成像<br>D.数码相机的存储容量越大，可存储的相片数量就越多（<font color=red face="楷体">还和单个图像的数据量有关</font>） </li><li>显示卡能够处理的视频信号可来自（B）<br>A.显示器 B.视频卡 C.CPU D.扬声器 </li><li>显示器是PC不可缺少的一种输出设备，PC通过显示控制卡（显卡）控制其工作。在下面关于 PC显卡的叙述中，正确的是（C）<br>A.显卡与液晶显示器的连接大多采用PCI-E接口（<font color=red face="楷体">是VGA、DVI、HDMI</font>）<br>B.目前显卡可支持的分辨率大多达到1024×768，但可显示的颜色数目还不超过65536种（<font color=red face="楷体">分辨率不止这些，颜色数目也已超过</font>）<br>C.显示屏上显示的信息预先都被保存在显示存储器中，在显卡的控制下一帧帧地送到屏幕上进行显示<br>D.独立显卡与主机的接口大多是USB3.0（<font color=red face="楷体">PCI-E×16</font>）</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>数字摄像机是一种离线的数字视频获取设备。 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>若一台显示器中R、G、B<font color=red face="楷体">分别</font>用3位二进制数来表示，那么它可以显示（）种不同的颜色。<br><del>512</del></li><li>打印机的性能指标主要包括打印（）、打印速度、色彩数目和打印成本等。<br><del>精度</del></li><li>显卡与CRT或液晶显示器之间的视频输出接口有DVI、VGA、HDMI等几种，通常用的最多的是（）接口，它采用<font color=red face="楷体">模拟信号</font>传输R、G、B三基色的亮度信息。<br><del>VGA</del></li><li>【⭐】从技术角度考虑，激光打印机是激光技术与（）技术相结合的产物。<br><del>复印</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.6课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>一CD盘片存储立体声高保真全频带数字音乐可播放一小时，数据量约（B）<br>A.800MB B.635MB C.400MB D.1GB<br>tips：<font color=red face="楷体">固定概念，约650MB </font></li><li>【⭐】智能手机扩展存储卡一般是（C）<br>A.SD B.SSD C.Micro SD(TF) D.MS(Memory Stick) </li><li>以下关于硬盘得逻辑结构说法不正确的是（C）<br>A.每个盘片有两个面，这两个面都是用来存储数据的。<br>B.随着读写磁头沿着盘片半径方向上下移动，每个盘片被划分成若干个同心圆磁道。<br>C.磁道被划分成若干个段，每个段称为一个扇区。扇区的编号是按0，1，……顺序进行的。<br>D.硬盘柱面、磁道、扇区的划分表面上是看不到任何痕迹的。 tips：<font color=red face="楷体">超纲知识：磁道和柱面的编号从0开始，但扇区编号从1开始 </font></li><li>闪速存储器Flash Memory本质上属于（A）<br>A.普通ROM B.PROM C.EPROM D.EEPROM </li><li>在国际标准化组织制定的标准中，VCD影碟采用的压缩编码标准是（B）<br>A.H261 B.MPEG-1 C.MPEG-2 （<font color=red face="楷体">DVD的标准</font>） D.MPEG-4 </li><li>计算机从磁盘上取数据，称为（B）<br>A.输出 B.读盘 C.写盘 D.录入 </li><li>以下硬盘的主要性能指标中，最能体现硬盘整体性能的是（D）<br>A.转速 B.外部数据传输速率 C.cache容量 D.内部数据传输速率 </li><li>以下关于VCD和DVD的叙述，正确的是（C）<br>A.DVD和VCD相比，压缩比高，因此画面质量不如VCD（<font color=red face="楷体">DVD画面质量比VCD好</font>）<br>B.CD是小型光盘的英文缩写，最早应用于数字音响领域，代表产品是DVD<br>C.DVD影碟采用MPEG-2视频压缩标准<br>D.VCD采用模拟技术存储视频信息，而DVD则采用数字技术存储视频信息（<font color=red face="楷体">都用数字技术</font>） </li><li>【⭐】在目前技术条件下，CD-RW盘片平均可擦写次数大约为（C）次<br>A.1<del>100 B.100</del>500 C. 1000<del>2000 D.10000</del>20000 </li><li>CD-RW光盘的物理结构由若干层组成，其中用于记录信息的是（C）<br>A.保护层 B.印刷层 C.有机染料层和反射层 D.聚碳酸酯衬垫层 </li><li>【⭐】在计算机的日常维护中，对磁盘应定期进行碎片整理，其目的是（A）<br>A.提高计算机的读写速度 B.防止数据丢失 C.增加磁盘可用空间 D.提高磁盘的利用率</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下面关于 DVD 光盘的说法中正确的是（BCD）<br>A.DVD-ROM 是限写一次可读多次的 DVD 盘<br>B.DVD-RAM 是可多次读写的 DVD 光盘<br>C.DVD 光盘的光道间距比 CD 光盘更小<br>D.读取 DVD 光盘时，使用的激光波长比 CD 更短</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>CD-RW光盘记录信息是采用在盘上压制凹坑的办法完成的。 （×）<br>tips：<font color=red face="楷体">是采用相变材料的技术</font> </li><li>目前DVD光驱采用的激光为红色激光或蓝色激光。 （×）<br>tips：<font color=red face="楷体">注意为DVD 而不是DVD或BD </font></li><li>闪存盘也称为“优盘”，它采用的是Flash存储器技术。 （√） </li><li>磁盘是计算机中一种重要的外部设备，没有磁盘，计算机就无法运行。 （×）<br>tips：<font color=red face="楷体">可用光盘</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>PC机上使用的外存储器主要有：硬盘、优盘、移动硬盘和（），它们所存储的信息在断电后不会丢失。<br><del>存储卡</del></li><li>硬盘工作时，磁盘盘片告诉旋转所带动的气流将盘片上的（）托起，它负责盘片上数据的写入或读出。<br><del>磁头</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>2.6随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>硬盘是基于（A）的存储器。<br>A.电磁原理 B.光电原理 C.半导体器件 D.以上都不是 </li><li>【<font color=red face="楷体">本题过于老旧</font>】以下关于硬盘的说法中错误的是（B）<br>A.平均访问时间表示在硬盘上找到数据所在扇区所需要的平均时间<br>B.将数据暂存在主板的高速缓存中，可以提高<em>硬盘</em>与 CPU 交换数据的速度<br>C.当前流行的 IDE 硬盘一般采用 Ultra ATA 接口<br>D.IDE是指把控制电路与盘体集成在一起的硬盘驱动器，这样做使数据传输的可靠性得到了增强 </li><li>【⭐】某人计算机的硬盘容量为500G，内容容量为4G，则其虚拟存储器的最大空间有可能为 （C）<br>A.4G B.500G C.8G D.不受限制<br>tips：<font color=red face="楷体">操作系统默认设置虚拟内存文件的大小为物理内存的两倍。 </font></li><li>U盘或者SD存储卡处于写保护状态时，其中记录的信息（C）<br>A.绝对不会丢失<br>B.不能删除，但能追加新信息<br>C.不能通过写操作进行修改<br>D.不能以常规方式删除，但可以通过格式化命令擦除</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>硬盘中半径不同的两个磁道上所有扇区能存储的数据量相同。 （√）<br>tips：<font color=red face="楷体">每个扇区的容量一般为512B或4KB（容量超过2TB的硬盘），与扇区的面积无关。 </font></li><li>在一台已感染病毒的计算机上读取一张CD-ROM中的数据，该光盘也有可能被病毒感染。 （×）<br>tips：<font color=red face="楷体">CD-ROM无法写入，所以不会被感染。 </font></li><li>有些U盘的角上有一个小口，当滑动保护片将其盖住时，U盘就不能进行读写操作了。 （×）<br>tips：<font color=red face="楷体">这个小口是写保护口，开启后无法写入，但仍旧可以读取。</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>【⭐】DVD驱动器在读取单片双层DVD光盘时，使用（）种不同的焦距。<br><del>2</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.1课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>使用黑盒测试方法进行软件测试时，其测试用例应就（D）进行设计。<br>A.程序的内部逻辑 B.程序的复杂程度 C.程序的判定语句 D.程序的功能 </li><li>下面全部属于数据库管理系统的软件是（B）<br>A.FoxBase、Access、SQLServer、UNIX<br>B.FoxBase、SQLServer、Access、Foxpro<br>C.FoxBase、SQLServer、Access、Excel<br>D.FoxBase、MySQL、SQLSerer、BASIC </li><li>下列软件中属于系统软件的是（C）<br>A.财务管理软件 B.销售系统软件 C.C语言编译程序 D.Word字处理软件 </li><li>【⭐】关于计算机软件的说法中，（A）是正确的。<br>A.利用“软件工程”的理念与方法，可以编制高效高质的软件<br>B.“软件危机”的出现是因为计算机硬件发展严重滞后<br>C.用软件语言编写的程序都可直接在计算机上执行<br>D.操作系统是20世纪80年代产生的 </li><li>以下对计算机软件与硬件关系的描述中，不正确的是（A）<br>A.硬件功能无法用软件实现<br>B.硬件是软件的基础<br>C.计算机系统由硬件与软件组成<br>D.软件是硬件功 能的扩充</li></ol><p><font color=red face="楷体">tips：A选项：虚拟化技术、GPU加速技术 都可实现</font><br>6. 下列有关智能手机等设备及其软件运行的描述，错误的是（D）<br>A.绝大多数平板电脑和智能手机使用的CPU都是ARM处理器 B.智能手机的大多数程序转换到后台状态时，一般都交出硬件资源，并非通过“时间片轮转”方法 使用CPU资源<br>C.智能手机就是一台可以随身携带的真正的个人电脑，它还具有一些传统PC所不具备的能力，如 3G&#x2F;4G移动通信、环境感知、位置服务等<br>D.智能手机大多支持MPEG4视频播放，还可安装丰富的应用软件，但在数据方面与通用计算机尚 不能兼容。<br><font color=red face="楷体">tips：D选项：可兼容通用计算机的各种数据格式</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>自由软件无版权，可随意复制、修改源代码和自由传播。下列属于自由软件的有（AD）<br>A.Linux操作系统 B.Office 2016 C.QQ软件 D.TCP&#x2F;IP协议 </li><li>【⭐】下列属于开源软件的是（ABCD）<br>A.安卓 B.MYSQL C.TCP&#x2F;IP D.Linux </li><li>下列属于office软件组件的是（ABC）<br>A.Excel B.Visio C.Access D.Dreamweaver</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>Word文字处理软件能够打开并显示PDF格式文档。（×） </li><li>按照ISO的定义，软件是“包含与数据处理系统操作有关程序、规程、规则以及相关文档的智力 创作”，这里的相关文档专指用户使用指南。 （×）</li></ol><p><font color=red face="楷体">tips：指软件设计说明书、需求规格说明、程序说明、测试计划和测试报告等 </font><br>3. 计算机软件也包括软件开发所涉及的资料。（√）<br>4. 计算机软件通常指的是用于指示计算机完成特定任务的，以电子格式存储的程序、数据和相关的文档。（√）<br>5. 程序是软件主体部分，仅是数据和文档一般不认为是计算机软件。（√）<br>6. 【⭐】自由软件允许用户随意拷贝、修改其源代码，但不允许销售。（×）<br><font color=red face="楷体">tips：不能随意拷贝 </font><br>7. 通常软件生产厂商不对软件使用的正确性、精确性、可靠性和通用性做任何承诺。（√）<br><font color=red face="楷体">tips：软件的有限责任性 </font><br>8. 【⭐】计算机软件技术是指研制开发计算机软件的所有技术的总称。（√）<br><font color=red face="楷体">tips：计算机软件技术的定义：研制开发计算机软件所需的所有技术的总称。组成：软件工程技术 、程序设计技术、软件工具环境技术、系统软件技术、数据库技术、网络软件技术、与实际工作相 关的软件技术。</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>（）的主要特征是它与计算机硬件关系密切，能对硬件资源进行统一的控制、调度和管理。<br><del>系统软件</del></li><li>系统软件通常包括操作系统、语言处理程序和（）。<br><del>实用程序</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.1随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】当用户在使用某软件时，有些错误输入，此时软件并没有出错，而是给出提示信息并允许重新输入，说明该软件具有（D）<br>A.易维护性 B.可拓展性 C.可读性 D.健壮性 </li><li>软件测试中的白盒测试又称为基于程序的测试，它主要用于测试（A）<br>A.程序的内部逻辑程序的正确性<br>B.程序的正确性<br>C.程序的外部功能<br>D.结构合理性</li></ol><p><font color=red face="楷体">tips：软件测试分为黑盒测试和白盒测试。黑盒测试看不见源代码；白盒测试结合内部源代码进行测试 </font><br>3. 在结构化软件开发方法中，系统分析阶段用（D）方法对系统进行分析。<br>A.由局部到整体抽象化<br>B.面向过程兼顾信息需求<br>C.自下而上，综合集成<br>D.自顶而下，逐层分解<br><font color=red face="楷体">tips：D选项 由抽象到具体</font></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.2随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于操作系统的叙述，错误的是（B）<br>A.操作系统是计算机中最重要的一种系统软件<br>B.只有安装了操作系统，CPU才能执行数据的存取和处理操作 C.已经运行了操作系统的计算机通常称为“虚计算机”<br>D.操作系统屏蔽了额几乎所有物理设备的技术细节</li></ol><p><font color=red face="楷体">tips：第三代计算机开始，操作系统才开始出现</font><br>2. MS-DOS是基于（C）的操作系统<br>A.多用户多任务 B.单用户多任务 C.单用户单任务 D.多用户单任务<br>3. 下列有关手机及其操作系统的叙述，错误的是（D）<br>A.安卓是Google公司开发的操作系统，其应用程序的后缀是APK<br>B.IOS是苹果公司为iPHone、iPad及Apple TV开发的操作系统<br>C.IOS和Android操作系统也像个人计算机一样采用虚拟存储技术<br>D.性能较好、运行流畅的手机、平板电脑大都采用独立的显卡 <font color=red face="楷体">tips：应为集成显卡</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>操作系统和应用软件在计算机运行时，调用关系是操作系统调用应用软件提供的功能。 （×）</li></ol><p><font color=red face="楷体">tips：反了 </font><br>2. 多任务处理就是CPU可在同一时刻执行多个任务的程序。（×）</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.2课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】在NTFS文件系统中，磁盘空间的分配单位为（C） A.字节 B.扇区 C.簇 D.磁道 </li><li>在计算机加电启动过程中，下列程序的执行顺序是（B）<br>①引导程序 ②操作系统 ③POST程序 ④自举装入程序<br>A.③②①④ B.③④①② C.④①③② D.④③②① </li><li>【⭐】在运行应用程序时，键盘上的F1-F12功能键的功能由（B）定义<br>A.操作系统 B.操作系统及应用程序 C.驱动程序 D.应用程序 </li><li>操作系统是现代计算机系统不可缺少的组成部分，操作系统负责管理计算机的（C）<br>A.程序 B.功能 C.资源 D.进程 </li><li>下面软件中，不属于网络操作系统的是（C）<br>A.NETWARE B.LINUX C.DOS D.WindowsNT </li><li>操作系统的“存储管理”功能不可以解决下列功能（C）<br>A.为每个任务分配存储空间，任务结束之后收回存储空间<br>B.保护操作系统所在区域不被应用程序修改<br>C.当内存容量很空闲时，可暂时为运行完毕的程序保留内存空间直到用户关机<br>D.对存储空间进行扩充，使应用程序的存储空间不受实际存储容量大小的限制 </li><li>在下列关于处理机管理的说法中，正确的是（C）<br>A.多道程序的特点之一是一个CPU能同时运行多个程序<br>B.所有的操作系统都是以进程为单位分配CPU的<br>C.一个进程可以同时执行一个或几个程序<br>D.当一个处于挂起状态的进程所需的资源满足后就进入了执行状态</li></ol><p><font color=red face="楷体">tips：B选项：某些操作系统可以以线程为单位 D选项：应为就绪</font><br>8. 【⭐】在下列的说法中，错误的是（B）<br>A.在UNIX中，不管有多少磁盘分区，只有一个根目录root<br>B.不管如何分区，一个磁盘就是一个卷 （<font color=red face="楷体">可划分为多个分区</font>）<br>C.在Windows 中，可以安装 UNIX 文件系统<br>D.在 Linux操作系统中，可以安装NTFS，但是不能写入，只能访问<br>9. Unix 和 Linux 是使用较为广泛的多用户交互式分时操作系统。下列叙述中，错误的是（D）<br>A.TCP&#x2F;IP 网络协议是在Unix系统上开发成功的<br>B.它们的大部分代码是用C语言编写的<br>C.它们是目前网络服务器使用得很多的操作系统<br>D.它们适用于大中型机或网络服务器，但不能用于便携机<br>10. 【⭐】以下关于操作系统中多任务处理的叙述中，错误的是（C）<br>A.将CPU时间划分成许小片，轮流为多个程序服务，这些小片称为“时间片“<br>B.由于CPU是计算机系统中宝贵的硬件资源，为了提高CPU的利用率，一般采用多任务处理<br>C.正在CPU中运行的程序称为前台程序，处于等待状态的任务称为后台状态 （<font color=red face="楷体">两者都在CPU中运行</font>）<br>D.在单CPU环境下，多个程序在计算机中同时运行时，意味着它们宏观上同时运行，微观上由 CPU轮流执行<br>11. 下列有关微软公司最新Windows10操作系统的描述，错误的是（D）<br>A.可无缝运行在 PC 机、智能手机、平板电脑上 （<font color=red face="楷体">曾推出过WIN11 mobile版本</font>）<br>B.是当前跨平台最多的操作系统<br>C.提供了浏览器软件(Microsoft Edge)<br>D.改善了多任务管理和窗口功能，因硬件平台限制，尚无法支持虚拟桌面。<br>12. 【⭐】下列关于操作系统的叙述，正确的是（A）<br>A.操作系统是应用程序(用户)与计算机之间的接口<br><font color=red face="楷体">tips：用户与计算机（尤指硬件）</font><br>B.操作系统决定了计算机的指令系统<br>C.操作系统能够实现计算机软硬件功能的转换<br>D.操作系统对磁盘进行读&#x2F;写操作的物理单位是文件<br>13. 操作系统是现代计算机必不可少的系统软件之一。下列关于操作系统的叙述，错误的是（A）<br>A.Linux操作系统是由美国Linux公司开发的 （<font color=red face="楷体">芬兰大学生</font>） B.UNIX 操作系统是一种多用户分时操作系统，可用于PC机<br>C.目前Windows 10操作系统有多个不同版本<br>D.Windows Server 2003操作系统属于网络操作系统<br>14. 在Windows系统中，若两个纯文本文件分别包含100和200个英文字符，下面关于它们占用磁 盘空间大小的说法中，正确的是（C）<br>A.前者大于后者 B.后者大于前者 C.两者相等 D.不确定<br>tips：<font color=red face="楷体">与文件系统有关，占用相同的存储块大小（通常为4KB）</font><br>15. 在下列操作系统中，属于分时系统的是（A）<br>A.UNIX B.MS DOS C.Windows 2000&#x2F;10 D.Novell NetWare<br>16. 在下列有关Windows 10操作系统的叙述中，错误的是（D）<br>A.系统采用并发多任务方式支持多个任务在计算机中同时执行 B.系统总是将一定的硬盘空间作为虚拟内容来使用<br>C.文件（夹）名的长度可达200多个字符<br>D.硬盘、光盘、优盘均使用FAT文件系统 （<font color=red face="楷体">FAT32、NTFS</font>）<br>17. 在下列操作系统中，由IBM公司研制开发的是（B）<br>A.Mac OS B.OS&#x2F;2 C.Novell NetWare D.Linux<br><font color=red face="楷体">tips：A：苹果公司 C：Novell公司 D.开源社区共同开发</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于操作系统任务的叙述，正确的有（ACD）<br>A.任务是已经启动执行的一个应用程序<br>B.结束任务就是从外部存储设备上删除该任务所对应的程序<br>C.一个程序可以产生多个任务<br>D.操作系统只把用户输入的信息传送到活动窗口所对应的前台任务中 </li><li>操作系统的“存储管理”功能可以解决下列（ABD）功能。<br>A.为每个任务分配存储空间，任务结束之后收回存储空间<br>B.保护操作系统所在区域不被应用程序修改<br>C.当内存容量很空闲时，可暂时为运行完毕的程序保留内存空间直到用户关机 （<font color=red face="楷体">用完即释放</font>）<br>D.对存储空间进行扩充，使应用程序的存储空间不受实际存储容量大小的限制</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>多任务处理就是CPU可在同一时刻执行多个任务的程序。 （×） </li><li>操作系统一旦被安装到计算机系统内，它就永远驻留在计算机的内存中。（×）</li></ol><p><font color=red face="楷体">tips：关机或重启后，操作系统会被卸载 </font><br>3. 【⭐】有一种计算机系统允许多个用户同时使用，每个用户都感觉自己好像在”独占“该计算机一 样，这样的系统被称为”分时处理系统“。（√）<br>4. 计算机安装操作系统后，操作系统即驻留在内存储器中，加电启动计算机工作时，CPU就开始执 行其中的程序。（×）<br><font color=red face="楷体"></font><font color=red face="楷体">tips：计算机安装操作系统后，操作系统驻留在硬盘中。 </font><br>5. PC计算机常用的操作系统由Windows、Unix、Linux、OS&#x2F;2等。 （√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>Windows操作系统中，前台任务对应的窗口称为（）窗口。<br><del>活动</del></li><li>（）是指将CPU时间划分为时间片，轮流为多个用户程序服务。<br><del>分时</del></li><li>在Windows系统中，子文件夹的说明信息保存在（）中。<br><del>上级文件夹</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.3课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>以下关于高级程序设计语言中的数据成分的说法中，错误的是（D）<br>A.数据名词用标识符来命名<br>B.数组是一组相同类型数据元素有序集合<br>C.指针变量中存放的是某个 数据对象的地址<br>D.程序员不能自己定义新的数据类型 （<font color=red face="楷体">C语言中可用typedef关键字定义新的数据类型</font>） </li><li>【⭐】下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需的时间 D.算法执行所占用的存储空间（<font color=red face="楷体">与空间复杂度有关</font>） </li><li>【⭐】Pascal是在（B）基础上发展起来的程序设计语言。<br>A.Java B.Alogol C.Delphi D.Fortran </li><li>下列有关数据结构的描述中，错误的是（D）<br>A.数据的逻辑结构反映数据元素之间的逻辑关系<br>B.树和线性表都是典型的数据结构<br>C.数据的存储结构是数据逻辑结构在计算机存储器上的实现<br>D.数据结构不包含数据的运算</li></ol><p><font color=red face="楷体">tips：数据结构研究的方面：物理结构+逻辑结构+数据的运算 </font><br>5. 下列关于程序设计语言的叙述，错误的是（B）<br>A.高级语言程序有解释与编译两种执行方式<br>B.用于辅助编写<font color=red face="楷体">汇编语言程序</font>的编辑软件称为汇编语言 （红字<font color=red face="楷体">是汇编语言源程序的别称</font>）<br>C.机器语言与计算机硬件关系密切，用它编写的程序可移植性较差<br>D.机器语言和汇编语言都属于低级语言<br>6. 【⭐】在计算机中为景物建模的方法有多种，它与景物的类型有密切关系，例如对树木.花草.烟火 .毛发等，需找出它们的生成规律，并使用相应的算法来描述其形状的规律，这种模型称为（D）<br>A.线框模型 B.曲面模型 C.实体模型 D.过程模型<br>7. 【⭐】空间复杂度是算法所需存储空间大小的度量，以下叙述中正确的（A）<br>A.它和求解问题的规模关系密切 （<font color=red face="楷体">记A这句话</font>）<br>B.它反映了求解问题所需的时间多少<br>C.不同的算法解决同一问题的空间复杂度通常相同<br>D.它与求解该问题所需处理时间成正比<br>8. 下列叙述中正确的是（B）<br>A.算法的时间复杂度与计算机的运行速度有关<br>B.算法的时间复杂度与运行算法时特定的输入有关<br>C.算法的时间复杂度与算法程序中的语句条数成正比<br>D.算法的时间复杂度与算法程序编制者的水平有关<br>9. 下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需要的时间 D.算法执行所占用的存储空间<br>10. 为了方便人们记忆、阅读和编程。把机器语言进行符号化，相应的语言称为（D）。<br>A.源程序 B.数据库系统 C.高级语言 D.汇编语言<br>11. （D）是一种客户端脚本语言，它采用解释方式在计算机上执行。<br>A.Python B.Java C.PHP D.Javascript</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于计算机算法的叙述中正确的是（AC）<br>A.算法与程序不同，它是问题求解规则的一种过程描述，总在执行有穷步的运算后终止<br>B.算法的设计一般采用由细到粗、由具体到抽象的逐步求解的方法<br>C.算法的每一个运算必须有确切的定义，即每一个运算应该执行何种操作必须是清楚明确的，无二 义性<br>D.分析一个算法好坏，要考虑其占用的计算机资源（如时间和空间）、算法是否易理解调试和测试</li></ol><p><font color=red face="楷体">tips：D选项，前者“其占用的计算机资源”过于笼统，后者主观 </font><br>2. 下列叙述中错误的是（BCD）<br>A.数据的存储结构会影响算法的效率<br>B.算法设计只需考虑结果的可靠性<br>C.算法复杂度是指算法控制结构的复杂程度<br>D.算法复杂度是用算法中指令的条数来度量的<br>3. 下列属于面向对象高级程序设计语言的有（BCD）<br>A.C B.C++ C.C# D.Java</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>对n个元素进行排序时，某算法需要执行2n次运算，则这个算法的时间代价是O（n）。 （√）</li></ol><p><font color=red face="楷体">tips：对n个元素进行排序的算法需要执行2n次运算。时间代价的大O表示法是一种衡量算法时间复杂度的方法，用来预估算法的运行时间。具体而言，在大O表示法中，常数项和低次项通常被忽略不计。因此，对于这个算法的时间复杂度，可以用大O表示法表示为O(n)。如果元素数量n增加一倍，那么算法的执行次数也会增加一倍。因此，该算法的时间代价与输入元素数量n成线性关系，时间复杂度为O(n)。 </font><br>2. 高级语言源程序编译处理产生可执行程序保存在磁盘，供多次运行。 （√）<br>3. 高级语言解释程序能将高级语言源程序转换为目标程序。 （×）<br><font color=red face="楷体">tips：抄完才发现没看到是解释程序 &#x3D; &#x3D;</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>【⭐】算法的时间复杂度是关于（）的函数。<br><del>输入规模</del></li><li>语言处理系统中装入程序的作用是（）。<br><del>将可执行程序从外部存储器读入内存</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>3.3随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列给出的程序设计语言中，相对来说不适合于移动（端）应用开发的是（D）<br>A.Java B.C# C.Objective-C （<font color=red face="楷体">可编写IOS系统</font>） D.Python</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】在求解问题的主要步骤中，设计算法先于定义数据的存储结构。 （×）</li></ol><p><font color=red face="楷体">tips：算法建立在数据基础之上 </font><br>2. 程序设计语言中的条件选择结构可以直接描述重复的计算过程。（×）<br><font color=red face="楷体">tips：应该是循环结构</font></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>4.1课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.1%20%E6%95%B0%E5%AD%97%E9%80%9A%E4%BF%A1%E5%85%A5%E9%97%A8/4.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.1%20%E6%95%B0%E5%AD%97%E9%80%9A%E4%BF%A1%E5%85%A5%E9%97%A8/4.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列有关分组交换网中存储转发工作模式的叙述错误的是（C）<br>A.采用存储转发技术使分组交换机能处理同时到达的多个数据包<br>B.存储转发技术能使数据包以传输线路允许的最快速度在网络中传送<br>C.该工作模式在遇到冲突时采用CSMA&#x2F;CD策略 （<font color=red face="楷体">只有以太网中采用CSMA&#x2F;CD</font>）<br>D.分组交换机的每个端口每发送完一个包才从缓冲区中提取下一个数据包进行发送 </li><li>使用IP地址进行通信时，必须采用统一格式的IP数据报传输数据，下列有关IP数据报的叙述中 ，错误的是（D）<br>A.IP数据报格式由IP协议规定<br>B.IP数据报与各种物理网络数据帧格式无关<br>C.IP数据报包括头部和数据区两个部分<br>D.IP数据报的大小固定为53字节 （<font color=red face="楷体">不固定</font>） </li><li>【⭐】ATM是一种高速分组交换技术，它采用的是（B）方法<br>A.同步工作模式 B.信元交换 C.信息交换 D.可变长分组交换 </li><li>【⭐】人们用手机打电话时语音信号必须数字化之后才能由移动通信网发送给通话方。假设语音信 号数字化时取样频率为8kHZ，量化精度为8位，数据压缩比为4，那么1分钟数字语音的数据量为 （C）<br>A.960KB B.480KB C.120KB D.60KB<br>tips：<font color=red face="楷体">8kHZ×8位&#x3D;64kbps&#x3D;8KBps 8KBps×60&#x2F;4&#x3D;120KB </font></li><li>【题有点老】下列关于 3G 上网的叙还中，错误的是（C）<br>A.我国3G上网有三种技术标难,各自使用专门的上网卡，相互并不兼容<br>B.3G上网属于无线宽带接入方式<br>C.目前3G上网较GPRS及WLAN都快 （<font color=red face="楷体">比GPRS快，但没WLAN快</font>）<br>D.3G上网的覆盖范围较 WLAN 大得多 </li><li>下面关于目前最常用的无线通信信道的说法中，错误的是（D）<br>A.无线电波可用于广播、电视，也可以用于传输数字信号<br>B.利用微波可将信息集中向某个方向进行定向信息传输，以防止他人截取信号<br>C.短波通信不局限于一个小的区域<br>D.短波通信不局限于一个大的区域 （<font color=red face="楷体">短波通信用于远距离通信，应是不局限于一个小区域</font>） </li><li>所谓移动通信是处于移动状态的对象之间的通信，描述中错误的（BD）<br>A.手机是移动通信最具代表性的应用<br>B.我国及欧洲正在广泛使用的GSM 属于第三代移动通信系统 C.集成电路及微处理器技术的快速发展，使得移动通信系统全面进入个人领域<br>D.第二代移动通信系统可以借助Internet进行信息的传递 </li><li>电话交换机是实现（A）交换的典型设备<br>A.电路 B.ATM C.报文 D.分组 </li><li>下列关于通信技术的叙述，错误的是（B）<br>A.光纤通信应在信源与信宿之间进行电&#x2F;光、光&#x2F;电转换<br>B.蓝牙是一种短距离、低成本、高效率的无线通信技术 （<font color=red face="楷体">应为低效率</font>）<br>C.红外线通讯一般局限于一个小区域，并要求发送器直接指向接收器<br>D.局域网中广泛使用的双绞线既可以传输数字信号，也可以传输模拟信号 </li><li>下列关于分组交换技术的叙述，错误的是（A）<br>A.实时性好 （<font color=red face="楷体">需要排队，造成时延</font>） B.数据通信可靠 C.灵活性好 D.传输线路的利用率高 </li><li>【⭐】和通信网络相比，计算机网络最本质的功能是（B）<br>A.数据通信 B.资源共享 C.提高计算机的可靠性和可用性 D.分布式处理 </li><li>以太网的特点之一是使用专用线路进行数据通信，目前以太网使用最多的传输介质是（C）<br>A.同轴电缆 B.无线电波 C.双绞线 D.光纤 </li><li>电缆调制解调技术（Cable MODEM），使用户利用家中的有线电视电缆一边看电视一边上网 成为可能，这是因为它采用了（D）复用技术<br>A.时分多路 B.频分多路 C.波分多路 D.频分多路和时分多路</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】无线电广播中的中波段和短波段都采用调幅方式。 （√） </li><li>分组交换形式必须在数据传输之前，在通信双方之间建立一条固定的物理链路。（×）<br>tips：<font color=red face="楷体">分组交换无需建立固定的物理线路。</font> </li><li>微波是直线传播的，遇到障碍物将影响正常通信。 （√） </li><li>【⭐】调频广播比调幅广播的声音质量好，原因是调频广播的传输频带较宽，且外界信号不会对声音的频率形成干扰（√） </li><li>【⭐】计算机局域网采用频分多路复用技术共享传输介质。 （×）<br>tips：<font color=red face="楷体">局域网内用的是时分多路复用技术。</font> </li><li>采用频分复用技术传输的多路信号一定是模拟信号。 （√） </li><li>分组交换在数据传输之前，通信双方之间建条固定的物理连接线路。 （×）<br>tips：不需要建 </li><li>由于光纤的传输性能已远超过金属电缆，且成本已大幅度降低，因此目前各种通信和计算机网络 的主干传输线路，光纤已全面取代了电缆。 （√） </li><li>在第二代移动通信中“CDMA”是时分多址技术。 （×） （<font color=red face="楷体">是采用码分多址技术的多用户接入技术</font>） </li><li>【⭐】用调制解调器时，只用数字信号而不能用模拟信号对载波进行调制。 （×） </li><li>双绞线是将两根导线按一定规格绞合在一起的，绞合的主要目的是使线缆更坚固和容易安装。 （×）<br>tips：<font color=red face="楷体">目的是降低各线对之间的电磁串扰 </font></li><li>FDM 和TDM是指任意多路信号复合在同一个信道中传输。 （×）<br>tips：<font color=red face="楷体">错在“任意多”，复用路数存在上限，超出极限会产生码间串扰。</font> </li><li>电话MODEM由调制器和解调器两部分组成。调制是指把模拟信号变换为数字信号，解调是指 把数字信号变换为模拟信号。 （×） </li><li>如果一个基站覆盖的区域内因通话手机大过密集而导致频率资源缺乏，解决方法是扩大基站覆盖的区域范围。（×）<br>tips：<font color=red face="楷体">应是增加基站数量 </font></li><li>台式PC机通过 VGA 接口连接投影仪时，VGA接口把输出信号进行调制后送到投影仪，再由投影仪解调后在大屏幕上进行显示。 （×）<br>tips：<font color=red face="楷体">VGA接口不具备调制和解调的功能。PC机通过显卡进行A&#x2F;D转换后，再通过VGA接口传输。</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>计算机通信中数据传输速率单位bps代表（）<br><del>每秒传输的比特流</del></li><li>公用电话网通常采用（）交换技术传输语音信号<br><del>电路</del></li><li>GSM提供了分组交换和分组传输方式的数据业务，称为（）<br><del>GPRS</del></li><li>分组交换技术的基本原理是（）<br><del>存储转发数据包</del></li><li>在计算机网络中，把可能的最大数据传输速率称为（）<br><del>带宽</del></li><li>某用户通过WIFI无线上网，花费了大约十分钟从网上下载了一个40MB大小的文件，其平均数据 传输速率大约为（）Kbps<br>tips：40×1024×1024&#x2F;（10×60）约等于69905B&#x2F;s 69905B&#x2F;s * 8 约等于559240bps 约等于 559Kbps </li><li>在一次数据传输中，共传输了1MB数据，发现8bit出错。则本次传输数据的误码率为10的负 （）次方<br><del>6</del></li><li>目前大多数以太网使用的传输介质是（）<br><del>双绞线</del></li><li>微波通信分（）和（）两种形式。<br><del>地面微波通信</del><br><del>卫星微波通信</del></li></ol>]]></content>
-    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -316,31 +125,11 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>卫星通信是（C）向空间的扩展。<br>A.中波通信 B.微波通信 C.微波接力通信 （<font color=red face="楷体">C更精确</font>） D.红外线通信 </li><li>以下有关无线通信技术的叙述中，错误的是（C）<br>A.无线通信不需要架设传输线路，节省了传输成本<br>B.允许通信终端在一定范围内随意移动，方便了用户<br>C.电波通过自由空间传播时，能量集中，传输距离可以很远 （<font color=red face="楷体">能量分散</font>）<br>D.容易被窃听，也容易受到干扰 </li><li>局域网中的计算机为了相互通信，必须安装（B）<br>A.调制解调器 B.网卡 C.声卡 D.电视卡 </li><li>【⭐】微波是一种具有极高频率的电磁波，其在空气中的传播速度接近（A）<br>A.光速 B.低音速 C.声速 D.超音速 </li><li>衡量计算机网络中数据链路性能的重要指标之一是“带宽”。下面有关带宽的叙述中错误的是 （A）<br>A.数据链路的带宽是该链路的平均数据传输速率 （<font color=red face="楷体">应该是最大数据传输速率</font>）<br>B.电信局声称ADSL下行速度为2Mb&#x2F;s，其实指的是带宽为2Mb&#x2F;s<br>C.千兆校园网的含义是学校中大楼与大楼之间的主干通信线路带宽为1Gb&#x2F;s<br>D.通信链路的带宽与采用的传输介质、传输技术和通信控制设备等密切相关 </li><li>【⭐】以太网的节点相互通信时，为了避免冲突，采用的方法是（B）<br>A.ATM B.CSMA&#x2F;CD C.TCP&#x2F;IP D.X.25 </li><li>下列有关专线组网的叙述中错误的是（B）<br>A.单位组建广域网租用电信局提供的远程数字通信链路是一种可行方案<br>B.租用专线的费用与线路的容量和跨越的距离无关 （<font color=red face="楷体">都有关</font>）<br>C.利用专线可以实现点到点7天每天24小时不间断通信<br>D.利用专线组网通信质量好</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】信号调制是指用载波信号调整信源信号的幅度、频率或相位。（×）<br>tips：<font color=red face="楷体">应该是信源信号通过调制器调整载波的幅度、频率或相位 </font></li><li>使用多路复用技术能够很好地解决信号的远距离传输问题。（×）<br>tips：<font color=red face="楷体">解决信号的远距离传输问题：调制解调技术 提高线路利用率，降低通信成本：多路复用技术</font> </li><li>微波可以经电离层反射传播。（×）<br>tips：<font color=red face="楷体">短波才对</font></li></ol>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>4.2课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>和广域网相比，局域网（C）<br>A.有效性好但可靠性差<br>B.有效性差但可靠性高<br>C.有效性好可靠性也高<br>D.有效性差可靠性也差 </li><li>计算机网络的拓扑结构主要取决于它的（C）<br>A.资源子网 B.FDDI网 C.通信子网 D.城域网 </li><li>【⭐】局域网组网完成后，决定网络使用性能的关键是（B）<br>A.网络的拓扑结构 B.网络的通信协议 C.网络的传输介质 D.网络的操作系统 </li><li>【⭐】将局域网接入广域网必须使用（C）<br>A.中继器 B.集线器 C.路由器 D.网桥 </li><li>广域网是一种跨越很大地域范围的一种计算机网络，下面叙述正确的是（C）<br>A.广域网是一种公用计算机网，所有计算机都可无条件接入广域网<br>B.广域网主干通常使用自建的专用通信线路，数据传输率很高<br>C.中国教育科研网（Cernet）属于广域网<br>D.广域网像某些局域网一样采用广播方式进行通信 </li><li>选择网卡的主要依据是组网的拓扑结构、网络段的最大长度、节点之间的距离和（B）<br>A.接入网络的计算机种类<br>B.使用的传输介质的类型<br>C.使用的网络操作系统的类型<br>D.互连网络的规模 </li><li>下列关于计算机网络的叙述，错误的是（A）<br>A.有了主机和通信子网，就可以构成一个计算机网络 （<font color=red face="楷体">还需要网络控制协议、网络应用软件等等</font>）<br>B.当网络中某些计算机负荷过重时，可将一部分任务分配给较空闲的计算机去完成<br>C.局域网中可以共享光驱、打印机及硬盘等设备<br>D.计算机、手机、电视机顶盒、智能家电等设备都可以接入计算机网络 </li><li>【⭐】用于局域网的基本网络连接设备是（A）<br>A.集线器 B.网络适配器（网卡） C.调制解调器 D.路由器 </li><li>下列有关客户&#x2F;服务器工作模式的叙述中错误的是（A）<br>A.客户机和服务器的区别是由硬件决定的 （<font color=red face="楷体">是由谁是服务提供者，谁是服务器使用者决定的</font>）<br>B.客户机和服务器是不对等关系<br>C.客户机请求使用的资源需要服务器提供<br>D.客户机和服务器都应安装并运行有关的软件 </li><li>以下有关局域网、城域网和广域网的叙述中，正确的是（B）<br>A.广域网只是比局域网覆盖的地域广，它们所采用的技术是相同的 （<font color=red face="楷体">技术不一样</font>）<br>B.家庭用户通过ADSL入网，所接入的网络属于城域网<br>C.现阶段家庭用户的PC机只能通过电话线接入网络 （<font color=red face="楷体">电话拨号上网已被淘汰</font>）<br>D.个人不允许组建计算机网络 </li><li>采用定长分组交换技术的广域网是（C）<br>A.综合业务数字网ISDN B.帧中继网FR C.ATM网 D.X.25网</li></ol><p><font color=red face="楷体">tips：ATM采用信元交换，每个信元长度都是固定的53字节。</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于无线局域网和有线局域网的叙述，正确的是（ABCD）<br>A.两者使用的传输介质不同<br>B.两者使用的网卡不同<br>C.两者使用的通信协议不同<br>D.在组网及配置网 络和维护方面，前者比后者更灵活</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>一台主机可以有多个IP地址 （√）</li></ol><p><font color=red face="楷体">tips：一台主机可插多个网卡，每个网卡多有多个IP地址 </font><br>2. 互联网需要使用TCP&#x2F;IP协议实现计算机的互联，而以太网通信可以不必使用TCP&#x2F;IP协议。 （√）<br><font color=red face="楷体">tips：后者一般采用IEEE系列协议 </font><br>3. 将一个由总线式（共享式）集线器组成的局域网升级成交换式局域网，除了更换交换机以外，还 必须更新所有节点的网卡 （×）<br><font color=red face="楷体">tips：无论是共享式还是交换式以太网，它们的数据帧和MAC地址格式均相同，所以使用的网卡并无区别。 </font><br>4. 在实验室通过以太网上网时，带宽通常是10MB&#x2F;s或100MB&#x2F;s （×）<br><font color=red face="楷体">tips：小b</font><br>5. 迅雷文件下载时系统采用P2P模式工作，其特点是“参与下载的用户越多，下载的速度越快”。（√）<br>6. 在局域网中，每台计算机都需设置一个IP地址，以便信息帧传输。（×）<br><font color=red face="楷体">tips：局域网中只需使用MAC地址，当不涉及网络互联时无需IP地址。</font><br>7. 交换式以太网中的交换机扮演了转发器的角色，负责将从一个端口接收到的数据帧向其他所有端口转发出去。（×）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在计算机网络中，为网络提供共享资源的基本设备是（）。<br><del>服务器</del></li><li>【⭐】一些特殊的卫地址有特殊的用途，如其主机地址部分每位都为1的IP地址，称为（）。<br><del>广播地址</del></li><li>【⭐】网络工作模式分为客户&#x2F;服务器模式和对等模式。文件传输协议FTP是按照（）模式来工 作的。<br><del>C&#x2F;S</del></li><li>【⭐】计算机网络有三个主要组成部分：若干（）、一个通信子网和一组通信协议及相关的网络软件。<br><del>主机</del></li><li>网络操作系统运行在服务器上，可以提供网络资源共享并负责管理整个网，其英文缩写(3个字母 )为（）。<br><del>NOS</del></li><li>在以太网中，如果要求连接在网络中的每一台计算机各自独享一定的带宽，则应选择（ ）来组网。<br><del>交换机</del></li><li>因特网大多数应用采用（）工作模式，大大增强了网络信息服务的灵活性。<br><del>C&#x2F;S</del></li><li>在C&#x2F;S模式的网络数据库体系结构中，应用程序都放在（）。<br><del>客户机</del></li><li>【⭐】网络协议包含有（）三个要素。<br><del>语法、语义、时序</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>4.2随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>100Mb&#x2F;s快速以太网与10Mb&#x2F;s以太网是兼容的，其主要原因在于（A）相同<br>A.介质访问控制方法 （<font color=red face="楷体">CSMA&#x2F;CD</font>）<br>B.物理层协议<br>C.网络层协议<br>D.发送时钟周期 </li><li>下列关于网络对等工作模式的叙述，正确的是（A）<br>A.可以没有专门的服务器，也可以没有管理员<br>B.FTP是因特网上对等工作模式的典型实例 （<font color=red face="楷体">FTP采用C&#x2F;S工作模式</font>）<br>C.每台计算机要么是服务器，要么是客户机，角色是固定的 （<font color=red face="楷体">角色是相对的</font>）<br>D.对等工作模式适用于大型网络，安全性高 （<font color=red face="楷体">适用于小型网络</font>） </li><li>【⭐】在计算机网络中，数据资源共享指的是（C）<br>A.各种文件数据的共享<br>B.各种应用程序数据的共享<br>C.各种数据文件和数据库的共享<br>D.各种表格文件和数据库文件的共享 </li><li>下列网络连接设备中，用于连接异构网络的基本设备是（C）<br>A.多路复用器 B.中继器 C.路由器 D.网桥<br>tips：<font color=red face="楷体">异构网络：使用不同的网络技术、协议、接口或拓扑结构连接的网络 </font></li><li>【⭐】从地域范围来分，计算机网络可分为：局域网、广域网、城域网。南京和上海两城市的计算机网络互连起来构成的是（B）<br>A.局域网 B.广域网 C.城域网 D.政府网</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>Ethernet100BaseT是一种流行的网络方案，以环形结构为基础。 （×）<br>tips：<font color=red face="楷体">以星型结构为基础。</font></li></ol>]]></content>
-    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -355,18 +144,11 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下面关于IP地址和域名之间关系的叙述中，正确的是（A）<br>A.Internet中的一台主机在线时只能有一个IP地址<br>B.一个合法的IP地址可以同时提供给多台主机使用<br>C.Internet中的一台主机只能有一个域名<br>D.IP地址和主机域名是一一对应的 </li><li>对交换机的工作原理描述正确的是（C）<br>A.对应OSI模型的第三层，即网络层<br>B.它不能再传统的LAN中消除竞争和冲突<br>C.在交换机内存中 保存着每一个网段上所有节点的物理地址表<br>D.采用广播方法向所有的连接端口转发 </li><li>在Internet上广泛使用的WWW是一种（A）<br>A.浏览服务模式 B.网络主机 C.网络服务器 D.网络模式 </li><li>【⭐】将两个同类局域网互联，应使用的设备是（C）<br>A.网卡 B.路由器 C.网桥 D.调制解调器 </li><li>下列网络互联设备中，属于物理层的是（B）<br>A.交换机 B.中继器 C.路由器 D.网桥 </li><li>【⭐】在TCP&#x2F;IP网络中，任何计算机必须有一个IP地址，而且（D）<br>A.任意两台计算机的IP地址不允许重复<br>B.任意两台计算机的IP地址允许重复<br>C.不在同一城市的两台计算机的IP地址允许重复<br>D.不在同一单位的两台计算机的IP地址允许重复 </li><li>路由器用于连接异构网络时，它收到一个IP数据后要进行许多操作，这些操作不包含（A）<br>A.地址变换 B.路由选择 C.帧格式转换 D.IP数据报的转发 </li><li>当采用UDP或TCP提供数据报服务时，下列叙述正确的是（D）<br>A.UDP比TCP更加可靠<br>B.UDP适用于音视频、网页等数据传输<br>C.UDP是面向连接的传输方式<br>D.TCP适用于电子邮件传输</li></ol><p><font color=red face="楷体">tips：B选项中的“网页”不正确 </font><br>9. TCP协议对应于OSI参考模型中的（B）<br>A.物理层 B.传输层 C.应用层 D.网络层<br>10. 下列有关分组交换网中存储转发工作模式的叙述中，错误的是（C）<br>A.采用存储转发技术使分组交换机能处理同时到达的多个数据包<br>B.存储转发技术能使数据包以传输线路允许的最快速度在网络中传送<br>C.存储转发工作模式在遇到冲突时采用CSMA&#x2F;CD策略<br>D.分组交换机的每个端口每发送完一个包才从缓冲区中提取下一个数据包进行发送<br><font color=red face="楷体">tips：不能在网络层中的路由器使用数据链路层的CSMA&#x2F;CD协议 </font><br>11. 【⭐】电信部门提供的分组交换网中速度最慢的是（C）<br>A.FR B.ATM C.X.25 D.SMDS<br>12. 采用定长分组交换技术的广域网是（C）<br>A.综合业务数字网ISDN B.帧中继网FR C.ATM网 D.X.25网<br>13. 两台PC机利用电话线远距离传输数据时必须的设备是（C）<br>A.集线器 B.网络适配器 C.调制解调器 D.路由器<br>14. IP协议采用分层协议，其分为（C）类<br>A.3 B.4 C.5 D.6<br><font color=red face="楷体">tips：IP协议、ICMP、IGMP、ARP、RARP </font><br>15. Internet与www的关系是（B）<br>A.都表示互联网，不过名称不同<br>B.www是互联网上的一个应用功能<br>C.Internet与www没关系<br>D.www是Internet上的一种协议<br>16. 网址 <a href="http://www.yunkai.edu.cn/">www.yunkai.edu.cn</a> 对应的服务器主机名称是（B）<br>A.yunkai.edu.cn<br>B.www<br>C.<a href="http://www.yunkai/">www.yunkai</a><br>D.<a href="http://www.yunkai.edu/">www.yunkai.edu</a><br>17. 利用有线电视系统接入互联网时，有线电视网所使用的传输介质是（D）<br>A.双绞线  B.同轴电缆 C.光纤 D.光纤–同轴电缆混合线路（HFC）<br><font color=red face="楷体">tips：有线电视已广泛采用光纤同轴电缆混合网（Hybrid Fiber Coaxial，HFC）进行信息传输，主干线路采用光纤连接到小区，然后用同轴电缆以总线方式接入用户。</font><br>18. 下列关于IP数据报的叙述，错误的是（C）<br>A.IP数据报是独立于各种物理网络的数据包的格式<br>B.头部的信息主要是为了确定在网络中进行数据传输的路由<br>C.数据部分的长度可以改变，最大为56KB（包括头部信息在内）<br>D.IP数据报只有头部和数据区两部分组成<br><font color=red face="楷体">tips：最大为64KB</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>在TCP&#x2F;IP网络中，任何计算机须有IP地址，关于IP地址说法正确的是（ABC）<br>A.IP数据报格式由IP协议规定<br>B.IP数据报独立于各种物理网络数据帧格式<br>C.IP数据报包括头部和数据区两个部分<br>D.IP数据报的大小固定为53字节</li></ol><p><font color=red face="楷体">tips：不固定 最大为KB</font><br>2. TCP&#x2F;IP协议将网络体系结构分为网络层、（CD）等<br>A.表示层 B.网际层 C.传输层 D.应用层</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>计算机广域网也是互联网，称因特网，是目前规模最大计算机网络。（×） （<font color=red face="楷体">广域网和互联网不是一个概念</font>） </li><li>ADSL技术是xDSL技术中的一种，也是早年家庭宽带上网使用最广的技术，由于使用电话线路 ，所以上网时需缴付电话费。 （×） <font color=red face="楷体">tips：不需缴付额外的电话费</font> </li><li>在TCP&#x2F;IP协议中，IP数据报实际上只需包含目的地地址，而不需要源IP地址。 （×） </li><li>分组交换机的路由表中，交换机出口位置与包的源地址无关。 （√） </li><li>网络中的所有计算机和交换机必须都采用统一的网络协议才能进行互连。 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>【⭐】广域网使用的分组交换机中经常出现重复的路由，为了消除重复路由，可以用一个项代替路由表中许多具有相同下站的项，称为（）路由。<br><del>默认</del></li><li>【⭐】三网整合是指将（）、（）以及（）进行整合。<br><del>电信网络</del><br><del>有线电视网</del><br><del>计算机网络</del></li><li>访问中国教育科研网中南京大学校园网内的一台名为netra服务器，输入域名 （）即可<br><del>netra.nju.edu.cn</del></li><li>对于由无线路由器、ADSL Modem、电脑等组成的家庭无线局域网，其中接入点(热点)设备是 （）<br><del>无线路由器</del></li><li>交换机的端口有两种，其中连接速度较高的端口是分组交换机到（）之间的端口。<br>tips：到分组交换机——Trunk接口 到计算机——access接口<br><del>分组交换机</del></li><li>【⭐】计算机网络的协议可采用（）的方法进行设计和开发，使用该方法可以将庞大而复杂的 问题转化为若干较小的局部问题，从而使问题易于处理。<br><del>分层</del></li><li>【⭐】在计算机网络中需要传送的一组信息被称为（报文），将它分割为若干个长度，较短的小组来作为传递信息的基本单位，这些信息小组被称为（）。<br><del>分组</del></li><li>【⭐】路由器可以有选择地转发数据包，这样的功能被称为（）。<br><del>包过滤</del></li><li>【⭐】使用Cable Modem传输数据时，将同轴电缆整个频带分为三个部分，分别用于数字信号上 传，数字信号下传以及（）下传。<br><del>电视节目</del></li><li>在所有接入网络的技术中，传输速率最低的是（）。<br><del>电话拨号接入</del></li></ol>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>4.3随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.3%20%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E7%BB%84%E6%88%90/4.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.3%20%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E7%BB%84%E6%88%90/4.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】以下关于IP地址的叙述中正确的是（C）<br>A.IP地址就是MAC地址<br>B.IP地址也保存在网卡的ROM中不可更改<br>C.将计算机从一个物理网络迁移到另一个物理网络中时必须更改IP地址<br>D.更换网卡时必须更改IP地址 </li><li>我国目前采用“光纤到楼，以太网入户”的做法，它采用传输速率达（A）以上的光纤作为其传 输干线。<br>A.1000Mbps B.100Mbps C.10Mbps D.1Mbps</li></ol><p><font color=red face="楷体">tips：以前是百兆，现在是千兆 </font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>域名解析就是域名到IP地址或IP地址到域名的转换过程。 （×）</li></ol><p><font color=red face="楷体">tips：是用于完成域名到IP地址的映射，反过来错误。</font></p>]]></content>
-    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -374,12 +156,18 @@
   
   
   <entry>
-    <title>4.4课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    <title>4.2随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>万维网（又称WWW）、电子邮件是目前Internet上使用最为广泛的服务。下列关于WWW与电子邮件服务的叙述，错误的是（）<br>A.WWW由遍布在Internet上Web服务器和安装了Web浏览器的客户机组成，它采用客户机&#x2F;服务器工作模式<br>B.当网页描述语言采用HTML时，HTML文档包含头部、正文和尾部等3个部分<br>C.每个电子邮箱都对应唯一的邮箱地址，且该地址有固定格式，例如任何电子邮件地址均包含字符“@”<br>D.使用Outlook Express收发邮件前，必须先完成Outlook Express的配置工作</li></ol><p><font color=red face="楷体">tips：B：HTML文档由头部和正文两个部分组成。</font><br>2. 以网页形式存储着信息资源的WWW服务器又被称为（D）<br>A.主页   B.底页  C.搜寻引擎   D.网站<br>3. 下面关于文本检索的叙述，其中正确的是（C）<br>A.与关键词检索系统相比，全文检索系统查全率和精度都不高<br>B.文本处理强调的是使用计算机对文本中所含的交字信息进行分析和处理，因而文本检索不属于文本处理<br>C.文本检索系统主要有两大类，一类是关键词检索系统，另一类是全文检索系统<br>D.文本检索系统返回给用户的查询结果都是用户所希望的结果<br><font color=red face="楷体">tips：随着技术发展其精度也在提高，不能简单地说全文检索系统查重率和精度都不高</font><br>4. 李明计划发送两个Excel文件给好友，于是登录电脑网页版微信软件进行了文件发送。这种通讯的方式是基于（D）架构的（D）层模式。<br>A. C&#x2F;S,2   B. C&#x2F;S,3  C. B&#x2F;S,2 D. B&#x2F;S,3<br><font color=red face="楷体">tips：关键词：网页版。架构模式：数据库服务器→Web服务器→浏览器</font><br>5. 下列对万维网相关概念的叙述中错误的是（D）<br>A.超链接可以看作是包含在网页中，并指向其他网页的“指针”<br>B.HTML语言的特点是统一性、国际性和易于使用<br>C.URL是统一资源定位器的英文缩写，是Web页的地址<br>D.主页就是用户最常访问的网页<br>6. 下列有关FTP服务器的叙述，错误的是（A）<br>A.访问任何FTP服务器都需要预先知道该服务器的用户名和密码<br>B.FTP服务器可以与Web服务器、邮件服务器等使用同一台计算机实现<br>C.用户可以通过FTP搜索引擎找到拥有相关资源的FTP站点<br>D.FTP服务器必须允许FTP服务器软件<br><font color=red face="楷体">tips：可用anonymous</font><br>7. Internet最初是由（D）建立的。<br>A.Intel公司 B.Apple公司 C.Microsoft公司 D.美国国防部<br>8. HTML文件（C）<br>A.是一种简单文本文件<br>B.既不是简单文本文件，也不是丰富格式文本文件<br>C.是一种丰富格式文本文件<br>D.不是文本文件，所以不能被记事本打开</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>阅读电子邮件一定要在联网状态下才行。（×）</li></ol><p><font color=red face="楷体">tips：已下载到本地的邮件不联网也可读</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>TCP&#x2F;IP协议标准将计算机网络通信的技术实现划分为应用层、传输层、网络互连层等，其中SMTP协议属于（）层。<br><del>应用</del></li><li>【⭐】超文本中的超链，其链宿所在位置有两种：一种与链源不在同一个文本（件）之中，另一种在链源所在文本（件）内部有标记的某个地方，该标记通常称为（）。<br><del>书签&#x2F;超链接&#x2F;锚点（优先写书签）</del></li><li>Internet网络中，FTP用于实现（）功能。<br><del>远程文件传输</del></li><li>www服务是按客户&#x2F;服务器模式工作的，当浏览器请求服务器下载一个HTML文档时，必须使用（）协议。<br><del>HTTP</del></li><li>远程登录是一个在网络通信协议Telnet的支持下，使自己的计算机暂时成为（）的过程。<br><del>远程主机终端</del></li></ol>]]></content>
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>100Mb&#x2F;s快速以太网与10Mb&#x2F;s以太网是兼容的，其主要原因在于（A）相同<br>A.介质访问控制方法 （<font color=red face="楷体">CSMA&#x2F;CD</font>）<br>B.物理层协议<br>C.网络层协议<br>D.发送时钟周期 </li><li>下列关于网络对等工作模式的叙述，正确的是（A）<br>A.可以没有专门的服务器，也可以没有管理员<br>B.FTP是因特网上对等工作模式的典型实例 （<font color=red face="楷体">FTP采用C&#x2F;S工作模式</font>）<br>C.每台计算机要么是服务器，要么是客户机，角色是固定的 （<font color=red face="楷体">角色是相对的</font>）<br>D.对等工作模式适用于大型网络，安全性高 （<font color=red face="楷体">适用于小型网络</font>） </li><li>【⭐】在计算机网络中，数据资源共享指的是（C）<br>A.各种文件数据的共享<br>B.各种应用程序数据的共享<br>C.各种数据文件和数据库的共享<br>D.各种表格文件和数据库文件的共享 </li><li>下列网络连接设备中，用于连接异构网络的基本设备是（C）<br>A.多路复用器 B.中继器 C.路由器 D.网桥<br>tips：<font color=red face="楷体">异构网络：使用不同的网络技术、协议、接口或拓扑结构连接的网络 </font></li><li>【⭐】从地域范围来分，计算机网络可分为：局域网、广域网、城域网。南京和上海两城市的计算机网络互连起来构成的是（B）<br>A.局域网 B.广域网 C.城域网 D.政府网</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>Ethernet100BaseT是一种流行的网络方案，以环形结构为基础。 （×）<br>tips：<font color=red face="楷体">以星型结构为基础。</font></li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -387,12 +175,37 @@
   
   
   <entry>
-    <title>4.4随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    <title>1.3随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.3%20%E5%BE%AE%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/1.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/1.%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/1.3%20%E5%BE%AE%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF/1.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>使用Web方式收发电子邮件时，以下描述错误的是（B）<br>A.无须设置简单邮件传输协议  B.可以不设置账号密码登录<br>C.邮件可以插入多个附件  D.未发送邮件可以保存到草稿箱</li></ol><p><font color=red face="楷体">tips：网页收发邮件无需设置协议</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>互联网是一个庞大的计算机网络，每一台入网的计算机必须有一个唯一的标识，以便互相通信，该标识就是常说的URL。（×）</li></ol><p><font color=red face="楷体">tips：IP地址</font><br>2. 域名为 <a href="http://www.yunkai.club/">www.yunkai.club</a> 的服务器，若对应的IP地址为202.195.112.3，则通过主机名和IP地址都可以实现对该服务器的访问。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在因特网上支持视频直播或视频点播，一般都采用（）媒体技术。<br><del>流</del></li></ol>]]></content>
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列说法错误的是（B）<br>A.IC的制造过程大多采用硅平面工艺<br>B.当前计算机内存储器使用的是一种具有信息存储能力的磁性材料<br>C.当前计算机的CPU通常由数千万到数亿晶体管组成<br>D.雷达的精确定位和导航、巡航导弹的图像识别等，都使用微电子技术实现</li></ol><p><font color=red face="楷体">tips：内存的存储材质是电容器，外存使用的才是磁性材质</font></p>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>4.2课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/4.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>和广域网相比，局域网（C）<br>A.有效性好但可靠性差<br>B.有效性差但可靠性高<br>C.有效性好可靠性也高<br>D.有效性差可靠性也差 </li><li>计算机网络的拓扑结构主要取决于它的（C）<br>A.资源子网 B.FDDI网 C.通信子网 D.城域网 </li><li>【⭐】局域网组网完成后，决定网络使用性能的关键是（B）<br>A.网络的拓扑结构 B.网络的通信协议 C.网络的传输介质 D.网络的操作系统 </li><li>【⭐】将局域网接入广域网必须使用（C）<br>A.中继器 B.集线器 C.路由器 D.网桥 </li><li>广域网是一种跨越很大地域范围的一种计算机网络，下面叙述正确的是（C）<br>A.广域网是一种公用计算机网，所有计算机都可无条件接入广域网<br>B.广域网主干通常使用自建的专用通信线路，数据传输率很高<br>C.中国教育科研网（Cernet）属于广域网<br>D.广域网像某些局域网一样采用广播方式进行通信 </li><li>选择网卡的主要依据是组网的拓扑结构、网络段的最大长度、节点之间的距离和（B）<br>A.接入网络的计算机种类<br>B.使用的传输介质的类型<br>C.使用的网络操作系统的类型<br>D.互连网络的规模 </li><li>下列关于计算机网络的叙述，错误的是（A）<br>A.有了主机和通信子网，就可以构成一个计算机网络 （<font color=red face="楷体">还需要网络控制协议、网络应用软件等等</font>）<br>B.当网络中某些计算机负荷过重时，可将一部分任务分配给较空闲的计算机去完成<br>C.局域网中可以共享光驱、打印机及硬盘等设备<br>D.计算机、手机、电视机顶盒、智能家电等设备都可以接入计算机网络 </li><li>【⭐】用于局域网的基本网络连接设备是（A）<br>A.集线器 B.网络适配器（网卡） C.调制解调器 D.路由器 </li><li>下列有关客户&#x2F;服务器工作模式的叙述中错误的是（A）<br>A.客户机和服务器的区别是由硬件决定的 （<font color=red face="楷体">是由谁是服务提供者，谁是服务器使用者决定的</font>）<br>B.客户机和服务器是不对等关系<br>C.客户机请求使用的资源需要服务器提供<br>D.客户机和服务器都应安装并运行有关的软件 </li><li>以下有关局域网、城域网和广域网的叙述中，正确的是（B）<br>A.广域网只是比局域网覆盖的地域广，它们所采用的技术是相同的 （<font color=red face="楷体">技术不一样</font>）<br>B.家庭用户通过ADSL入网，所接入的网络属于城域网<br>C.现阶段家庭用户的PC机只能通过电话线接入网络 （<font color=red face="楷体">电话拨号上网已被淘汰</font>）<br>D.个人不允许组建计算机网络 </li><li>采用定长分组交换技术的广域网是（C）<br>A.综合业务数字网ISDN B.帧中继网FR C.ATM网 D.X.25网</li></ol><p><font color=red face="楷体">tips：ATM采用信元交换，每个信元长度都是固定的53字节。</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于无线局域网和有线局域网的叙述，正确的是（ABCD）<br>A.两者使用的传输介质不同<br>B.两者使用的网卡不同<br>C.两者使用的通信协议不同<br>D.在组网及配置网 络和维护方面，前者比后者更灵活</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>一台主机可以有多个IP地址 （√）</li></ol><p><font color=red face="楷体">tips：一台主机可插多个网卡，每个网卡多有多个IP地址 </font><br>2. 互联网需要使用TCP&#x2F;IP协议实现计算机的互联，而以太网通信可以不必使用TCP&#x2F;IP协议。 （√）<br><font color=red face="楷体">tips：后者一般采用IEEE系列协议 </font><br>3. 将一个由总线式（共享式）集线器组成的局域网升级成交换式局域网，除了更换交换机以外，还 必须更新所有节点的网卡 （×）<br><font color=red face="楷体">tips：无论是共享式还是交换式以太网，它们的数据帧和MAC地址格式均相同，所以使用的网卡并无区别。 </font><br>4. 在实验室通过以太网上网时，带宽通常是10MB&#x2F;s或100MB&#x2F;s （×）<br><font color=red face="楷体">tips：小b</font><br>5. 迅雷文件下载时系统采用P2P模式工作，其特点是“参与下载的用户越多，下载的速度越快”。（√）<br>6. 在局域网中，每台计算机都需设置一个IP地址，以便信息帧传输。（×）<br><font color=red face="楷体">tips：局域网中只需使用MAC地址，当不涉及网络互联时无需IP地址。</font><br>7. 交换式以太网中的交换机扮演了转发器的角色，负责将从一个端口接收到的数据帧向其他所有端口转发出去。（×）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在计算机网络中，为网络提供共享资源的基本设备是（）。<br><del>服务器</del></li><li>【⭐】一些特殊的卫地址有特殊的用途，如其主机地址部分每位都为1的IP地址，称为（）。<br><del>广播地址</del></li><li>【⭐】网络工作模式分为客户&#x2F;服务器模式和对等模式。文件传输协议FTP是按照（）模式来工 作的。<br><del>C&#x2F;S</del></li><li>【⭐】计算机网络有三个主要组成部分：若干（）、一个通信子网和一组通信协议及相关的网络软件。<br><del>主机</del></li><li>网络操作系统运行在服务器上，可以提供网络资源共享并负责管理整个网，其英文缩写(3个字母 )为（）。<br><del>NOS</del></li><li>在以太网中，如果要求连接在网络中的每一台计算机各自独享一定的带宽，则应选择（ ）来组网。<br><del>交换机</del></li><li>因特网大多数应用采用（）工作模式，大大增强了网络信息服务的灵活性。<br><del>C&#x2F;S</del></li><li>在C&#x2F;S模式的网络数据库体系结构中，应用程序都放在（）。<br><del>客户机</del></li><li>【⭐】网络协议包含有（）三个要素。<br><del>语法、语义、时序</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -407,6 +220,88 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>我们通常所说的“网络黑客”，他的行为主要是（C）。<br>A.在网上发布不健康信息 B.制造并传播病毒 C.攻击并破坏web网站 D.收看不健康信息</li><li>为了保障计算机网络的安全，需要采取各种信息安全措施。下列选项可应对篡改和伪造这种主动攻击的措施是（A）。<br>A.数字签名 B.数据加密 C.防火墙 D.存取控制</li><li>在下列选项中不影响计算机安全（不属于病毒）的是（C）<br>A.QQ尾巴 B.TrojanHorse C.NetBIOS D.WormBlaster</li></ol><p><font color=red face="楷体">tips：B是木马 D是蠕虫病毒</font><br>4. 下面关于网络信息安全的叙述中，正确的是（D）<br>A.数字签名的主要目的是对信息加密<br>B.因特网防火墙的目的是允许单位内部的计算机访问外网，而外界计算机不能访问内部网络<br>C.所有黑客都是利用微软产品存在的漏洞对计算机网络进行攻击与破坏的<br>D.数据加密是为了在网络通信被窃听的情况下，也能保证信息的安全<br>5. 为确保企业局域网的信息安全，防止来自Internet的黑客入侵，采用（C）<br>A.网络计费软件 B.垃圾邮件列表 C.防火墙软件 D.防病毒软件<br>6. 下列有关身份鉴别的叙述中错误的是（B）<br>A.计算机系统中可采用USB钥匙或IC卡与口令相结合，进行身份鉴别<br>B.目前大多数银行的ATM柜员机是将指纹和密码结合起来进行身份鉴别的<br>C.鉴别眼底虹膜也是一种有效的身份鉴别技术<br>D.安全性高的口令应当易记、难猜、抗分析能力强<br><font color=red face="楷体">tips：ATM用的是密码和IC卡 不适用指纹</font><br>7. （B）主要是在分布式计算环境中提供数据的保密性、完整性、用户身份鉴别和行为的不可抵赖等安全功能。<br>A.特权管理基础设施 B.公钥基本设施 C.网络基础设施 D.DES加密技术<br>8. 计算机病毒种类繁多，人们根据病毒的特征给病毒命名，下面（B）不是病毒名称。<br>A.震荡波 B.千年虫 C.欢乐时光 D.冲击波<br><font color=red face="楷体">tips：千年虫是bug</font><br>9. 下列关于计算机病毒传播的叙述中，错误的是（D）<br>A.计算机病毒可以通过电子邮件传播<br>B.计算机病毒可以通过Web文档传播<br>C.计算机病毒可以通过因特网或其他形式的网络传播<br>D.计算机病毒可以通过可移动的存储介质传播，CD-R光盘除外，因为它是只读光盘</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>信息安全应急响应工作流程主要包括（ACD）<br>A.检测 B.研判 C.根除 D.跟踪</li></ol><p><font color=red face="楷体">tips：准备、检测、抑制、根除、恢复、跟踪</font><br>2. 以下关于信息安全事件应急响应描述正确的是（BCD）<br>A.信息安全事件是指人为的原因，对信息系统造成危害，或在信息系统内发生对社会造成负面影响的事件（不限于人为）<br>B.信息安全事件应急响应是指在处置信息安全事件时提供紧急现场或远程援助的一系列技术或非技术的措施和行动，以降低安全事件给用户造成的损失或影响<br>C.进行应急响应处理应遵循保密性原则、规范性原则以及最小影响原则<br>D.应急响应分为准备、检测、抑制、根除、恢复以及总结六个阶段</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>（）技术是主动保护系统免受攻击的一种网络安全技术。它对系统的运行状态进行监视、及时发现来自外部和内部的各种攻击企图、攻击行为和任何未经授权的访问活动，以保证系统资源的机密性、完整性和可用性。<br><del>入侵检测</del></li></ol>]]></content>
     
     
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>4.3随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.3%20%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E7%BB%84%E6%88%90/4.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.3%20%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E7%BB%84%E6%88%90/4.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】以下关于IP地址的叙述中正确的是（C）<br>A.IP地址就是MAC地址<br>B.IP地址也保存在网卡的ROM中不可更改<br>C.将计算机从一个物理网络迁移到另一个物理网络中时必须更改IP地址<br>D.更换网卡时必须更改IP地址 </li><li>我国目前采用“光纤到楼，以太网入户”的做法，它采用传输速率达（A）以上的光纤作为其传 输干线。<br>A.1000Mbps B.100Mbps C.10Mbps D.1Mbps</li></ol><p><font color=red face="楷体">tips：以前是百兆，现在是千兆 </font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>域名解析就是域名到IP地址或IP地址到域名的转换过程。 （×）</li></ol><p><font color=red face="楷体">tips：是用于完成域名到IP地址的映射，反过来错误。</font></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.1课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列不属于个人计算机范围的是（D）<br>A.台式机 B.便携机 C.工作站 D.服务器 </li><li>最能准确反映计算机的主要功能的说法是（C）<br>A.代替人的脑力劳动 B.存储大量信息 C.信息处理机 D.高速度运算 </li><li>下列表述中，错误的是（D）<br>A.计算机的机器字长是指数据运算的基本单位<br>B.软件的功能和硬件的功能在逻辑上是等效的<br>C.实现相同的功能，硬件一般比软件具有更高的执行速度<br>D.软件的功能不能用硬件替代 </li><li>UPS是指（B）<br>A.大功率稳压电源 B.不间断电源 C.用户处理系统 D.联合处理系统 </li><li>下面关于微型计算机的发展方向的描述不正确的是（D）<br>A.高速化、超小型化 B.多媒体化 C.网络化 D.家用化<font color=red face="楷体">（已家用化）</font> </li><li>微处理器是很多设备的关键部件。下列部件中一般没有微处理器的是（C）<br>A.显卡 B.手机 C.SD卡 D.鼠标 </li><li>在计算机领域中，媒体是指（D）<br>A.各种信息的编码 B.计算机的输入输出信息 C.计算机屏幕显示的信息 D.表示和传播信息的载体 </li><li>计算机用于解决科学研究与工程计算中的数学问题，称为（A）<br>A.数值计算 B.数学建模 C.数据处理 D.自动控制 </li><li>计算机与其他工具和人类自身相比，具有哪些主要特点（A）<br>A.速度快、精度高、通用性 B.速度快、自动化、专门化 C.精度高、小型化、网络化 D.以上全是 </li><li>下面（D）不属于计算机应用领域中人工智能的范畴<br>A.计算机博弈 B.专家系统 C.机器人控制 D.计算机辅助教学<font color=red face="楷体">（属于辅助技术应用领域）</font></li><li>世界上首先实现存储程序的电子数字计算机是（C）<br>A.ENIAC B.UNIVAC C.EDVAC D.EDSAC </li><li>在电脑控制的家电电器中，有一块用于控制家电电器工作流程的大规模集成电路芯片，它把处理器、存储器、输入&#x2F;输出接口电路等都集成在一起，这块芯片是（C）<br>A.芯片组 B.内存条 C.嵌入式计算机 D.ROM </li><li>长期以来，人们都按照计算机主机所使用的元器件为计算机划代，安装了Core系统处理器的个 人计算机属于（B）计算机<br>A.第五代 B.第四代 C.第三代 D.第二代 </li><li>从计算机外部获取信息的设备称为（C）<br>A.读写设备 B.外存储器 C.输入设备 D.输出设备 </li><li>下面关于个人计算机的叙述中正确的是（D）<br>A.个人计算机属于个人使用，一般不能多人同时使用<br>B.个人计算机价格较低，性能不高，一般不应用于工作（商用）领域<br>C.目前PC机中广泛使用的微处理器是Pentium系列<br>D.Intel公司是国际上研制和生产微处理器最有名的公司</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>CPU、内存、总线等构成了计算机的主机，外存储器、输入&#x2F;输出设备通常称为计算机的外设 （√）<br>tips：<font color=red face="楷体">总线可以算在主机范畴内 </font></li><li>当前计算机中使用的集成电路绝大部分是模拟电路 （×）<br>tips：<font color=red face="楷体">是数字电路</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>计算机系统的发展趋势是越来越（）化。<br><del>智能</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>4.4随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>使用Web方式收发电子邮件时，以下描述错误的是（B）<br>A.无须设置简单邮件传输协议  B.可以不设置账号密码登录<br>C.邮件可以插入多个附件  D.未发送邮件可以保存到草稿箱</li></ol><p><font color=red face="楷体">tips：网页收发邮件无需设置协议</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>互联网是一个庞大的计算机网络，每一台入网的计算机必须有一个唯一的标识，以便互相通信，该标识就是常说的URL。（×）</li></ol><p><font color=red face="楷体">tips：IP地址</font><br>2. 域名为 <a href="http://www.yunkai.club/">www.yunkai.club</a> 的服务器，若对应的IP地址为202.195.112.3，则通过主机名和IP地址都可以实现对该服务器的访问。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在因特网上支持视频直播或视频点播，一般都采用（）媒体技术。<br><del>流</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>4.4课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/4.%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91/4.4%20%E4%BA%92%E8%81%94%E7%BD%91%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%8D%E5%8A%A1/4.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>万维网（又称WWW）、电子邮件是目前Internet上使用最为广泛的服务。下列关于WWW与电子邮件服务的叙述，错误的是（）<br>A.WWW由遍布在Internet上Web服务器和安装了Web浏览器的客户机组成，它采用客户机&#x2F;服务器工作模式<br>B.当网页描述语言采用HTML时，HTML文档包含头部、正文和尾部等3个部分<br>C.每个电子邮箱都对应唯一的邮箱地址，且该地址有固定格式，例如任何电子邮件地址均包含字符“@”<br>D.使用Outlook Express收发邮件前，必须先完成Outlook Express的配置工作</li></ol><p><font color=red face="楷体">tips：B：HTML文档由头部和正文两个部分组成。</font><br>2. 以网页形式存储着信息资源的WWW服务器又被称为（D）<br>A.主页   B.底页  C.搜寻引擎   D.网站<br>3. 下面关于文本检索的叙述，其中正确的是（C）<br>A.与关键词检索系统相比，全文检索系统查全率和精度都不高<br>B.文本处理强调的是使用计算机对文本中所含的交字信息进行分析和处理，因而文本检索不属于文本处理<br>C.文本检索系统主要有两大类，一类是关键词检索系统，另一类是全文检索系统<br>D.文本检索系统返回给用户的查询结果都是用户所希望的结果<br><font color=red face="楷体">tips：随着技术发展其精度也在提高，不能简单地说全文检索系统查重率和精度都不高</font><br>4. 李明计划发送两个Excel文件给好友，于是登录电脑网页版微信软件进行了文件发送。这种通讯的方式是基于（D）架构的（D）层模式。<br>A. C&#x2F;S,2   B. C&#x2F;S,3  C. B&#x2F;S,2 D. B&#x2F;S,3<br><font color=red face="楷体">tips：关键词：网页版。架构模式：数据库服务器→Web服务器→浏览器</font><br>5. 下列对万维网相关概念的叙述中错误的是（D）<br>A.超链接可以看作是包含在网页中，并指向其他网页的“指针”<br>B.HTML语言的特点是统一性、国际性和易于使用<br>C.URL是统一资源定位器的英文缩写，是Web页的地址<br>D.主页就是用户最常访问的网页<br>6. 下列有关FTP服务器的叙述，错误的是（A）<br>A.访问任何FTP服务器都需要预先知道该服务器的用户名和密码<br>B.FTP服务器可以与Web服务器、邮件服务器等使用同一台计算机实现<br>C.用户可以通过FTP搜索引擎找到拥有相关资源的FTP站点<br>D.FTP服务器必须允许FTP服务器软件<br><font color=red face="楷体">tips：可用anonymous</font><br>7. Internet最初是由（D）建立的。<br>A.Intel公司 B.Apple公司 C.Microsoft公司 D.美国国防部<br>8. HTML文件（C）<br>A.是一种简单文本文件<br>B.既不是简单文本文件，也不是丰富格式文本文件<br>C.是一种丰富格式文本文件<br>D.不是文本文件，所以不能被记事本打开</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>阅读电子邮件一定要在联网状态下才行。（×）</li></ol><p><font color=red face="楷体">tips：已下载到本地的邮件不联网也可读</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>TCP&#x2F;IP协议标准将计算机网络通信的技术实现划分为应用层、传输层、网络互连层等，其中SMTP协议属于（）层。<br><del>应用</del></li><li>【⭐】超文本中的超链，其链宿所在位置有两种：一种与链源不在同一个文本（件）之中，另一种在链源所在文本（件）内部有标记的某个地方，该标记通常称为（）。<br><del>书签&#x2F;超链接&#x2F;锚点（优先写书签）</del></li><li>Internet网络中，FTP用于实现（）功能。<br><del>远程文件传输</del></li><li>www服务是按客户&#x2F;服务器模式工作的，当浏览器请求服务器下载一个HTML文档时，必须使用（）协议。<br><del>HTTP</del></li><li>远程登录是一个在网络通信协议Telnet的支持下，使自己的计算机暂时成为（）的过程。<br><del>远程主机终端</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
     
   </entry>
   
@@ -419,6 +314,278 @@
     
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】保障信息安全最基本、最核心的技术措施是（A）。<br>A.信息加密技术 B.信息确认技术 C.网络控制技术 D.反病毒技术</li><li>下面对于网络信息安全的认识正确的是（B）<br>A.只要加密技术的强度足够高，就能保证数据不被非法窃取<br>B.访问控制对信息资源的各种操作权限规定必须互不冲突<br>C.硬件加密的效果一定比软件加密好<br>D.根据人的生理特征进行身份鉴别的方式在单机环境下无效</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于网络信息安全的叙述，错误的是（ABCD）<br>A.只要加密技术的强度足够高，就能保证数据不被非法窃取<br>B.在网络信息安全的措施中，访问控制是身份鉴别的基础<br>C.硬件加密的效果一定比软件加密好<br>D.根据人的生理特征进行身份鉴别的方式在单机环境下无效</li><li>下列网络信息安全措施中，通常采用数字签名技术的有（AC）<br>A.真实性鉴别 B.数据加密 C.防止否认 D.审计管理</li></ol><p><font color=red face="楷体">tips：虽然数字签名用到数据加密技术，但它只对摘要加密，而非对数据正文加密。本题换一种问法即：为达到什么目的，我们使用数据签名</font><br>3. 按照防火墙保护网络使用方法的不同，防火墙可分为应用层防火墙和（CD）<br>A.物理层防火墙 B.检测层防火墙 C.链路层防火墙 D.网络层防火墙<br><font color=red face="楷体">tips：超纲 了解即可</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>防火墙的设计前提是：内部网络和外部网络都是“不可信任的网络”。（×）</li></ol><p><font color=red face="楷体">tips：对于内部网络而言，外网都是“不可信任的网络”。</font><br>2. 安装了防火墙软件的计算机能确保计算机的信息安全。（×）</p>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.3课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>若某台计算机没有硬件故障，也没有被病毒感染，但执行过程时总是频繁读写硬盘，造成系统运 行缓慢，则首先要考虑的是给计算机扩充（A）<br>A. 内存 B.硬盘 C、寄存器 D. CPU </li><li>CMOS 设置程序允许用户将系统（A）的信息进行修改。<br>A.硬件配置 B.软件配置 C.原始 D.当前 </li><li>计算机中用于在I&#x2F;O设备与内存之间传输数据的部件（传输线路及其控制器）称为I&#x2F;O总线。下列 有关 I&#x2F;O总线的叙述中，错误的是（A）<br>A.与PCI总线相比，PCI-E插座的针脚数目大为增加，从而增加了 PCI-E 设备的体积和成本<br>B.PC 使用的I&#x2F;O总线经历了多次技术演变，现在广泛使用的是第3代 PCI-Express（简称 PCI E）总线<br>C.PCI-E总线是PCI总线的改进，它采用高速串行传输方式进行数据的传输<br>D.除了数据传输速率高的优点之外，PCI-E也支持高级电源管理和热插拔 </li><li>【⭐】下列存储器中用于存储显示屏上像素颜色信息的是（D）<br>A.ROM B. Cache C.DRAM D.VRAM </li><li>计算机数据总线的宽度将主要影响到计算机的（C）<br>A.指令数量 B.存储容量 C.运算速度 D.计算机字的长度 </li><li>【⭐】启动计算机并成功加载操作系统之后，下面的（A）程序还没有装入主存储器<br>A.编译系统 B.设备驱动 C.文件管理 D.网络通信 </li><li>【⭐】I&#x2F;O设备接口定义了连接设备的插头插座形式、电气特性及（B）<br>A.指令类型 B.通信规程 C.设备数量 D.I&#x2F;O操作种类 </li><li>下列I&#x2F;O设备中，（C）是输入设备<br>A.显示器和打印机 B.键盘和绘图仪 C.数字化仪和扫描仪 D.鼠标和数模转换器（<font color=red face="楷体">数模转换器的作用 和数字化仪相反</font>） </li><li>计算机启动时，引导程序在对计算机系统进行初始化后，把（A）程序装入主存储器<br>A.操作系统核心部分 B.系统功能调用 C.编译系统 D.服务性程序 </li><li>一个<font color=red face="楷体">DDR SDRAM</font>的数据通路的宽度为8个字节，存储器总线的时钟频率为133MHz，则该存 储器的带宽为（B）<br>A.2.128Gb&#x2F;s B.2.128GB&#x2F;s C.1.064GB&#x2F;s D.1.064Gb&#x2F;s </li><li>若台式PC机需要插接网卡，则网卡应插入PC机主板上的（B）内<br>A.内存插槽 B.PCI总线扩展槽 C.AGP插槽 D.IDE插槽</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>芯片组一般由北桥芯片和南桥芯片组成，其中南桥芯片连接的器件有（ABD）<br>A.BIOS B.CMOS C.显卡 D.硬盘接口 </li><li>以下关于cache的叙述中，正确的是（BC）<br>A.cache和主存都用半导体芯片作为存储介质，因此它们的存取速度相差不大<br>B.在程序中不能用数据传送指令读出cache中某个单元中存储的内容<br>C.cache存储容量的大小对计算机运算速度会产生影响<br>D.只有将一个程序的全部指令从内存装入cache才能在CPU中运行该程序</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>改进芯片组的设计可有效提高CPU运算器的速度。 （×） </li><li>【⭐】一个存取速度为70ns的主存储器，读出数据的时间是70ns，但写入数据的时间远远大于 70ns。（√） </li><li>【⭐】RAM是随机存取存储器的缩写，其中“随机”的含义是：不论从（向）哪个地址读出或写 入数据，所需时间都是相同的。（×） </li><li>【⭐】Cache存储器的存取速度比主存储器快得多。因此，为了提高程序的运算速度，在编程时应 尽可能多地使用Cache存储器。（×） tips：<font color=red face="楷体">要考虑各种因素，如是否会导致系统的使用资源减少</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>在PC机中，键盘、鼠标、显示器、硬盘等常用设备的驱动程序通常存储在（）中。<br><del>BIOS ROM</del></li><li>安装或维护操作系统时，计算机有时需要由光盘启动，在此之前的准备工作是改变系统启动时访问外存储器的顺序，这时应在（）中进行设置。<br><del>BIOS</del></li><li>【⭐】字长是指计算机（CPU内部各存储器）之间一次能够传递的数据位，位宽是CPU通过外据 总线与（）之间一次能够传递的数据位。<br><del>外部设备</del></li><li>近些年开始流行一种（SATA）硬盘接口（写英文名称），它以高速串行的方式传输数据，传输 速率达到150MB&#x2F;s~300MB&#x2F;s，可用来连接大容量高速硬盘，目前已被广泛使用。<br><del>SATA</del></li><li>【⭐】显卡与CRT或液晶显示器之间的视频输出接口有DVI、VGA和HDMI等几种，通常用得最 多的是（VGA）接口，它采用模拟信号传输R、G、B三基色的亮度信息。<br><del>VGA</del></li><li>现代计算机主要用（）作为内存储器的存储介质。<br><del>半导体芯片</del></li><li>【⭐】微型计算机的内部存储器按其功特征能可分为三类：（）、（）、（）。<br><del>随机存取存储器</del><br><del>只读存储器</del><br><del>高速缓冲存储器</del></li><li>IEEE 1394接口又称为FireWire，用于连接高速传输大量数据的（）设备。<br><del>音视频</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.3随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.3%20%E4%B8%BB%E6%9D%BF%E3%80%81%E5%86%85%E5%AD%98%E5%92%8CIO/2.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>PC机主板上安装了多个插座和插槽，下列（C）不在PC机主板上<br>A.CPU插座 B.内存条插槽 C.芯片组插座 D.PCI（PCI-E）总线扩展槽<br>tips：<font color=red face="楷体">芯片组不需要插座安装，集成在主板上</font> </li><li>在PC机中，存储器容量是以（A）为最小单位计算的<br>A.字节 B.帧 C.位 D.字</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>当内存储器的容量为512MB时，若首地址的十六进制表示为0000000H，则末地址的十六进制 表示为（）H。<br><del>1FFFFFFF</del><br>tips：<font color=red face="楷体">存储容量&#x3D;末地址-首地址+1 则末地址&#x3D;存储容量+首地址-1 512MB&#x3D;2的29次方B 转换为二进制：10000…000（29个0） 转换为十六进制为：20000000H 末地址&#x3D;20000000H+0000000H-1&#x3D;1FFFFFFFH</font></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.1随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E7%BB%84%E6%88%90%E4%B8%8E%E5%88%86%E7%B1%BB/2.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】 当前，在计算机应用方面已进入以（D）为特征的时代<br>A.并行处理技术 B.分布式系统 C.微型计算机 D.计算机网络 </li><li>在计算机硬件的五个组成部分中，唯一一个能向控制器发送数据流的是（D）<br>A.输入设备 B.输出设备 C.运算器 D.存储器 </li><li>计算机系统中，既可用作输入设备又可用作输出设备的是（B）<br>A.键盘 B.硬盘 C.打印机 D.显示器 </li><li>客户&#x2F;服务器模式的局域网，其网络硬件主要包括服务器、工作站、网卡和（C）<br>A.网络拓扑结构 B.计算机 C.传输介质 D.网络协议 </li><li>某高性能台式电脑整机的配置为：i5-8400&#x2F;8G&#x2F;128GSSD+1T&#x2F;2G独显，其中2G为（D）<br>A.GPU频率 B.内存容量 C.外存容量 D.显存容量 </li><li>【⭐】计算机的应用可以分为几个层次，相对于计算机系统而言它们是（B）<br>A.计算机操作，文字录入等<br>B.科学计算、数据处理、辅助技术、工业控制<br>C.硬件维修，连接处理<br>D.操作系统、软件编程、系统开发</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列叙述中，正确的是（BCD）<br>A.内存容量是指微型计算机硬盘所能容纳信息的字节数<font color=red face="楷体">（是指内存条所能容纳信息的字节数） </font><br>B.微处理器的主要性能指标是字长和主频<br>C.微型计算机应避免强磁场的干扰<br>D.微型计算机机房湿度不宜过大</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>计算机硬件和软件是计算机系统中两个完全独立的组成部分。（×）</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.2课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】在NTFS文件系统中，磁盘空间的分配单位为（C） A.字节 B.扇区 C.簇 D.磁道 </li><li>在计算机加电启动过程中，下列程序的执行顺序是（B）<br>①引导程序 ②操作系统 ③POST程序 ④自举装入程序<br>A.③②①④ B.③④①② C.④①③② D.④③②① </li><li>【⭐】在运行应用程序时，键盘上的F1-F12功能键的功能由（B）定义<br>A.操作系统 B.操作系统及应用程序 C.驱动程序 D.应用程序 </li><li>操作系统是现代计算机系统不可缺少的组成部分，操作系统负责管理计算机的（C）<br>A.程序 B.功能 C.资源 D.进程 </li><li>下面软件中，不属于网络操作系统的是（C）<br>A.NETWARE B.LINUX C.DOS D.WindowsNT </li><li>操作系统的“存储管理”功能不可以解决下列功能（C）<br>A.为每个任务分配存储空间，任务结束之后收回存储空间<br>B.保护操作系统所在区域不被应用程序修改<br>C.当内存容量很空闲时，可暂时为运行完毕的程序保留内存空间直到用户关机<br>D.对存储空间进行扩充，使应用程序的存储空间不受实际存储容量大小的限制 </li><li>在下列关于处理机管理的说法中，正确的是（C）<br>A.多道程序的特点之一是一个CPU能同时运行多个程序<br>B.所有的操作系统都是以进程为单位分配CPU的<br>C.一个进程可以同时执行一个或几个程序<br>D.当一个处于挂起状态的进程所需的资源满足后就进入了执行状态</li></ol><p><font color=red face="楷体">tips：B选项：某些操作系统可以以线程为单位 D选项：应为就绪</font><br>8. 【⭐】在下列的说法中，错误的是（B）<br>A.在UNIX中，不管有多少磁盘分区，只有一个根目录root<br>B.不管如何分区，一个磁盘就是一个卷 （<font color=red face="楷体">可划分为多个分区</font>）<br>C.在Windows 中，可以安装 UNIX 文件系统<br>D.在 Linux操作系统中，可以安装NTFS，但是不能写入，只能访问<br>9. Unix 和 Linux 是使用较为广泛的多用户交互式分时操作系统。下列叙述中，错误的是（D）<br>A.TCP&#x2F;IP 网络协议是在Unix系统上开发成功的<br>B.它们的大部分代码是用C语言编写的<br>C.它们是目前网络服务器使用得很多的操作系统<br>D.它们适用于大中型机或网络服务器，但不能用于便携机<br>10. 【⭐】以下关于操作系统中多任务处理的叙述中，错误的是（C）<br>A.将CPU时间划分成许小片，轮流为多个程序服务，这些小片称为“时间片“<br>B.由于CPU是计算机系统中宝贵的硬件资源，为了提高CPU的利用率，一般采用多任务处理<br>C.正在CPU中运行的程序称为前台程序，处于等待状态的任务称为后台状态 （<font color=red face="楷体">两者都在CPU中运行</font>）<br>D.在单CPU环境下，多个程序在计算机中同时运行时，意味着它们宏观上同时运行，微观上由 CPU轮流执行<br>11. 下列有关微软公司最新Windows10操作系统的描述，错误的是（D）<br>A.可无缝运行在 PC 机、智能手机、平板电脑上 （<font color=red face="楷体">曾推出过WIN11 mobile版本</font>）<br>B.是当前跨平台最多的操作系统<br>C.提供了浏览器软件(Microsoft Edge)<br>D.改善了多任务管理和窗口功能，因硬件平台限制，尚无法支持虚拟桌面。<br>12. 【⭐】下列关于操作系统的叙述，正确的是（A）<br>A.操作系统是应用程序(用户)与计算机之间的接口<br><font color=red face="楷体">tips：用户与计算机（尤指硬件）</font><br>B.操作系统决定了计算机的指令系统<br>C.操作系统能够实现计算机软硬件功能的转换<br>D.操作系统对磁盘进行读&#x2F;写操作的物理单位是文件<br>13. 操作系统是现代计算机必不可少的系统软件之一。下列关于操作系统的叙述，错误的是（A）<br>A.Linux操作系统是由美国Linux公司开发的 （<font color=red face="楷体">芬兰大学生</font>） B.UNIX 操作系统是一种多用户分时操作系统，可用于PC机<br>C.目前Windows 10操作系统有多个不同版本<br>D.Windows Server 2003操作系统属于网络操作系统<br>14. 在Windows系统中，若两个纯文本文件分别包含100和200个英文字符，下面关于它们占用磁 盘空间大小的说法中，正确的是（C）<br>A.前者大于后者 B.后者大于前者 C.两者相等 D.不确定<br>tips：<font color=red face="楷体">与文件系统有关，占用相同的存储块大小（通常为4KB）</font><br>15. 在下列操作系统中，属于分时系统的是（A）<br>A.UNIX B.MS DOS C.Windows 2000&#x2F;10 D.Novell NetWare<br>16. 在下列有关Windows 10操作系统的叙述中，错误的是（D）<br>A.系统采用并发多任务方式支持多个任务在计算机中同时执行 B.系统总是将一定的硬盘空间作为虚拟内容来使用<br>C.文件（夹）名的长度可达200多个字符<br>D.硬盘、光盘、优盘均使用FAT文件系统 （<font color=red face="楷体">FAT32、NTFS</font>）<br>17. 在下列操作系统中，由IBM公司研制开发的是（B）<br>A.Mac OS B.OS&#x2F;2 C.Novell NetWare D.Linux<br><font color=red face="楷体">tips：A：苹果公司 C：Novell公司 D.开源社区共同开发</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于操作系统任务的叙述，正确的有（ACD）<br>A.任务是已经启动执行的一个应用程序<br>B.结束任务就是从外部存储设备上删除该任务所对应的程序<br>C.一个程序可以产生多个任务<br>D.操作系统只把用户输入的信息传送到活动窗口所对应的前台任务中 </li><li>操作系统的“存储管理”功能可以解决下列（ABD）功能。<br>A.为每个任务分配存储空间，任务结束之后收回存储空间<br>B.保护操作系统所在区域不被应用程序修改<br>C.当内存容量很空闲时，可暂时为运行完毕的程序保留内存空间直到用户关机 （<font color=red face="楷体">用完即释放</font>）<br>D.对存储空间进行扩充，使应用程序的存储空间不受实际存储容量大小的限制</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>多任务处理就是CPU可在同一时刻执行多个任务的程序。 （×） </li><li>操作系统一旦被安装到计算机系统内，它就永远驻留在计算机的内存中。（×）</li></ol><p><font color=red face="楷体">tips：关机或重启后，操作系统会被卸载 </font><br>3. 【⭐】有一种计算机系统允许多个用户同时使用，每个用户都感觉自己好像在”独占“该计算机一 样，这样的系统被称为”分时处理系统“。（√）<br>4. 计算机安装操作系统后，操作系统即驻留在内存储器中，加电启动计算机工作时，CPU就开始执 行其中的程序。（×）<br><font color=red face="楷体"></font><font color=red face="楷体">tips：计算机安装操作系统后，操作系统驻留在硬盘中。 </font><br>5. PC计算机常用的操作系统由Windows、Unix、Linux、OS&#x2F;2等。 （√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>Windows操作系统中，前台任务对应的窗口称为（）窗口。<br><del>活动</del></li><li>（）是指将CPU时间划分为时间片，轮流为多个用户程序服务。<br><del>分时</del></li><li>在Windows系统中，子文件夹的说明信息保存在（）中。<br><del>上级文件夹</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.2随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于操作系统的叙述，错误的是（B）<br>A.操作系统是计算机中最重要的一种系统软件<br>B.只有安装了操作系统，CPU才能执行数据的存取和处理操作 C.已经运行了操作系统的计算机通常称为“虚计算机”<br>D.操作系统屏蔽了额几乎所有物理设备的技术细节</li></ol><p><font color=red face="楷体">tips：第三代计算机开始，操作系统才开始出现</font><br>2. MS-DOS是基于（C）的操作系统<br>A.多用户多任务 B.单用户多任务 C.单用户单任务 D.多用户单任务<br>3. 下列有关手机及其操作系统的叙述，错误的是（D）<br>A.安卓是Google公司开发的操作系统，其应用程序的后缀是APK<br>B.IOS是苹果公司为iPHone、iPad及Apple TV开发的操作系统<br>C.IOS和Android操作系统也像个人计算机一样采用虚拟存储技术<br>D.性能较好、运行流畅的手机、平板电脑大都采用独立的显卡 <font color=red face="楷体">tips：应为集成显卡</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>操作系统和应用软件在计算机运行时，调用关系是操作系统调用应用软件提供的功能。 （×）</li></ol><p><font color=red face="楷体">tips：反了 </font><br>2. 多任务处理就是CPU可在同一时刻执行多个任务的程序。（×）</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.3课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>以下关于高级程序设计语言中的数据成分的说法中，错误的是（D）<br>A.数据名词用标识符来命名<br>B.数组是一组相同类型数据元素有序集合<br>C.指针变量中存放的是某个 数据对象的地址<br>D.程序员不能自己定义新的数据类型 （<font color=red face="楷体">C语言中可用typedef关键字定义新的数据类型</font>） </li><li>【⭐】下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需的时间 D.算法执行所占用的存储空间（<font color=red face="楷体">与空间复杂度有关</font>） </li><li>【⭐】Pascal是在（B）基础上发展起来的程序设计语言。<br>A.Java B.Alogol C.Delphi D.Fortran </li><li>下列有关数据结构的描述中，错误的是（D）<br>A.数据的逻辑结构反映数据元素之间的逻辑关系<br>B.树和线性表都是典型的数据结构<br>C.数据的存储结构是数据逻辑结构在计算机存储器上的实现<br>D.数据结构不包含数据的运算</li></ol><p><font color=red face="楷体">tips：数据结构研究的方面：物理结构+逻辑结构+数据的运算 </font><br>5. 下列关于程序设计语言的叙述，错误的是（B）<br>A.高级语言程序有解释与编译两种执行方式<br>B.用于辅助编写<font color=red face="楷体">汇编语言程序</font>的编辑软件称为汇编语言 （红字<font color=red face="楷体">是汇编语言源程序的别称</font>）<br>C.机器语言与计算机硬件关系密切，用它编写的程序可移植性较差<br>D.机器语言和汇编语言都属于低级语言<br>6. 【⭐】在计算机中为景物建模的方法有多种，它与景物的类型有密切关系，例如对树木.花草.烟火 .毛发等，需找出它们的生成规律，并使用相应的算法来描述其形状的规律，这种模型称为（D）<br>A.线框模型 B.曲面模型 C.实体模型 D.过程模型<br>7. 【⭐】空间复杂度是算法所需存储空间大小的度量，以下叙述中正确的（A）<br>A.它和求解问题的规模关系密切 （<font color=red face="楷体">记A这句话</font>）<br>B.它反映了求解问题所需的时间多少<br>C.不同的算法解决同一问题的空间复杂度通常相同<br>D.它与求解该问题所需处理时间成正比<br>8. 下列叙述中正确的是（B）<br>A.算法的时间复杂度与计算机的运行速度有关<br>B.算法的时间复杂度与运行算法时特定的输入有关<br>C.算法的时间复杂度与算法程序中的语句条数成正比<br>D.算法的时间复杂度与算法程序编制者的水平有关<br>9. 下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需要的时间 D.算法执行所占用的存储空间<br>10. 为了方便人们记忆、阅读和编程。把机器语言进行符号化，相应的语言称为（D）。<br>A.源程序 B.数据库系统 C.高级语言 D.汇编语言<br>11. （D）是一种客户端脚本语言，它采用解释方式在计算机上执行。<br>A.Python B.Java C.PHP D.Javascript</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于计算机算法的叙述中正确的是（AC）<br>A.算法与程序不同，它是问题求解规则的一种过程描述，总在执行有穷步的运算后终止<br>B.算法的设计一般采用由细到粗、由具体到抽象的逐步求解的方法<br>C.算法的每一个运算必须有确切的定义，即每一个运算应该执行何种操作必须是清楚明确的，无二 义性<br>D.分析一个算法好坏，要考虑其占用的计算机资源（如时间和空间）、算法是否易理解调试和测试</li></ol><p><font color=red face="楷体">tips：D选项，前者“其占用的计算机资源”过于笼统，后者主观 </font><br>2. 下列叙述中错误的是（BCD）<br>A.数据的存储结构会影响算法的效率<br>B.算法设计只需考虑结果的可靠性<br>C.算法复杂度是指算法控制结构的复杂程度<br>D.算法复杂度是用算法中指令的条数来度量的<br>3. 下列属于面向对象高级程序设计语言的有（BCD）<br>A.C B.C++ C.C# D.Java</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>对n个元素进行排序时，某算法需要执行2n次运算，则这个算法的时间代价是O（n）。 （√）</li></ol><p><font color=red face="楷体">tips：对n个元素进行排序的算法需要执行2n次运算。时间代价的大O表示法是一种衡量算法时间复杂度的方法，用来预估算法的运行时间。具体而言，在大O表示法中，常数项和低次项通常被忽略不计。因此，对于这个算法的时间复杂度，可以用大O表示法表示为O(n)。如果元素数量n增加一倍，那么算法的执行次数也会增加一倍。因此，该算法的时间代价与输入元素数量n成线性关系，时间复杂度为O(n)。 </font><br>2. 高级语言源程序编译处理产生可执行程序保存在磁盘，供多次运行。 （√）<br>3. 高级语言解释程序能将高级语言源程序转换为目标程序。 （×）<br><font color=red face="楷体">tips：抄完才发现没看到是解释程序 &#x3D; &#x3D;</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>【⭐】算法的时间复杂度是关于（）的函数。<br><del>输入规模</del></li><li>语言处理系统中装入程序的作用是（）。<br><del>将可执行程序从外部存储器读入内存</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.2课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>CPU在执行指令的过程中，会自动修改（B）的内容，以使其保存的总是将要执行的下一条指令 的地址。<br>A.指令寄存器 B.程序计数器 C.地址寄存器 D.指令译码器 tips：<font color=red face="楷体">指令计数器的别称：程序计数器 </font></li><li>下列关于平板电脑的叙述，错误的是（D）<br>A.目前平板电脑的操作系统主要有iOS、Android和Windows等<br>B.大多数平板电脑采用ARM处理器<br>C.目前用户无法通过拓展槽更换或扩充平板电脑的内存<br>D.平板电脑CPU与PC机的CPU的性能处在同一水平（<font color=red face="楷体">后者性能更强</font>） </li><li>下面关于微处理器的叙述中，不正确的是（B）<br>A.微处理器通常以单片集成电路制成<br>B.它具有运算和控制功能，但不具备数据存储功能<br>C.目前PC中使用最广泛的CPU使Intel公司的Core系统微处理器<br>D.当前智能手机中的CPU大多采用英国ARM公司的ARM处理器架构<br>tips：<font color=red face="楷体">寄存器具备数据临时存储功能</font> </li><li>【⭐】CPU的系统时钟以及各种与其同步的时钟由（A）提供<br>A.芯片组 B.CPU芯片 C.主板电源 D.电池芯片 </li><li>下列关于CPU 的叙述，错误的是（A）<br>A.CPU中指令计数器的作用是统计已经执行过的指令数目 B.CPU所能执行的全部指令的集合称为该CPU的指令系统 C.CPU中含有若干寄存器<br>D.时钟频率决定着CPU芯片内部数据传输与操作速度的快慢 </li><li>Core i7 处理器中的Cache是用SRAM 组成的一种高速缓冲存储器，其作用是（A）<br>A.发挥CPU的高速性能 B.扩大主存储器的容量 C.提高数据存取的安全性 D.提高与外部设备交换数据的速度 </li><li>【⭐】为解决某一特定问题而设计的指令序列称为（C）<br>A.文档 B.语言 C.程序 D. 系统 </li><li>微型计算机中，控制器的基本功能是（D）<br>A.进行算术运算和逻辑运算 B.存储各种数据和信息 C.保持各种控制状态 D.控制机器各个部件协调 一致地工作 </li><li>在PC机中CPU读写RAM的最小数据单位是（B）<br>A.1个二进制位 B.1个字节 C.1个字 D.1一个扇区 </li><li>下列哪一项为衡量微型计算机性能的主要指标（C）<br>A.所用操作系统的类型 B.字长 C.微处理器的型号 D.所用的电子元件</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>影响个人计算机系统功能的因素除了系统使用哪种位的微处理器外，还有CPU的时钟频率、 CPU主内存容量、CPU所能提供的指令集 （√） </li><li>现代计算机采用的是冯·诺依曼提出的存储程序控制思想，科学家们正在研究的生物计算机 采用非冯·诺依曼结构 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>CPU中用于分析指令操作码以确定需要执行什么操作的部件是指令（）部件。<br><del>译码</del></li><li>某处理器为了提高处理速度，它既有处理整数的定点运算器，也有处理（）的浮点运算器 。<br><del>浮点数</del></li><li>【⭐】为了克服主存储器速度比CPU慢得多的缺点，CPU中增加了数据快存和（）快存两个高速存储器。<br><del>指令</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.1随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>【⭐】当用户在使用某软件时，有些错误输入，此时软件并没有出错，而是给出提示信息并允许重新输入，说明该软件具有（D）<br>A.易维护性 B.可拓展性 C.可读性 D.健壮性 </li><li>软件测试中的白盒测试又称为基于程序的测试，它主要用于测试（A）<br>A.程序的内部逻辑程序的正确性<br>B.程序的正确性<br>C.程序的外部功能<br>D.结构合理性</li></ol><p><font color=red face="楷体">tips：软件测试分为黑盒测试和白盒测试。黑盒测试看不见源代码；白盒测试结合内部源代码进行测试 </font><br>3. 在结构化软件开发方法中，系统分析阶段用（D）方法对系统进行分析。<br>A.由局部到整体抽象化<br>B.面向过程兼顾信息需求<br>C.自下而上，综合集成<br>D.自顶而下，逐层分解<br><font color=red face="楷体">tips：D选项 由抽象到具体</font></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.3随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列给出的程序设计语言中，相对来说不适合于移动（端）应用开发的是（D）<br>A.Java B.C# C.Objective-C （<font color=red face="楷体">可编写IOS系统</font>） D.Python</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>【⭐】在求解问题的主要步骤中，设计算法先于定义数据的存储结构。 （×）</li></ol><p><font color=red face="楷体">tips：算法建立在数据基础之上 </font><br>2. 程序设计语言中的条件选择结构可以直接描述重复的计算过程。（×）<br><font color=red face="楷体">tips：应该是循环结构</font></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.2随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.2%20CPU%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86/2.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<p>无</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3.1课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.1%20%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0/3.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>使用黑盒测试方法进行软件测试时，其测试用例应就（D）进行设计。<br>A.程序的内部逻辑 B.程序的复杂程度 C.程序的判定语句 D.程序的功能 </li><li>下面全部属于数据库管理系统的软件是（B）<br>A.FoxBase、Access、SQLServer、UNIX<br>B.FoxBase、SQLServer、Access、Foxpro<br>C.FoxBase、SQLServer、Access、Excel<br>D.FoxBase、MySQL、SQLSerer、BASIC </li><li>下列软件中属于系统软件的是（C）<br>A.财务管理软件 B.销售系统软件 C.C语言编译程序 D.Word字处理软件 </li><li>【⭐】关于计算机软件的说法中，（A）是正确的。<br>A.利用“软件工程”的理念与方法，可以编制高效高质的软件<br>B.“软件危机”的出现是因为计算机硬件发展严重滞后<br>C.用软件语言编写的程序都可直接在计算机上执行<br>D.操作系统是20世纪80年代产生的 </li><li>以下对计算机软件与硬件关系的描述中，不正确的是（A）<br>A.硬件功能无法用软件实现<br>B.硬件是软件的基础<br>C.计算机系统由硬件与软件组成<br>D.软件是硬件功 能的扩充</li></ol><p><font color=red face="楷体">tips：A选项：虚拟化技术、GPU加速技术 都可实现</font><br>6. 下列有关智能手机等设备及其软件运行的描述，错误的是（D）<br>A.绝大多数平板电脑和智能手机使用的CPU都是ARM处理器 B.智能手机的大多数程序转换到后台状态时，一般都交出硬件资源，并非通过“时间片轮转”方法 使用CPU资源<br>C.智能手机就是一台可以随身携带的真正的个人电脑，它还具有一些传统PC所不具备的能力，如 3G&#x2F;4G移动通信、环境感知、位置服务等<br>D.智能手机大多支持MPEG4视频播放，还可安装丰富的应用软件，但在数据方面与通用计算机尚 不能兼容。<br><font color=red face="楷体">tips：D选项：可兼容通用计算机的各种数据格式</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>自由软件无版权，可随意复制、修改源代码和自由传播。下列属于自由软件的有（AD）<br>A.Linux操作系统 B.Office 2016 C.QQ软件 D.TCP&#x2F;IP协议 </li><li>【⭐】下列属于开源软件的是（ABCD）<br>A.安卓 B.MYSQL C.TCP&#x2F;IP D.Linux </li><li>下列属于office软件组件的是（ABC）<br>A.Excel B.Visio C.Access D.Dreamweaver</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>Word文字处理软件能够打开并显示PDF格式文档。（×） </li><li>按照ISO的定义，软件是“包含与数据处理系统操作有关程序、规程、规则以及相关文档的智力 创作”，这里的相关文档专指用户使用指南。 （×）</li></ol><p><font color=red face="楷体">tips：指软件设计说明书、需求规格说明、程序说明、测试计划和测试报告等 </font><br>3. 计算机软件也包括软件开发所涉及的资料。（√）<br>4. 计算机软件通常指的是用于指示计算机完成特定任务的，以电子格式存储的程序、数据和相关的文档。（√）<br>5. 程序是软件主体部分，仅是数据和文档一般不认为是计算机软件。（√）<br>6. 【⭐】自由软件允许用户随意拷贝、修改其源代码，但不允许销售。（×）<br><font color=red face="楷体">tips：不能随意拷贝 </font><br>7. 通常软件生产厂商不对软件使用的正确性、精确性、可靠性和通用性做任何承诺。（√）<br><font color=red face="楷体">tips：软件的有限责任性 </font><br>8. 【⭐】计算机软件技术是指研制开发计算机软件的所有技术的总称。（√）<br><font color=red face="楷体">tips：计算机软件技术的定义：研制开发计算机软件所需的所有技术的总称。组成：软件工程技术 、程序设计技术、软件工具环境技术、系统软件技术、数据库技术、网络软件技术、与实际工作相 关的软件技术。</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>（）的主要特征是它与计算机硬件关系密切，能对硬件资源进行统一的控制、调度和管理。<br><del>系统软件</del></li><li>系统软件通常包括操作系统、语言处理程序和（）。<br><del>实用程序</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.4~2.5课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>目前使用较广泛的打印机有针式打印机、激光打印机和喷墨打印机。其中（D）在打印票据方面 具有独特的优势，（）在彩色图像输出设备中占绝对优势。<br>A.针式打印机、激光打印机 B.喷墨打印机、激光打印机 C.激光打印机、喷墨打印机 D.针式打印机 、喷墨打印机 </li><li>显示器是计算机必备的输出设备，下列关于计算机显示器的叙述中，错误的是（C）<br>A.显示器主要有 CRT、LCD 显示器两大类<br>B.显示控制器用于控制 CRT 或 LCD 的工作<br>C.目前有些计算机已不需要显卡，CRT或LCD中已包括显卡的功能<br>D.显卡就是显示控制器 </li><li>在微机系统中，对输入输出设备进行管理的基本程序是放在（C）<br>A.RAM中 B.ROM中 C.硬盘上 D.寄存器 </li><li>【⭐】日常生活中用来打印票据的针式打印机，打印时每一次击打动作将打印（A）<br>A.一个字符字型信息中的一列或二列<br>B.一个字符字型信息中的一行或二行<br>C.一个字符的完整字形信息<br>D.一行字符，字符的具体个数由页面设置决定<br>tips：<font color=red face="楷体">针式打印机的针头是一列列打印的</font> </li><li>某显示器的最高分辨率为1024×1024，可显示的不同颜色的总数为65536种，则显示存储器中 用于存储图像的存储容量是（B）<br>A.0.5MB B.2MB C.1MB D.16MB<br>tips：1024×1024×16&#x2F;8&#x2F;1024&#x2F;1024&#x3D;2MB </li><li>以下打印机中，需要安装色带才能在打印机上印出文字的是（D）<br>A.激光打印机 B.喷墨式打印机 C.滚筒式打印机 D.针式打印机 </li><li>打印机可分为针式打印机、激光打印机、热敏打印机和喷墨打印机，其中激光打印机的特点是 （A）<br>A.高精度、高速度 B.可方便地打印票据 C.可低成本地打印彩色页面 D.比喷墨打印机便宜<br>tips：<font color=red face="楷体"></font><font color=red face="楷体">B说的是针式 C说的是喷墨</font> </li><li>下列（D）接口从未用于鼠标与主机的连接<br>A.PS&#x2F;2 B.USB C.RS-232 D.SCSI </li><li>以下打印机中，需要安装硒鼓才能在打印机上印出文字和图案的是（A）<br>A.激光打印机 B.喷墨打印机 C.热敏打印机 D.针式打印机 </li><li>【⭐】显示器的一个主要技术指标是分辨率，要能显示出正常的视频图像，分辨率至少在（A）之上<br>A.640×480 B.800×600 C.1024×768 D.无所谓 </li><li>下列输入设备中功能和性质不属于同一类的是（D）<br>A.鼠标器 B.触摸屏 C.轨迹球 D.手持式扫描仪<br>tips：<font color=red face="楷体">ABC都是控制指针移动</font></li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于打印机的叙述，正确的是（ABC）<br>A.9针打印机的打印头由9根钢针组成<br>B.碳粉&#x2F;硒鼓是激光打印机的主要耗材<br>C.喷墨打印机与激光打印机的打印速度均用每分钟打印的页数来度量<br>D.目前激光打印机均为黑白打印机，而喷墨打印机均为彩色打印机 </li><li>现有4GB的视频文件需要存储在一个存储介质中，通常可采用的有（BCD）<br>A.CD光盘 （<font color=red face="楷体">600MB~700MB</font>） B.DVD光盘 C.移动硬盘 D.优盘 </li><li>下列和硬盘存储容量相关的有（AB）<br>A.磁头数 B.磁道（柱面）数 C.硬盘的尺寸 D.平均存取时间 tips：<font color=red face="楷体">硬盘容量&#x3D;磁头数×柱面数×扇区数×每扇区字节数</font></li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>手机中的微型电动马达在用户开&#x2F;关手机、虚拟键盘输入、电话来点通知等场合，会产生力反馈使 手机振动，提醒用户知晓，本质上这个设备属于输出设备。 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>PC机配置的键盘触感好、操作省力，从按键原理来说属于（）式键盘。<br><del>电容</del></li><li>在计算机上用于衡量VCD光盘驱动器传输数据速率的指标叫做（），一倍速率为 （）。<br><del>倍速</del><br><del>150KB&#x2F;s</del></li><li>在平板电脑、智能手机等数码产品上广泛使用的一种输入&#x2F;输出设备是（）。<br><del>触摸屏</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.6课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>一CD盘片存储立体声高保真全频带数字音乐可播放一小时，数据量约（B）<br>A.800MB B.635MB C.400MB D.1GB<br>tips：<font color=red face="楷体">固定概念，约650MB </font></li><li>【⭐】智能手机扩展存储卡一般是（C）<br>A.SD B.SSD C.Micro SD(TF) D.MS(Memory Stick) </li><li>以下关于硬盘得逻辑结构说法不正确的是（C）<br>A.每个盘片有两个面，这两个面都是用来存储数据的。<br>B.随着读写磁头沿着盘片半径方向上下移动，每个盘片被划分成若干个同心圆磁道。<br>C.磁道被划分成若干个段，每个段称为一个扇区。扇区的编号是按0，1，……顺序进行的。<br>D.硬盘柱面、磁道、扇区的划分表面上是看不到任何痕迹的。 tips：<font color=red face="楷体">超纲知识：磁道和柱面的编号从0开始，但扇区编号从1开始 </font></li><li>闪速存储器Flash Memory本质上属于（A）<br>A.普通ROM B.PROM C.EPROM D.EEPROM </li><li>在国际标准化组织制定的标准中，VCD影碟采用的压缩编码标准是（B）<br>A.H261 B.MPEG-1 C.MPEG-2 （<font color=red face="楷体">DVD的标准</font>） D.MPEG-4 </li><li>计算机从磁盘上取数据，称为（B）<br>A.输出 B.读盘 C.写盘 D.录入 </li><li>以下硬盘的主要性能指标中，最能体现硬盘整体性能的是（D）<br>A.转速 B.外部数据传输速率 C.cache容量 D.内部数据传输速率 </li><li>以下关于VCD和DVD的叙述，正确的是（C）<br>A.DVD和VCD相比，压缩比高，因此画面质量不如VCD（<font color=red face="楷体">DVD画面质量比VCD好</font>）<br>B.CD是小型光盘的英文缩写，最早应用于数字音响领域，代表产品是DVD<br>C.DVD影碟采用MPEG-2视频压缩标准<br>D.VCD采用模拟技术存储视频信息，而DVD则采用数字技术存储视频信息（<font color=red face="楷体">都用数字技术</font>） </li><li>【⭐】在目前技术条件下，CD-RW盘片平均可擦写次数大约为（C）次<br>A.1<del>100 B.100</del>500 C. 1000<del>2000 D.10000</del>20000 </li><li>CD-RW光盘的物理结构由若干层组成，其中用于记录信息的是（C）<br>A.保护层 B.印刷层 C.有机染料层和反射层 D.聚碳酸酯衬垫层 </li><li>【⭐】在计算机的日常维护中，对磁盘应定期进行碎片整理，其目的是（A）<br>A.提高计算机的读写速度 B.防止数据丢失 C.增加磁盘可用空间 D.提高磁盘的利用率</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下面关于 DVD 光盘的说法中正确的是（BCD）<br>A.DVD-ROM 是限写一次可读多次的 DVD 盘<br>B.DVD-RAM 是可多次读写的 DVD 光盘<br>C.DVD 光盘的光道间距比 CD 光盘更小<br>D.读取 DVD 光盘时，使用的激光波长比 CD 更短</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>CD-RW光盘记录信息是采用在盘上压制凹坑的办法完成的。 （×）<br>tips：<font color=red face="楷体">是采用相变材料的技术</font> </li><li>目前DVD光驱采用的激光为红色激光或蓝色激光。 （×）<br>tips：<font color=red face="楷体">注意为DVD 而不是DVD或BD </font></li><li>闪存盘也称为“优盘”，它采用的是Flash存储器技术。 （√） </li><li>磁盘是计算机中一种重要的外部设备，没有磁盘，计算机就无法运行。 （×）<br>tips：<font color=red face="楷体">可用光盘</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>PC机上使用的外存储器主要有：硬盘、优盘、移动硬盘和（），它们所存储的信息在断电后不会丢失。<br><del>存储卡</del></li><li>硬盘工作时，磁盘盘片告诉旋转所带动的气流将盘片上的（）托起，它负责盘片上数据的写入或读出。<br><del>磁头</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.4~2.5随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.4~2.5%20%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%AE%BE%E5%A4%87/2.4~2.5%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于数码相机的叙述，错误的是（D）<br>A.数码相机是一种图像输入设备<br>B.数码相机的镜头与快门与传统相机基本相同<br>C.数码相机采用CCD或CMOS芯片成像<br>D.数码相机的存储容量越大，可存储的相片数量就越多（<font color=red face="楷体">还和单个图像的数据量有关</font>） </li><li>显示卡能够处理的视频信号可来自（B）<br>A.显示器 B.视频卡 C.CPU D.扬声器 </li><li>显示器是PC不可缺少的一种输出设备，PC通过显示控制卡（显卡）控制其工作。在下面关于 PC显卡的叙述中，正确的是（C）<br>A.显卡与液晶显示器的连接大多采用PCI-E接口（<font color=red face="楷体">是VGA、DVI、HDMI</font>）<br>B.目前显卡可支持的分辨率大多达到1024×768，但可显示的颜色数目还不超过65536种（<font color=red face="楷体">分辨率不止这些，颜色数目也已超过</font>）<br>C.显示屏上显示的信息预先都被保存在显示存储器中，在显卡的控制下一帧帧地送到屏幕上进行显示<br>D.独立显卡与主机的接口大多是USB3.0（<font color=red face="楷体">PCI-E×16</font>）</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>数字摄像机是一种离线的数字视频获取设备。 （√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>若一台显示器中R、G、B<font color=red face="楷体">分别</font>用3位二进制数来表示，那么它可以显示（）种不同的颜色。<br><del>512</del></li><li>打印机的性能指标主要包括打印（）、打印速度、色彩数目和打印成本等。<br><del>精度</del></li><li>显卡与CRT或液晶显示器之间的视频输出接口有DVI、VGA、HDMI等几种，通常用的最多的是（）接口，它采用<font color=red face="楷体">模拟信号</font>传输R、G、B三基色的亮度信息。<br><del>VGA</del></li><li>【⭐】从技术角度考虑，激光打印机是激光技术与（）技术相结合的产物。<br><del>复印</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -433,6 +600,12 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>Windows操作系统中的“帮助”文件（HLP文件）也是一种文本，其类型属于（B）<br>A.纯文本 B.超文本 C.简单文本 D.中间格式文本</li><li>文本输出过程中，文字字形的生成是关键，下面叙述中正确的是（A）<br>A.Windows中采用的字形描述方法是轮廓描述<br>B.Word可以显示和打印汉字是因为它配置了西文字库<br>C.Word配置的每一种字库都有相同数量的字形信息<br>D.字库是不同字体的所有字符的形状描述信息的集合</li></ol><p><font color=red face="楷体">tips：B应该是中文字库 C是不同数量 D是同一种字体</font><br>3. 下面有关我国汉字编码标准的叙述，正确的是（C）<br>A.Unicode是我国最新发布的也是收字最多的汉字编码国家标准<br>B.同一个汉字的不同造型（宋体、楷体等）在计算机中的内码不同<br>C.在GB18030汉字编码国家标准中，共有2万多个汉字<br>D.GB18030与GB2312和GBK汉字编码标准不兼容<br>4. 下面不属于文字符号输入的方法是（C）<br>A.联机手写识别输入 B.光学字符识别（OCR）<br>C.计算机合成语音 D.语音识别输入<br>5. 为了便于丰富格式文本能在不同的软件和系统中互换使用，一些公司联合提出了一些公用的中间格式，称为（C）<br>A.HTML格式 B.XSL格式 C.RTF格式 D.DOC格式<br><font color=red face="楷体">tips：Rich Text Format</font><br>6. 在使用GBK汉字编码标准的计算机中，中文标点付号“。”存储时占用（B）字节<br>A.1  B.2 C.3 D.4<br><font color=red face="楷体">tips：GBK采用双字节编码</font><br>7. 汉字的键盘输入方案数以百计，能被用户广泛接受的编码方案应该（C）<br>A.必须易学易记 B.可输入字数多 C.易学易记，效率要高 D.重码要少，效率要高<br>8. 文本展现过程首先是根据文本的编码在字库中查看该字符的（D），然后对其格式描述、属性描述等标记信息进行解释和变换，最后生成映像打印输出。<br>A.区位码 B.内部码 C.ASCII码 D.外部码</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下面属于GB18030特点的有（AB）<br>A.支持汉字数目最多 B.不定长编码 C.双字节编码 D.美国标准</li><li>多媒体信息处理的特点有（ABD）<br>A.集成化 B.多种信息的综合 C.有声音和图形 D.交互性</li></ol><p><font color=red face="楷体">tips：C选项表述的是多媒体信息的表现形式而非特点</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>每个西文字符通常用8个比特表示，每个汉字至少需要使用16个比特表示，而图像和声音需要更多的比特表示。（√）</li><li>GB2312构成一个二维平面，分成94行和94列，行号称为区号，列号称为位号。（√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>超文本中的超链接，其链宿有两种类型：一种是与链源所在文本不同的另外一个文本，另一种是链源所在文本内部有标记的某个地方，该标记通常称为（）。<br><del>书签</del></li><li>将文本转换为语音输出所使用的技术TTS，它的中文名称是（）。<br><del>文语转换</del></li><li>一架数码相机使用了金士顿高速存储卡，存储卡容量为16GB，它可以连续拍摄65536色的2048×2048的彩色相片8000张，由此可以推算出图像数据的压缩比是（）。<br><del>4：1</del></li><li>若需要通过网络传输一个未经压缩的彩色位图文件，该位图文件的图像分辨率1000×1000，颜色空间类型RGB，每个像素的每个颜色分量用8bits表示。若网络带宽2Mb&#x2F;s，则传输该图像文件至少需要（）秒钟时间。<br><del>11</del></li></ol><p><font color=red face="楷体">tips：1000×1000×24÷8÷1024÷1024约等于2.86MB<br>2.86MB×8÷2Mb&#x2F;s约等于11s</font></p>]]></content>
     
     
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
     
   </entry>
   
@@ -445,6 +618,31 @@
     
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>丰富格式文本的输出展现过程包含许多步骤，其中不包含（B）<br>A.对文本的格式描述进行解释<br>B.对字符和图表的映像进行压缩<br>C.传送到显示器或打印机输出<br>D.生成字符和图表的映像</li><li>【⭐】计算机处理汉字时，在输入、存储和显示阶段所用的编码分别是（D）<br>A.国标码、机内码、输出码 B.国标码、机内码、字形码<br>C.输入码、国标码、输出码 D.输入码、机内码、字形码</li><li>多媒体技术是（D）<br>A.一种图像和图形处理技术<br>B.文本和图形处理技术<br>C.超文本处理技术<br>D.计算机技术、电视技术和通信技术相结合的综合技术</li><li>下列字符编码标准中，既包含了汉字字符的编码，也包含了如英语、希腊字母等其他语言文字编码的国际标准是（B）<br>A.GB18030 B. UCS&#x2F;Unicode C.ASCII D.GBK</li><li>在Windows系统中，若两个纯文本文本分别包含100和200个英文字符，下面关于它们占用磁盘空间大小的说法中正确的是（C）<br>A.前者大于后者 B.后者大于前者 C.相等 D.不确定</li></ol><p><font color=red face="楷体">tips：以4KB为基本单位分配，两者存储在磁盘上占用的空间都是4KB</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于超文本中文本块的叙述正确的是（ACD）<br>A.文本块可以分布在不同的Web服务器中<br>B.文本块之间的关系是线性的<br>C.文本块之间由指针进行链接<br>D.文本块中的数据可以是文字、图形、图像、声音和视频</li><li>在利用拼音输入汉字时，有时虽正确输入拼音码却找不到所要的汉字，其原因可能是（）<br>A.计算机显示器不支持该汉字的显示<br>B.汉字显示程序不能正常工作<br>C.操作系统当前所支持的汉字字符集不含该汉字<br>D.汉字输入软件出错</li></ol><p><font color=red face="楷体">tips：字符的显示正确与否和显示器没关系，显示器仅仅是将显卡中的信息拿过来进行输出而已。</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>把UCS-2双字节编码转换为1、2、3或4字节可变长代码称为（）编码。<br><del>utf-8</del><br>tips：扩展固定概念</li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2.6随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/2.%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2.6%20%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E5%99%A8/2.6%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>硬盘是基于（A）的存储器。<br>A.电磁原理 B.光电原理 C.半导体器件 D.以上都不是 </li><li>【<font color=red face="楷体">本题过于老旧</font>】以下关于硬盘的说法中错误的是（B）<br>A.平均访问时间表示在硬盘上找到数据所在扇区所需要的平均时间<br>B.将数据暂存在主板的高速缓存中，可以提高<em>硬盘</em>与 CPU 交换数据的速度<br>C.当前流行的 IDE 硬盘一般采用 Ultra ATA 接口<br>D.IDE是指把控制电路与盘体集成在一起的硬盘驱动器，这样做使数据传输的可靠性得到了增强 </li><li>【⭐】某人计算机的硬盘容量为500G，内容容量为4G，则其虚拟存储器的最大空间有可能为 （C）<br>A.4G B.500G C.8G D.不受限制<br>tips：<font color=red face="楷体">操作系统默认设置虚拟内存文件的大小为物理内存的两倍。 </font></li><li>U盘或者SD存储卡处于写保护状态时，其中记录的信息（C）<br>A.绝对不会丢失<br>B.不能删除，但能追加新信息<br>C.不能通过写操作进行修改<br>D.不能以常规方式删除，但可以通过格式化命令擦除</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>硬盘中半径不同的两个磁道上所有扇区能存储的数据量相同。 （√）<br>tips：<font color=red face="楷体">每个扇区的容量一般为512B或4KB（容量超过2TB的硬盘），与扇区的面积无关。 </font></li><li>在一台已感染病毒的计算机上读取一张CD-ROM中的数据，该光盘也有可能被病毒感染。 （×）<br>tips：<font color=red face="楷体">CD-ROM无法写入，所以不会被感染。 </font></li><li>有些U盘的角上有一个小口，当滑动保护片将其盖住时，U盘就不能进行读写操作了。 （×）<br>tips：<font color=red face="楷体">这个小口是写保护口，开启后无法写入，但仍旧可以读取。</font></li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>【⭐】DVD驱动器在读取单片双层DVD光盘时，使用（）种不同的焦距。<br><del>2</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -459,6 +657,31 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>与计算机能合成图像一样,计算机也能合成(生成)声音,计算机合成的音乐其文件扩展名为（B）<br>A.WAV B.MID C.MP3 D.WMA</li><li>对同一幅照片采用以下格式存储时，占用存储空间最大的格式是（C）<br>A. .JPG B. .TIF C. .BMP D. .GIF</li><li>把图像(或声音)数据中超过人眼(耳)辨认能力的细节去掉的数据压缩方法属于（B）<br>A.无损数据压缩 B.有损数据压缩 C.LZW压缩 D.RLE压缩</li><li>为了区别于通常的取样图像，计算机合成图像也称为（C）<br>A.点阵图像 B.光栅图像 C.矢量图形 D.位图图像</li><li>图像处理软件有很多功能，以下不是通用图像处理软件的基本功能。（D）<br>A.图像的缩放显示 B.调整图像的亮度、对比度 C.在图片上制作文字，并与图像融为一体 D.设计制作石油开采地形图</li><li>利用计算机对拍摄多年的老照片进行处理以消除退化的影响,该应用属于图像处理技术中的（D）<br>A.图像压缩 B.图像分析 C.图像变换 D.图像复原与重建</li></ol><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于文件压缩的叙述，正确的有（ABCD）<br>A.无损压缩的图像还原后与原始图像完全相同<br>B.通常不同类型文件的压缩比率不同<br>C.文件压缩的逆过程称为解压缩<br>D.数据压缩的目的是为了便于存储和传输</li><li>下列属于数字图像应用的是（ABC）<br>A.可视电话 B.卫星遥感 C.医科CT片 D.绘制石油勘测圈</li></ol><p><font color=red face="楷体">tips：绘制石油勘测图属于计算机合成图形，也叫做矢量图形。ABC均属于数字图像（取样图像）</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>GIF 格式的图像是一种在因特网上大量使用的数字媒体，一幅真彩色图像可以转换成质量完全相同的GIF 格式的图像。（×）</li><li>由于数字图像的数据量很大，图像往往压缩后再存储。通常压缩比越低，重建的图像的质量越差；压缩比越高，图像的质量就越好。（×）</li></ol><p><font color=red face="楷体">tips：图像的质量由分辨率和色彩位数决定。</font><br>3. 在数码相机中存储器存储容量不变的前提下，拍摄图像时所设定的图像分辨率越高，则一次可拍接的数字相片的数量就越少。（√）<br>4. 图像的大小也称为图像的分辨率包括垂直分辨率和水平分辨率。若图像大小超过了屏幕分辨率或窗口，则屏幕上只显示出图像的一部分，其他多余部分将被截掉而无法看到。（×）<br>5. 在利用计算机生成图形的过程中，描述景物形状结构的过程称为“绘制”也叫图像合成。<br><font color=red face="楷体">tips：是建模</font></p>]]></content>
     
     
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>6.2随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.2%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B/6.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.2%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B/6.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>在关系数据库中，面向用户的数据视图对应的模式是（A）<br>A.局部模式 B.存储模式 C.全局模式 D.概念模式</li><li>以下所列关于关系特征的描述中,错误的是（C）<br>A.每个属性对应一个域，不同属性必须给出不同的属性名<br>B.关系中所有属性都是原子数据<br>C.关系中出现相同的元组是允许的<br>D.关系中元组的次序和属性的顺序都是可以交换的</li><li>ODBC是（A），用户可以直接将SQL语句送给ODBC。<br>A.一组对数据库访问的标准 B.数据库查询语言标准<br>C.数据库应用开发工具标准 D.数据库安全标准</li><li>下列关于关系数据模型的叙述错误的是（C）<br>A.关系中的每行称为一个元组，其顺序可以随意交换<br>B.关系中的每列称为一个属性，其顺序可以随意交换<br>C.主键用来唯一区分二维表中不同的列<br>D.主键可以由一个或多个属性组成</li><li>在通常情况下，技行SQL查询语句的结果是一个（B）<br>A.记录 B.表 C.元组 D.数据项</li><li>在数据库设计中，独立于计算机的硬件和DBMS软件设计阶段是（A）<br>A.概念设计 B.物理设计 C.逻辑设计 D.系统实施</li><li>近年来，计算机信息技术新技术、新应用蓬勃发展，以下不属于此类的是（C）<br>A.云计算 B.物联网 C.科学计算 D.3D打印</li><li>下列各项中，不属于关系数据库标准语音SQL特征的是（A）<br>A.过程语言<br>B.可嵌入宿主语言使用<br>C.作为用户与数据库的接口<br>D.非过程语言</li><li>以下关于 SQL语言的说法中,错误的是（A）<br>A.SQL的一个基本表就是一个数据库<br>B.SQL语言支持三级体系结构<br>C.一个基本表可以跨多个存储文件存放<br>D.SQL的一个二维表可以是基本表，也可以是视图</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>我国信息化水平快速提高，目前大致处于信息化的高级阶段。（×）</li><li>在关系数据模型中，对关系操作的结果也是关系。（√）</li></ol><p><font color=red face="楷体">tips：关系&#x3D;二维表</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>已知与教师表和部门表对应的关系模式分别是;教师(教师编号，姓名，部门编号)、部门(部门编号、部门名称、负责人）。若规定每位教师只能属于一个部门，则部门表和教师表之间的关系属于三种联系中（）联系，教师表相对于部门表的外部关键词是（）。<br><del>一对多</del><br><del>部门编号</del></li><li>分布式数据库系统是各个节点上局部DBMS的一种合作，但每个节点上必须增加的软件是（）。<br><del>分布式数据库管理系统（DDBMS）</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
     
   </entry>
   
@@ -472,83 +695,11 @@
     <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于位图与矢量图的叙述，正确的是（D）<br>A.相对于位图而言，矢量图占用的存储空间较大<br>B.位图放大后不会变模糊，矢量图放大后会变模糊<br>C.矢量图和位图不能相互转换<br>D.图像的分辨率是位图的一个重要指标，而矢量图与分辨率无关</li></ol><p><font color=red face="楷体">tips：A：相反 B：相反 C：矢量图可以转化成位图，但是位图不能转化成矢量图 D：矢量图在计算机中保存的是线条和图块的信息所以其文件与分辨率和图像大小无关，只和图像的复杂程度有关，图像文件所占的存储空间较小</font><br>2. 数字音像文件（视频文件）大多采用封包文件的格式，其中既有视频、音频，还可以有文字、图片等信息。下面4种文件中不属于音像文件的是（C）<br>A.RMVB B.MP4 C.MP3 D.MOV<br><font color=red face="楷体">tips：MP3只有音频无视频数据</font>、</p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>JPEG标准的升级版是JPEG 2000，它们的压缩编码所使用的算法相同，但JPEG 2000比JPEG的压缩倍数更大。（×）</li></ol><p><font color=red face="楷体">tips：JPEG使用哈夫曼算法，JPEG 2000使用小波分析算法</font></p>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>5.3课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于 WAV 文件和 MIDI 文件的叙述，错误的是（C）<br>A.通常WAV文件比MIDI文件可表示的音乐更丰富<br>B.存储同样的音乐文件，WAV文件比MIDI文件存储量大<br>C.在多媒体应用中，一般背景音乐用WAV文件，解说用MIDI文件<br>D.MIDI文件中记录的是乐谱</li><li>容量为4.7GB 的 DVD 光盘片可以持续播放2小时的影视节目，由此可推算出使用 MPEG-2 对视频及其伴音进行压缩编码后，音频和视频数据合在一起的码率大约是（C）<br>A.640kbps B.10.4Mbps C.5.2Mbps D.1Mbps</li></ol><p><font color=red face="楷体">tips：4.7×1024×8&#x3D;38502.4Mb<br>38502.4÷7200约等于5.34Mbps</font><br>3. 下列与数字化声音质量无关的是（D）<br>A.量化位数 B.压缩编码方法 C.声道数 D.取样时间<br>4. PC机声卡上的音乐合成器一般有（B）<br>A.复音、音轨 B.调频、波表 C.调频、音轨 D.复音、波表</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>声卡的主要功能有（ABD）<br>A.波形声音的获取与数字化 B.波形声音的重建与播放 C.声音文件的存储 D.MIDI声音的合成与播放</li></ol><p><font color=red face="楷体">tips：声卡的主要功能：音频的获取与编码、音频的重建与播放、MIDI消息的输入、MIDI音乐的合成。</font><br>2. MIDI是音乐与计算机相结合的产物，与波形声音相比，使用 MIDI 的原因是（BC）<br>A.MIDI音乐可以合成出所有的声音<br>B.MIDI音乐易于编辑修改，还可以与波形声音同时播放<br>C.MIDI文件是一系列指令，而不是波形，它需要的存储空间非常小<br>D.能够模仿乐器的各种演奏技巧，甚至能达到乐器无法演奏的效果<br>3. 下列关于合成声音的叙述中，正确的是（ABC）<br>A.计算机合成声音有两类它们分别为计算机合成语音和计算机合成音乐<br>B.通俗地说，计算机合成语音就是让计算机模仿人把一段文字读出来，这个过程称为文语转换<br>C.计算机合成语音广泛应用于电话信息查询、语音秘书、残疾人服务等多个方面<br>D.计算机合成语音，又称MIDI，主要由声卡来完成<br><font color=red face="楷体">tips：D“计算机合成语音”错误</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>语音信号的带宽远不如全频带声音，其取样频率低，数据量小，所以IP电话一般不需要进行数据压缩。（×）</li><li>波形声音的数码率也称为比特率，简称码率，它指的是每分钟的数据量。（×）</li></ol><p><font color=red face="楷体">tips：应该是每秒</font><br>3. MIDI音乐比CD少3个数量级，比 MP3 少2个数量级，又易于编辑修改，还可以与波形声音同时播放，因此在多媒体文档中得到了广泛的使用。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>经过数字化处理之后的数字波形声音，其主要参数有:取样频率、（）、声道数目、码率(bit rate)，以及采用的压缩编码方法等。<br><del>量化位数</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>5.3随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>MP3 是一种广泛使用的数字声音格式。下列关子 MP3 的叙述中，正确的是（B）<br>A.表达同一首乐曲时，MP3的数据量比 MIDI声音要少得多B.MP3声音的质量与CD唱片声音的质量大致相当<br>C.MP3声音适合在网上实时播放<br>D.同一首乐曲经过数字化后产生的MP3文件与WAV文件的大小基本相同</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>MP3与MIDI均是常用的数字声音，用它们表示同一首钢琴乐曲时，前者的数据量比后者的多。（√）</li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>5.4课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下对关于数字视频获取设备的叙述中，错误的是（B）<br>A.数字摄像机是一种离线的数字视频获取设备<br>B.数字摄像头需通过视频卡获取数字视频<br>C.数字摄像头通过光学镜头和CCD（或CMOS）器件采集图像，并形成数字图像<br>D.视频卡可以将输入的模拟视频信号进行数字化，生成数字视频</li></ol><p><font color=red face="楷体">tips：数字摄像头通过光学镜头、CCD器件采集图像，然后直接将图像转换成数字信号并输入到PC机（不需要视频采集卡进行A&#x2F;D转换）</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>可以用来播放 DVD 视频的媒体播放软件有（BCD）<br>A.ACDSee B.Media Player C.Real Player D.Storm Player</li></ol><p><font color=red face="楷体">tips：A是看图软件</font><br>2. 采用4K技术的电视机在市场上较为流行，下列有关4K技术的叙述，正确的是（BD）<br>A.4K技术一般采用MPEG-2视频编码<br>B.4K所表示的实际上是显示设备的画质<br>C.标准的分辨率在本地可达到2000×2000的画质<br>D.4K将会带来更细的显示细节，更逼真的纹理和更流畅的平滑度<br><font color=red face="楷体">tips：MPEG-2编码一般用于标清视频</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>视频采集卡能将输入的模拟视频信号进行数字化然后存储在硬盘中，这是PC机对视频信号数字化的唯一方式。（√）</li><li>视频信号的数字化比声音的数字化要复杂得多，每处理一帧画面都要花费若干秒。（×）</li><li>在 Windows 平台上使用的 AVI文件中存放的是未压缩的音视频数据。（×）</li></ol><p><font color=red face="楷体">tips：avi属于有损压缩。</font></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>5.4随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>彩色电视信号传输时，是把RGB三基色转换为亮度和色度信号YUV后再进行传输的。（√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>DVD影碟采用MPEG-2标准的视频图像，画面品质比VCD明显提高，其画面的长宽比有（）的普通屏幕方式和16：9的宽屏幕方式。<br><del>4：3</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>6.1课后练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>信息系统中讨论对象，操作系统、数据库以及数据库语言SQL中可用不同术语，例如在文件系统中的记录在关系模型中所对应的术语为（B）。<br>A.数据 B.元组 C.实体 D.对象</li><li>下列选项中，不属于CIMS（集成制造系统）的是（A）<br>A.CAI B.CAD C.CAM D.ERP</li><li>下列关于数字图书馆的描述中，错误的是（D）<br>A.它是一种拥有多种媒体、内容丰富的数字化信息资源<br>B.它是一种能为读者方便、快捷地提供信息的服务机制<br>C.它支持数字化数据、信息和知识的整个生命周期的全部活动<br>D.将现有图书馆的藏书全部数字化并加上<br>各类信息处理工具就实现了数字图书馆</li></ol><p><font color=red face="楷体">tips：D还需要具备信息检索和网络服务等功能。</font><br>4. 系统测试包括以下（D）三部分。<br>①过程测试 ②窗体测试 ③模块测试 ④系统测试 ⑤验收测试<br>A.①②③ B.②③④ C.②③⑤ D.③④⑤<br>5. 按照信息系统的定义，下面所列的应用中，不属于管理信息系统的是（D）<br>A.民航订票系统  B.银行信用卡支付系统 C.图书馆信息检索系统 D.计算机辅助设计系统<br>6. 在我国各部门所建立的信息系统中，目前普遍使用的数据库管理系统属于（B）<br>A.层次型 B.关系型 C.后关系型 D.面向对象型<br>7. 信息系统采用 B&#x2F;S 模式时，其“页面请求”和“页面响应”的“应答”发生在（A）之间。<br>A.浏览器和Web服务器 B.浏览器和数据库服务器<br>C.Web服务器和数据库服务器 D.任意两层<br>8. 下列关于信息系统的层次结构的叙述中，（）是不正确的。<br>A.信息系统一般按照逻辑结构可划分为表现层、应用逻辑层和数据逻辑层<br>B.传统的两层逻辑结构中，应用逻辑层和数据逻辑层几乎完全交错在一起<br>C.三层逻辑结构将信息系统按功能划分为:用户服务、商业服务和数据服务三个部分<br>D.三层逻辑结构具有易维护性、高可靠性等特点<br>9. 以下所列内容中，不是计算机信息系统的特征（D）<br>A.以提供信息服务为目的 B.数据密集型系统 C.人机交互系统 D.计算密集型系统<br>10. 下面所列各项中，不属于信息系统集成内容的是（A）<br>A.位置集成 B.数据集成 C.通信集成 D.应用集成<br>11. 在信息系统的C&#x2F;S模式数据库访问方式中，在客户机和数据库服务器之间的网络上传输的内容是（C）<br>A.SQL查询命令和所操作的二维表<br>B.SQL查询命令和所有二维表<br>C.SQL查询命令和查询结果表<br>D.应用程序和所操作的二维表</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于计算机信息系统的叙述中，正确的是（ABCD）<br>A.信息系统属于数据密集型应用，数据具有持久性<br>B.信息系统的数据可为多个应用程序所共享<br>C.信息系统是以提供信息服务为主要目的的应用系统<br>D.信息系统涉及的数据量大，必须存放在外存中</li><li>下列关于专家系统的叙述，正确的有（ABCD）<br>A.专家系统属于应用软件<br>B.专家系统的开发必须有领域专家的参与<br>C.专家系统是一种知识信息的加工处理系统<br>D.专家系统可模仿人类专家的思维活动，通过推理与判断来求解问题</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>传统电视&#x2F;广播系统是种典型的以信息交互为主要目的的系统。（×）</li></ol><p><font color=red face="楷体">tips：是单线的、点到面的信息系统，但不存在交互。</font><br>2. 在B&#x2F;S结构的信息系统中，客户端使用一个通用浏览器，用户的所有操作都是通过浏览器进行的。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>信息系统从规划开始，经过分析、设计、实现直到投入运行，并在使用过程中随其生存环境的变化而不断修改，直到不再适应需要的时候被淘汰，这一时间过程称为信息系统的（）。<br><del>生命周期</del></li><li>CAM是（），CAI是（）。<br><del>计算机辅助制造</del><br><del>计算机辅助教学</del></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>6.1随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
-    
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>信息系统设计各阶段的正确步骤是（D）<br>A.逻辑设计→概念结构设计→物理设计<br>B.物理设计→概念结构设计→逻辑设计<br>C.逻辑设计→物理设计→概念结构设计<br>D.概念结构设计→逻辑设计→物理设计</li><li>在信息系统的结构化生命周期开发方法中，具体的程序编写和调试属于（D）阶段的工作。<br>A.系统规划 B.系统分析 C.系统设计 D.系统实施</li><li>信息系统设计中的概念结构是（A）数据模型的信息结构。<br>A.独立于 B.依赖于 C.参照一种 D.参照多种</li><li>大型信息系统软件开发中常使用的两种基本方法是:软件生命周期法和原型法。在实际应用中，这两种方法之间的关系表现为（B）。<br>A.相互排斥 B.结合使用 C.必须以后者为主 D.必须以前者为主</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>信息系统的规划和实现过程是“自顶向下规划分析，自底向上设计实现”的过程。（√）</li></ol>]]></content>
-    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
@@ -563,18 +714,125 @@
     <content type="html"><![CDATA[<p>累死了不想写了</p>]]></content>
     
     
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
     
   </entry>
   
   
   
   <entry>
-    <title>6.2随堂练习</title>
-    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.2%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B/6.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
-    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.2%20%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B/6.2%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    <title>6.1课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>在关系数据库中，面向用户的数据视图对应的模式是（A）<br>A.局部模式 B.存储模式 C.全局模式 D.概念模式</li><li>以下所列关于关系特征的描述中,错误的是（C）<br>A.每个属性对应一个域，不同属性必须给出不同的属性名<br>B.关系中所有属性都是原子数据<br>C.关系中出现相同的元组是允许的<br>D.关系中元组的次序和属性的顺序都是可以交换的</li><li>ODBC是（A），用户可以直接将SQL语句送给ODBC。<br>A.一组对数据库访问的标准 B.数据库查询语言标准<br>C.数据库应用开发工具标准 D.数据库安全标准</li><li>下列关于关系数据模型的叙述错误的是（C）<br>A.关系中的每行称为一个元组，其顺序可以随意交换<br>B.关系中的每列称为一个属性，其顺序可以随意交换<br>C.主键用来唯一区分二维表中不同的列<br>D.主键可以由一个或多个属性组成</li><li>在通常情况下，技行SQL查询语句的结果是一个（B）<br>A.记录 B.表 C.元组 D.数据项</li><li>在数据库设计中，独立于计算机的硬件和DBMS软件设计阶段是（A）<br>A.概念设计 B.物理设计 C.逻辑设计 D.系统实施</li><li>近年来，计算机信息技术新技术、新应用蓬勃发展，以下不属于此类的是（C）<br>A.云计算 B.物联网 C.科学计算 D.3D打印</li><li>下列各项中，不属于关系数据库标准语音SQL特征的是（A）<br>A.过程语言<br>B.可嵌入宿主语言使用<br>C.作为用户与数据库的接口<br>D.非过程语言</li><li>以下关于 SQL语言的说法中,错误的是（A）<br>A.SQL的一个基本表就是一个数据库<br>B.SQL语言支持三级体系结构<br>C.一个基本表可以跨多个存储文件存放<br>D.SQL的一个二维表可以是基本表，也可以是视图</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>我国信息化水平快速提高，目前大致处于信息化的高级阶段。（×）</li><li>在关系数据模型中，对关系操作的结果也是关系。（√）</li></ol><p><font color=red face="楷体">tips：关系&#x3D;二维表</font></p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>已知与教师表和部门表对应的关系模式分别是;教师(教师编号，姓名，部门编号)、部门(部门编号、部门名称、负责人）。若规定每位教师只能属于一个部门，则部门表和教师表之间的关系属于三种联系中（）联系，教师表相对于部门表的外部关键词是（）。<br><del>一对多</del><br><del>部门编号</del></li><li>分布式数据库系统是各个节点上局部DBMS的一种合作，但每个节点上必须增加的软件是（）。<br><del>分布式数据库管理系统（DDBMS）</del></li></ol>]]></content>
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>信息系统中讨论对象，操作系统、数据库以及数据库语言SQL中可用不同术语，例如在文件系统中的记录在关系模型中所对应的术语为（B）。<br>A.数据 B.元组 C.实体 D.对象</li><li>下列选项中，不属于CIMS（集成制造系统）的是（A）<br>A.CAI B.CAD C.CAM D.ERP</li><li>下列关于数字图书馆的描述中，错误的是（D）<br>A.它是一种拥有多种媒体、内容丰富的数字化信息资源<br>B.它是一种能为读者方便、快捷地提供信息的服务机制<br>C.它支持数字化数据、信息和知识的整个生命周期的全部活动<br>D.将现有图书馆的藏书全部数字化并加上<br>各类信息处理工具就实现了数字图书馆</li></ol><p><font color=red face="楷体">tips：D还需要具备信息检索和网络服务等功能。</font><br>4. 系统测试包括以下（D）三部分。<br>①过程测试 ②窗体测试 ③模块测试 ④系统测试 ⑤验收测试<br>A.①②③ B.②③④ C.②③⑤ D.③④⑤<br>5. 按照信息系统的定义，下面所列的应用中，不属于管理信息系统的是（D）<br>A.民航订票系统  B.银行信用卡支付系统 C.图书馆信息检索系统 D.计算机辅助设计系统<br>6. 在我国各部门所建立的信息系统中，目前普遍使用的数据库管理系统属于（B）<br>A.层次型 B.关系型 C.后关系型 D.面向对象型<br>7. 信息系统采用 B&#x2F;S 模式时，其“页面请求”和“页面响应”的“应答”发生在（A）之间。<br>A.浏览器和Web服务器 B.浏览器和数据库服务器<br>C.Web服务器和数据库服务器 D.任意两层<br>8. 下列关于信息系统的层次结构的叙述中，（）是不正确的。<br>A.信息系统一般按照逻辑结构可划分为表现层、应用逻辑层和数据逻辑层<br>B.传统的两层逻辑结构中，应用逻辑层和数据逻辑层几乎完全交错在一起<br>C.三层逻辑结构将信息系统按功能划分为:用户服务、商业服务和数据服务三个部分<br>D.三层逻辑结构具有易维护性、高可靠性等特点<br>9. 以下所列内容中，不是计算机信息系统的特征（D）<br>A.以提供信息服务为目的 B.数据密集型系统 C.人机交互系统 D.计算密集型系统<br>10. 下面所列各项中，不属于信息系统集成内容的是（A）<br>A.位置集成 B.数据集成 C.通信集成 D.应用集成<br>11. 在信息系统的C&#x2F;S模式数据库访问方式中，在客户机和数据库服务器之间的网络上传输的内容是（C）<br>A.SQL查询命令和所操作的二维表<br>B.SQL查询命令和所有二维表<br>C.SQL查询命令和查询结果表<br>D.应用程序和所操作的二维表</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>下列关于计算机信息系统的叙述中，正确的是（ABCD）<br>A.信息系统属于数据密集型应用，数据具有持久性<br>B.信息系统的数据可为多个应用程序所共享<br>C.信息系统是以提供信息服务为主要目的的应用系统<br>D.信息系统涉及的数据量大，必须存放在外存中</li><li>下列关于专家系统的叙述，正确的有（ABCD）<br>A.专家系统属于应用软件<br>B.专家系统的开发必须有领域专家的参与<br>C.专家系统是一种知识信息的加工处理系统<br>D.专家系统可模仿人类专家的思维活动，通过推理与判断来求解问题</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>传统电视&#x2F;广播系统是种典型的以信息交互为主要目的的系统。（×）</li></ol><p><font color=red face="楷体">tips：是单线的、点到面的信息系统，但不存在交互。</font><br>2. 在B&#x2F;S结构的信息系统中，客户端使用一个通用浏览器，用户的所有操作都是通过浏览器进行的。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>信息系统从规划开始，经过分析、设计、实现直到投入运行，并在使用过程中随其生存环境的变化而不断修改，直到不再适应需要的时候被淘汰，这一时间过程称为信息系统的（）。<br><del>生命周期</del></li><li>CAM是（），CAI是（）。<br><del>计算机辅助制造</del><br><del>计算机辅助教学</del></li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>6.1随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/6.%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93/6.1%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/6.1%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>信息系统设计各阶段的正确步骤是（D）<br>A.逻辑设计→概念结构设计→物理设计<br>B.物理设计→概念结构设计→逻辑设计<br>C.逻辑设计→物理设计→概念结构设计<br>D.概念结构设计→逻辑设计→物理设计</li><li>在信息系统的结构化生命周期开发方法中，具体的程序编写和调试属于（D）阶段的工作。<br>A.系统规划 B.系统分析 C.系统设计 D.系统实施</li><li>信息系统设计中的概念结构是（A）数据模型的信息结构。<br>A.独立于 B.依赖于 C.参照一种 D.参照多种</li><li>大型信息系统软件开发中常使用的两种基本方法是:软件生命周期法和原型法。在实际应用中，这两种方法之间的关系表现为（B）。<br>A.相互排斥 B.结合使用 C.必须以后者为主 D.必须以前者为主</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>信息系统的规划和实现过程是“自顶向下规划分析，自底向上设计实现”的过程。（√）</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>5.3随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>MP3 是一种广泛使用的数字声音格式。下列关子 MP3 的叙述中，正确的是（B）<br>A.表达同一首乐曲时，MP3的数据量比 MIDI声音要少得多B.MP3声音的质量与CD唱片声音的质量大致相当<br>C.MP3声音适合在网上实时播放<br>D.同一首乐曲经过数字化后产生的MP3文件与WAV文件的大小基本相同</li></ol><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>MP3与MIDI均是常用的数字声音，用它们表示同一首钢琴乐曲时，前者的数据量比后者的多。（√）</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>5.4课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下对关于数字视频获取设备的叙述中，错误的是（B）<br>A.数字摄像机是一种离线的数字视频获取设备<br>B.数字摄像头需通过视频卡获取数字视频<br>C.数字摄像头通过光学镜头和CCD（或CMOS）器件采集图像，并形成数字图像<br>D.视频卡可以将输入的模拟视频信号进行数字化，生成数字视频</li></ol><p><font color=red face="楷体">tips：数字摄像头通过光学镜头、CCD器件采集图像，然后直接将图像转换成数字信号并输入到PC机（不需要视频采集卡进行A&#x2F;D转换）</font></p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>可以用来播放 DVD 视频的媒体播放软件有（BCD）<br>A.ACDSee B.Media Player C.Real Player D.Storm Player</li></ol><p><font color=red face="楷体">tips：A是看图软件</font><br>2. 采用4K技术的电视机在市场上较为流行，下列有关4K技术的叙述，正确的是（BD）<br>A.4K技术一般采用MPEG-2视频编码<br>B.4K所表示的实际上是显示设备的画质<br>C.标准的分辨率在本地可达到2000×2000的画质<br>D.4K将会带来更细的显示细节，更逼真的纹理和更流畅的平滑度<br><font color=red face="楷体">tips：MPEG-2编码一般用于标清视频</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>视频采集卡能将输入的模拟视频信号进行数字化然后存储在硬盘中，这是PC机对视频信号数字化的唯一方式。（√）</li><li>视频信号的数字化比声音的数字化要复杂得多，每处理一帧画面都要花费若干秒。（×）</li><li>在 Windows 平台上使用的 AVI文件中存放的是未压缩的音视频数据。（×）</li></ol><p><font color=red face="楷体">tips：avi属于有损压缩。</font></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>5.3课后练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%20%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol><li>下列关于 WAV 文件和 MIDI 文件的叙述，错误的是（C）<br>A.通常WAV文件比MIDI文件可表示的音乐更丰富<br>B.存储同样的音乐文件，WAV文件比MIDI文件存储量大<br>C.在多媒体应用中，一般背景音乐用WAV文件，解说用MIDI文件<br>D.MIDI文件中记录的是乐谱</li><li>容量为4.7GB 的 DVD 光盘片可以持续播放2小时的影视节目，由此可推算出使用 MPEG-2 对视频及其伴音进行压缩编码后，音频和视频数据合在一起的码率大约是（C）<br>A.640kbps B.10.4Mbps C.5.2Mbps D.1Mbps</li></ol><p><font color=red face="楷体">tips：4.7×1024×8&#x3D;38502.4Mb<br>38502.4÷7200约等于5.34Mbps</font><br>3. 下列与数字化声音质量无关的是（D）<br>A.量化位数 B.压缩编码方法 C.声道数 D.取样时间<br>4. PC机声卡上的音乐合成器一般有（B）<br>A.复音、音轨 B.调频、波表 C.调频、音轨 D.复音、波表</p><h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol><li>声卡的主要功能有（ABD）<br>A.波形声音的获取与数字化 B.波形声音的重建与播放 C.声音文件的存储 D.MIDI声音的合成与播放</li></ol><p><font color=red face="楷体">tips：声卡的主要功能：音频的获取与编码、音频的重建与播放、MIDI消息的输入、MIDI音乐的合成。</font><br>2. MIDI是音乐与计算机相结合的产物，与波形声音相比，使用 MIDI 的原因是（BC）<br>A.MIDI音乐可以合成出所有的声音<br>B.MIDI音乐易于编辑修改，还可以与波形声音同时播放<br>C.MIDI文件是一系列指令，而不是波形，它需要的存储空间非常小<br>D.能够模仿乐器的各种演奏技巧，甚至能达到乐器无法演奏的效果<br>3. 下列关于合成声音的叙述中，正确的是（ABC）<br>A.计算机合成声音有两类它们分别为计算机合成语音和计算机合成音乐<br>B.通俗地说，计算机合成语音就是让计算机模仿人把一段文字读出来，这个过程称为文语转换<br>C.计算机合成语音广泛应用于电话信息查询、语音秘书、残疾人服务等多个方面<br>D.计算机合成语音，又称MIDI，主要由声卡来完成<br><font color=red face="楷体">tips：D“计算机合成语音”错误</font></p><h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>语音信号的带宽远不如全频带声音，其取样频率低，数据量小，所以IP电话一般不需要进行数据压缩。（×）</li><li>波形声音的数码率也称为比特率，简称码率，它指的是每分钟的数据量。（×）</li></ol><p><font color=red face="楷体">tips：应该是每秒</font><br>3. MIDI音乐比CD少3个数量级，比 MP3 少2个数量级，又易于编辑修改，还可以与波形声音同时播放，因此在多媒体文档中得到了广泛的使用。（√）</p><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>经过数字化处理之后的数字波形声音，其主要参数有:取样频率、（）、声道数目、码率(bit rate)，以及采用的压缩编码方法等。<br><del>量化位数</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>5.4随堂练习</title>
+    <link href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/"/>
+    <url>/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/5.%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%95%B0%E5%AD%97%E5%AA%92%E4%BD%93%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%20%E6%95%B0%E5%AD%97%E8%A7%86%E9%A2%91%E5%8F%8A%E5%BA%94%E7%94%A8/5.4%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol><li>彩色电视信号传输时，是把RGB三基色转换为亮度和色度信号YUV后再进行传输的。（√）</li></ol><h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol><li>DVD影碟采用MPEG-2标准的视频图像，画面品质比VCD明显提高，其画面的长宽比有（）的普通屏幕方式和16：9的宽屏幕方式。<br><del>4：3</del></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>计算机基础错题</category>
+      
+    </categories>
     
     
   </entry>
