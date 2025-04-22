@@ -1,0 +1,639 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
+  <link rel="icon" href="/img/fluid.png">
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="AkashiLove">
+  <meta name="keywords" content="Akashi,Love">
+  
+    <meta name="description" content="【单选】 以下关于高级程序设计语言中的数据成分的说法中，错误的是（D）A.数据名词用标识符来命名B.数组是一组相同类型数据元素有序集合C.指针变量中存放的是某个 数据对象的地址D.程序员不能自己定义新的数据类型 （C语言中可用typedef关键字定义新的数据类型）  【⭐】下列不属于算法评价指标的是（C）A.正确性 B.可读性 C.算法执行所有操作所需的时间 D.算法执行所占用的存储空间（与空间复">
+<meta property="og:type" content="article">
+<meta property="og:title" content="3.3课后练习">
+<meta property="og:url" content="https://akashilove.github.io/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/index.html">
+<meta property="og:site_name" content="Akashi Love">
+<meta property="og:description" content="【单选】 以下关于高级程序设计语言中的数据成分的说法中，错误的是（D）A.数据名词用标识符来命名B.数组是一组相同类型数据元素有序集合C.指针变量中存放的是某个 数据对象的地址D.程序员不能自己定义新的数据类型 （C语言中可用typedef关键字定义新的数据类型）  【⭐】下列不属于算法评价指标的是（C）A.正确性 B.可读性 C.算法执行所有操作所需的时间 D.算法执行所占用的存储空间（与空间复">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-04-22T12:52:00.000Z">
+<meta property="article:modified_time" content="2025-04-22T13:14:12.404Z">
+<meta property="article:author" content="AkashiLove">
+<meta property="article:tag" content="Akashi,Love">
+<meta name="twitter:card" content="summary_large_image">
+  
+  
+  
+  <title>3.3课后练习 - Akashi Love</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1749284_5i9bdhy70f8.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/c/font_1736178_k526ubmyhba.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"akashilove.github.io","root":"/","version":"1.9.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false},"umami":{"src":null,"website_id":null,"domains":null,"start_time":"2024-01-01T00:00:00.000Z","token":null,"api_server":null}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+
+  
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>AkashiLove</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="3.3课后练习"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2025-04-22 20:52" pubdate>
+          2025年4月22日 晚上
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          1.5k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          13 分钟
+        
+      </span>
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">3.3课后练习</h1>
+            
+            
+              <div class="markdown-body">
+                
+                <h4 id="【单选】"><a href="#【单选】" class="headerlink" title="【单选】"></a>【单选】</h4><ol>
+<li>以下关于高级程序设计语言中的数据成分的说法中，错误的是（D）<br>A.数据名词用标识符来命名<br>B.数组是一组相同类型数据元素有序集合<br>C.指针变量中存放的是某个 数据对象的地址<br>D.程序员不能自己定义新的数据类型 （<font color=red face="楷体">C语言中可用typedef关键字定义新的数据类型</font>） </li>
+<li>【⭐】下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需的时间 D.算法执行所占用的存储空间（<font color=red face="楷体">与空间复杂度有关</font>） </li>
+<li>【⭐】Pascal是在（B）基础上发展起来的程序设计语言。<br>A.Java B.Alogol C.Delphi D.Fortran </li>
+<li>下列有关数据结构的描述中，错误的是（D）<br>A.数据的逻辑结构反映数据元素之间的逻辑关系<br>B.树和线性表都是典型的数据结构<br>C.数据的存储结构是数据逻辑结构在计算机存储器上的实现<br>D.数据结构不包含数据的运算</li>
+</ol>
+<p><font color=red face="楷体">tips：数据结构研究的方面：物理结构+逻辑结构+数据的运算 </font><br>5. 下列关于程序设计语言的叙述，错误的是（B）<br>A.高级语言程序有解释与编译两种执行方式<br>B.用于辅助编写<font color=red face="楷体">汇编语言程序</font>的编辑软件称为汇编语言 （红字<font color=red face="楷体">是汇编语言源程序的别称</font>）<br>C.机器语言与计算机硬件关系密切，用它编写的程序可移植性较差<br>D.机器语言和汇编语言都属于低级语言<br>6. 【⭐】在计算机中为景物建模的方法有多种，它与景物的类型有密切关系，例如对树木.花草.烟火 .毛发等，需找出它们的生成规律，并使用相应的算法来描述其形状的规律，这种模型称为（D）<br>A.线框模型 B.曲面模型 C.实体模型 D.过程模型<br>7. 【⭐】空间复杂度是算法所需存储空间大小的度量，以下叙述中正确的（A）<br>A.它和求解问题的规模关系密切 （<font color=red face="楷体">记A这句话</font>）<br>B.它反映了求解问题所需的时间多少<br>C.不同的算法解决同一问题的空间复杂度通常相同<br>D.它与求解该问题所需处理时间成正比<br>8. 下列叙述中正确的是（B）<br>A.算法的时间复杂度与计算机的运行速度有关<br>B.算法的时间复杂度与运行算法时特定的输入有关<br>C.算法的时间复杂度与算法程序中的语句条数成正比<br>D.算法的时间复杂度与算法程序编制者的水平有关<br>9. 下列不属于算法评价指标的是（C）<br>A.正确性 B.可读性 C.算法执行所有操作所需要的时间 D.算法执行所占用的存储空间<br>10. 为了方便人们记忆、阅读和编程。把机器语言进行符号化，相应的语言称为（D）。<br>A.源程序 B.数据库系统 C.高级语言 D.汇编语言<br>11. （D）是一种客户端脚本语言，它采用解释方式在计算机上执行。<br>A.Python B.Java C.PHP D.Javascript</p>
+<h4 id="【多选】"><a href="#【多选】" class="headerlink" title="【多选】"></a>【多选】</h4><ol>
+<li>下列关于计算机算法的叙述中正确的是（AC）<br>A.算法与程序不同，它是问题求解规则的一种过程描述，总在执行有穷步的运算后终止<br>B.算法的设计一般采用由细到粗、由具体到抽象的逐步求解的方法<br>C.算法的每一个运算必须有确切的定义，即每一个运算应该执行何种操作必须是清楚明确的，无二 义性<br>D.分析一个算法好坏，要考虑其占用的计算机资源（如时间和空间）、算法是否易理解调试和测试</li>
+</ol>
+<p><font color=red face="楷体">tips：D选项，前者“其占用的计算机资源”过于笼统，后者主观 </font><br>2. 下列叙述中错误的是（BCD）<br>A.数据的存储结构会影响算法的效率<br>B.算法设计只需考虑结果的可靠性<br>C.算法复杂度是指算法控制结构的复杂程度<br>D.算法复杂度是用算法中指令的条数来度量的<br>3. 下列属于面向对象高级程序设计语言的有（BCD）<br>A.C B.C++ C.C# D.Java</p>
+<h4 id="【判断】"><a href="#【判断】" class="headerlink" title="【判断】"></a>【判断】</h4><ol>
+<li>对n个元素进行排序时，某算法需要执行2n次运算，则这个算法的时间代价是O（n）。 （√）</li>
+</ol>
+<p><font color=red face="楷体">tips：对n个元素进行排序的算法需要执行2n次运算。时间代价的大O表示法是一种衡量算法时间复杂度的方法，用来预估算法的运行时间。具体而言，在大O表示法中，常数项和低次项通常被忽略不计。因此，对于这个算法的时间复杂度，可以用大O表示法表示为O(n)。如果元素数量n增加一倍，那么算法的执行次数也会增加一倍。因此，该算法的时间代价与输入元素数量n成线性关系，时间复杂度为O(n)。 </font><br>2. 高级语言源程序编译处理产生可执行程序保存在磁盘，供多次运行。 （√）<br>3. 高级语言解释程序能将高级语言源程序转换为目标程序。 （×）<br><font color=red face="楷体">tips：抄完才发现没看到是解释程序 &#x3D; &#x3D;</font></p>
+<h4 id="【填空】"><a href="#【填空】" class="headerlink" title="【填空】"></a>【填空】</h4><ol>
+<li>【⭐】算法的时间复杂度是关于（）的函数。<br><del>输入规模</del></li>
+<li>语言处理系统中装入程序的作用是（）。<br><del>将可执行程序从外部存储器读入内存</del></li>
+</ol>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>3.3课后练习</div>
+      <div>https://akashilove.github.io/2025/04/22/计算机基础错题集/3.第三章 计算机软件/3.3 算法与程序设计语言/3.3课后练习/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>AkashiLove</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2025年4月22日</div>
+        </div>
+      
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-cc-by"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.2%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/3.2%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0/" title="3.2课后练习">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">3.2课后练习</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/2025/04/22/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E9%94%99%E9%A2%98%E9%9B%86/3.%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6/3.3%20%E7%AE%97%E6%B3%95%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/3.3%E9%9A%8F%E5%A0%82%E7%BB%83%E4%B9%A0/" title="3.3随堂练习">
+                        <span class="hidden-mobile">3.3随堂练习</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/5.0.0/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
