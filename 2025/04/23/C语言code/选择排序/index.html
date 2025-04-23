@@ -19,15 +19,15 @@
   <meta name="author" content="AkashiLove">
   <meta name="keywords" content="Akashi,Love">
   
-    <meta name="description" content="#include&lt;stdio.h&gt;int main(){    int data[]&#x3D;{26,54,93,17,71,31,44,55,20};    int n&#x3D;9;    int i,j,temp;    int min&#x3D;0;    for (i&#x3D;0;i&lt;n-1;i++)    {        min&#x3D;i;        f">
+    <meta name="description" content="#include&lt;stdio.h&gt; int main() &#123;     int data[]&#x3D;&#123;26,54,93,17,71,31,44,55,20&#125;;     int n&#x3D;9;     int i,j,temp;     int min&#x3D;0;     for (i&#x3D;0;i&lt;n-1;i++)     &#123;         min&#x3D;i;">
 <meta property="og:type" content="article">
 <meta property="og:title" content="选择排序">
 <meta property="og:url" content="https://kaiyko33.github.io/2025/04/23/C%E8%AF%AD%E8%A8%80code/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/index.html">
 <meta property="og:site_name" content="Akashi Love">
-<meta property="og:description" content="#include&lt;stdio.h&gt;int main(){    int data[]&#x3D;{26,54,93,17,71,31,44,55,20};    int n&#x3D;9;    int i,j,temp;    int min&#x3D;0;    for (i&#x3D;0;i&lt;n-1;i++)    {        min&#x3D;i;        f">
+<meta property="og:description" content="#include&lt;stdio.h&gt; int main() &#123;     int data[]&#x3D;&#123;26,54,93,17,71,31,44,55,20&#125;;     int n&#x3D;9;     int i,j,temp;     int min&#x3D;0;     for (i&#x3D;0;i&lt;n-1;i++)     &#123;         min&#x3D;i;">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-04-23T14:31:52.225Z">
-<meta property="article:modified_time" content="2025-04-23T14:34:14.879Z">
+<meta property="article:modified_time" content="2025-04-23T14:36:43.943Z">
 <meta property="article:author" content="AkashiLove">
 <meta property="article:tag" content="数组">
 <meta property="article:tag" content="算法">
@@ -224,7 +224,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          81 字
+          80 字
         
       </span>
     
@@ -277,7 +277,29 @@
             
               <div class="markdown-body">
                 
-                <p>#include&lt;stdio.h&gt;<br>int main()<br>{<br>    int data[]&#x3D;{26,54,93,17,71,31,44,55,20};<br>    int n&#x3D;9;<br>    int i,j,temp;<br>    int min&#x3D;0;<br>    for (i&#x3D;0;i&lt;n-1;i++)<br>    {<br>        min&#x3D;i;<br>        for (j&#x3D;i+1;j&lt;n;j++)<br>        {<br>            if (data[min]&gt;data[j])<br>                min&#x3D;j;<br>        }<br>        temp&#x3D;data[min];<br>        data[min]&#x3D;data[i];<br>        data[i]&#x3D;temp;<br>    }<br>    for (i&#x3D;0;i&lt;n;i++)<br>        printf(“%d “,data[i]);<br>}</p>
+                <pre><code class="language-c">#include&lt;stdio.h&gt;
+int main()
+&#123;
+    int data[]=&#123;26,54,93,17,71,31,44,55,20&#125;;
+    int n=9;
+    int i,j,temp;
+    int min=0;
+    for (i=0;i&lt;n-1;i++)
+    &#123;
+        min=i;
+        for (j=i+1;j&lt;n;j++)
+        &#123;
+            if (data[min]&gt;data[j])
+                min=j;
+        &#125;
+        temp=data[min];
+        data[min]=data[i];
+        data[i]=temp;
+    &#125;
+    for (i=0;i&lt;n;i++)
+        printf(&quot;%d &quot;,data[i]);
+&#125;
+</code></pre>
 
                 
               </div>

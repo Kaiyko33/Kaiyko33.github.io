@@ -19,15 +19,15 @@
   <meta name="author" content="AkashiLove">
   <meta name="keywords" content="Akashi,Love">
   
-    <meta name="description" content="#include&lt;stdio.h&gt;int main(){    int a[10]&#x3D;{1,4,42,56,82,12,18,50,23,62};    int i,j,temp;        printf(“\n排序前的数组是：”);    for (i&#x3D;0;i&lt;10;i++)        printf(“%d “,a[i]);    for (i&amp;#x3">
+    <meta name="description" content="#include&lt;stdio.h&gt; int main() &#123;     int a[10]&#x3D;&#123;1,4,42,56,82,12,18,50,23,62&#125;;     int i,j,temp;         printf(&quot;\n排序前的数组是：&quot;);     for (i&#x3D;0;i&lt;10;i++)         printf(&amp;quo">
 <meta property="og:type" content="article">
 <meta property="og:title" content="一维数组冒泡排序">
 <meta property="og:url" content="https://kaiyko33.github.io/2025/04/23/C%E8%AF%AD%E8%A8%80code/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/index.html">
 <meta property="og:site_name" content="Akashi Love">
-<meta property="og:description" content="#include&lt;stdio.h&gt;int main(){    int a[10]&#x3D;{1,4,42,56,82,12,18,50,23,62};    int i,j,temp;        printf(“\n排序前的数组是：”);    for (i&#x3D;0;i&lt;10;i++)        printf(“%d “,a[i]);    for (i&amp;#x3">
+<meta property="og:description" content="#include&lt;stdio.h&gt; int main() &#123;     int a[10]&#x3D;&#123;1,4,42,56,82,12,18,50,23,62&#125;;     int i,j,temp;         printf(&quot;\n排序前的数组是：&quot;);     for (i&#x3D;0;i&lt;10;i++)         printf(&amp;quo">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-04-23T14:30:03.968Z">
-<meta property="article:modified_time" content="2025-04-23T14:34:01.066Z">
+<meta property="article:modified_time" content="2025-04-23T14:36:33.434Z">
 <meta property="article:author" content="AkashiLove">
 <meta property="article:tag" content="数组">
 <meta property="article:tag" content="算法">
@@ -224,7 +224,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          104 字
+          110 字
         
       </span>
     
@@ -277,7 +277,27 @@
             
               <div class="markdown-body">
                 
-                <p>#include&lt;stdio.h&gt;<br>int main()<br>{<br>    int a[10]&#x3D;{1,4,42,56,82,12,18,50,23,62};<br>    int i,j,temp;<br>        printf(“\n排序前的数组是：”);<br>    for (i&#x3D;0;i&lt;10;i++)<br>        printf(“%d “,a[i]);<br>    for (i&#x3D;0;i&lt;10;i++)<br>        for (j&#x3D;0;j&lt;10-i-1;j++)<br>            if (a[j]&lt;a[j+1])<br>            {<br>                temp&#x3D;a[j];<br>                a[j]&#x3D;a[j+1];<br>                a[j+1]&#x3D;temp;<br>            }<br>    printf(“\n排序后的数组是：”);<br>    for (i&#x3D;0;i&lt;10;i++)<br>        printf(“%d “,a[i]);<br>}</p>
+                <pre><code class="language-c">#include&lt;stdio.h&gt;
+int main()
+&#123;
+    int a[10]=&#123;1,4,42,56,82,12,18,50,23,62&#125;;
+    int i,j,temp;
+        printf(&quot;\n排序前的数组是：&quot;);
+    for (i=0;i&lt;10;i++)
+        printf(&quot;%d &quot;,a[i]);
+    for (i=0;i&lt;10;i++)
+        for (j=0;j&lt;10-i-1;j++)
+            if (a[j]&lt;a[j+1])
+            &#123;
+                temp=a[j];
+                a[j]=a[j+1];
+                a[j+1]=temp;
+            &#125;
+    printf(&quot;\n排序后的数组是：&quot;);
+    for (i=0;i&lt;10;i++)
+        printf(&quot;%d &quot;,a[i]);
+&#125;
+</code></pre>
 
                 
               </div>

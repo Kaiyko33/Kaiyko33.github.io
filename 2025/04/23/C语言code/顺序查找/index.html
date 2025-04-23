@@ -19,15 +19,15 @@
   <meta name="author" content="AkashiLove">
   <meta name="keywords" content="Akashi,Love">
   
-    <meta name="description" content="#include&lt;stdio.h&gt;int main(){    int term[10]&#x3D;{2,3,5,8,13,21,34,55,16,28};    int x,i,flag&#x3D;0;    printf(“请输入要查找的数字：”);    scanf(“%d”,&amp;x);    for (i&#x3D;0;i&lt;10;i++)    {        i">
+    <meta name="description" content="#include&lt;stdio.h&gt; int main() &#123;     int term[10]&#x3D;&#123;2,3,5,8,13,21,34,55,16,28&#125;;     int x,i,flag&#x3D;0;     printf(&quot;请输入要查找的数字：&quot;);     scanf(&quot;%d&quot;,&amp;x);     for (i&#x3D;0">
 <meta property="og:type" content="article">
 <meta property="og:title" content="顺序查找">
 <meta property="og:url" content="https://kaiyko33.github.io/2025/04/23/C%E8%AF%AD%E8%A8%80code/%E9%A1%BA%E5%BA%8F%E6%9F%A5%E6%89%BE/index.html">
 <meta property="og:site_name" content="Akashi Love">
-<meta property="og:description" content="#include&lt;stdio.h&gt;int main(){    int term[10]&#x3D;{2,3,5,8,13,21,34,55,16,28};    int x,i,flag&#x3D;0;    printf(“请输入要查找的数字：”);    scanf(“%d”,&amp;x);    for (i&#x3D;0;i&lt;10;i++)    {        i">
+<meta property="og:description" content="#include&lt;stdio.h&gt; int main() &#123;     int term[10]&#x3D;&#123;2,3,5,8,13,21,34,55,16,28&#125;;     int x,i,flag&#x3D;0;     printf(&quot;请输入要查找的数字：&quot;);     scanf(&quot;%d&quot;,&amp;x);     for (i&#x3D;0">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-04-23T14:32:06.870Z">
-<meta property="article:modified_time" content="2025-04-23T14:34:23.321Z">
+<meta property="article:modified_time" content="2025-04-23T14:36:50.082Z">
 <meta property="article:author" content="AkashiLove">
 <meta property="article:tag" content="数组">
 <meta property="article:tag" content="算法">
@@ -224,7 +224,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          75 字
+          83 字
         
       </span>
     
@@ -277,8 +277,28 @@
             
               <div class="markdown-body">
                 
-                <p>#include&lt;stdio.h&gt;<br>int main()<br>{<br>    int term[10]&#x3D;{2,3,5,8,13,21,34,55,16,28};<br>    int x,i,flag&#x3D;0;<br>    printf(“请输入要查找的数字：”);<br>    scanf(“%d”,&amp;x);<br>    for (i&#x3D;0;i&lt;10;i++)<br>    {<br>        if (x&#x3D;&#x3D;term[i])<br>        {<br>            flag&#x3D;1;<br>            break;<br>        }<br>    }<br>    if (flag&#x3D;&#x3D;1)<br>        printf(“%d在数组中是term[%d]\n”,x,i);<br>    else<br>        printf(“not found\n”);</p>
-<p>}</p>
+                <pre><code class="language-c">#include&lt;stdio.h&gt;
+int main()
+&#123;
+    int term[10]=&#123;2,3,5,8,13,21,34,55,16,28&#125;;
+    int x,i,flag=0;
+    printf(&quot;请输入要查找的数字：&quot;);
+    scanf(&quot;%d&quot;,&amp;x);
+    for (i=0;i&lt;10;i++)
+    &#123;
+        if (x==term[i])
+        &#123;
+            flag=1;
+            break;
+        &#125;
+    &#125;
+    if (flag==1)
+        printf(&quot;%d在数组中是term[%d]\n&quot;,x,i);
+    else 
+        printf(&quot;not found\n&quot;);
+
+&#125;
+</code></pre>
 
                 
               </div>
