@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>生成随机数组</title>
+    <link href="/2025/09/01/C%E8%AF%AD%E8%A8%80code/%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%BB%84/"/>
+    <url>/2025/09/01/C%E8%AF%AD%E8%A8%80code/%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%BB%84/</url>
+    
+    <content type="html"><![CDATA[<pre><code class="language-c">#include&lt;stdio.h&gt;#include&lt;stdlib.h&gt;#include&lt;time.h&gt;void RandomArray(int arr[],int len)&#123;    for (int i=0;i&lt;len;i++)    &#123;        arr[i]=rand()%100;        printf(&quot;%d &quot;,arr[i]);    &#125;    printf(&quot;\n&quot;);&#125;int main()&#123;    int arr[10];    int len=sizeof(arr)/sizeof(arr[0]);    srand((unsigned)time(NULL));    RandomArray(arr,len);&#125;</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>C语言</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>数组</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>C语言第八章编程题</title>
     <link href="/2025/05/10/C%E8%AF%AD%E8%A8%80code/%E7%AC%AC%E5%85%AB%E7%AB%A0%E7%BC%96%E7%A8%8B%E9%A2%98/"/>
     <url>/2025/05/10/C%E8%AF%AD%E8%A8%80code/%E7%AC%AC%E5%85%AB%E7%AB%A0%E7%BC%96%E7%A8%8B%E9%A2%98/</url>
