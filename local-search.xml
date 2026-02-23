@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>2026-2-12英语作文</title>
+    <link href="/2026/02/23/%E8%8B%B1%E8%AF%AD/2026-2-12%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87/"/>
+    <url>/2026/02/23/%E8%8B%B1%E8%AF%AD/2026-2-12%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87/</url>
+    
+    <content type="html"><![CDATA[<ol><li><p>When it comes to self-discipline among young people today, the current situation <strong>leaves much to be desired</strong>, as many are easily distracted instant gratification and lack the perseverance to pursue long-term goals.</p></li><li><p>What calls for special attention is that … is a universal phenomenon.</p></li><li><p>It can be said with certainty that + 句子.</p></li><li><p><strong>Nowadays, what calls for special attention is that the young generation is increasingly glued to screens. This has become a universal phenomenon, leaving people pondering its immediate and potential drawbacks.</strong></p></li><li><p>We have good reason to say that …</p></li><li><p>Let’s take … (example) to illustrate this. </p></li><li><p>Many ways can contribute to solving this problem, but the following ones may be most effective.</p></li><li><p>The … problem that we are confronted with is growing increasingly severe, which calls for immediate and effective measures.</p></li><li><p>Nowadays, an increasing number of people, especially young people, are living unhealthy lifestyles. This has become a universal phenomenon, prompting us to think about its negative effects.</p><p>The most typical behaviors as follows are clear embodiments of unhealthy lifestyles. To begin with, some people are always glued to their phone screens and rarely engage in outdoor sports. The lack of regular exercise and sunlight exposure can take a serious toll on their health. In addition, A preference for fast food over nutritious, home-cooked meals can contribute to an unhealthy diet and subsequent health problems. Lastly, the prevalence of staying up late among young people poses a significant threat to their long-term well-being.</p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>英语</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>英语</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>生成随机数组</title>
     <link href="/2025/09/01/C%E8%AF%AD%E8%A8%80code/%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%BB%84/"/>
     <url>/2025/09/01/C%E8%AF%AD%E8%A8%80code/%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%BB%84/</url>
@@ -45,9 +70,9 @@
     
     <tags>
       
-      <tag>编程题</tag>
-      
       <tag>指针</tag>
+      
+      <tag>编程题</tag>
       
     </tags>
     
@@ -1474,19 +1499,6 @@
       <tag>计算机基础</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2025/04/21/hello-world/"/>
-    <url>/2025/04/21/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>aaa</p>]]></content>
-    
-    
     
   </entry>
   
